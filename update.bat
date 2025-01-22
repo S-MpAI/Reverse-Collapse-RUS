@@ -1,3 +1,4 @@
+chcp 65001 >nul
 @echo off
 echo Сбрасываю все изменения...
 git reset --hard
