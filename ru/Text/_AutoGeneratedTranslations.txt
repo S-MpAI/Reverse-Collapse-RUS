@@ -259,7 +259,7 @@ AP can be used to move, attack, sneak, synthesize, and use items. Allocate AP to
 AP decreased.=AP снизилось.
 AP+{{A}}=AP+{{A}}
 AP-{{A}}=AP-{{A}}
-AP Cost=Стоимость AP
+AP Cost=<size\=17>Стоимость AP</size>
 ASVR=ASVR
 AT-{{A}}=AT-{{A}}
 AT-{{A}}U=AT-{{A}}U
@@ -792,7 +792,7 @@ Bandit=Бандит
 Banned=Запрещен
 Banned Items are items that cannot be used in upcoming battles.=Запрещенные предметы - это предметы, которые нельзя использовать в предстоящих сражениях.
 Barbed Wire Barricade=Колючая проволочная баррикада
-Barbed Wire Barricade=Колючая проволочная баррикада
+Barbed Wire Barricade=<size\=32>Колючая проволочная баррикада</size>
 Bard=Бард
 Barley=Ячмень
 Barracks=Казармы
@@ -4145,7 +4145,7 @@ Materials=Материалы
 Materials Required=Материалы требуются
 Materials cannot be placed in the Storage=Материалы не могут быть помещены в хранение
 Material Acquisition=Материал
-Material Backpack=Найденые
+Material Backpack=Рюкзак материалов
 Material Shuttle=Материал Шаттл
 Matteus=Маттеус
 Mausoleum=Мавзолей
@@ -8490,7 +8490,7 @@ Uh... Right.=Эээ ... верно.
 Tsk, since the material shuttle is now functional, we can sneak into the URNC base and gather some supplies.=Поскольку шаттл с материалами теперь работает, мы можем проникнуть на базу URNC и собрать кое-какие припасы.
 That won't be necessary. We must cross the bridge as soon as possible.=Это не будет необходимо. Мы должны пересечь мост как можно скорее.
 You seem awfully anxious about catching up with TASA.=Ты, кажется, ужасно беспокоишься о том, как бы поскорее встретиться с TASA.
-Don't forget that there's only a small window where TASA will collect their charge.=Не забывай, что есть только маленькое окошко, в котором TASA может забрать свою плату.\n(Переводчик: я хз что это)
+Don't forget that there's only a small window where TASA will collect their charge.=Не забывай, что у TASA есть лишь небольшое окно для сбора их заряда.
 I must rendezvous with the TASA squad commander. They won't wait for us if we don't make it in time.=Я должна встретиться с командиром команды TASA. Они не будут ждать нас, если мы не сделаем это вовремя.
 ...You're right.=...Ты права.
 Hang on, why are you bossing me around...?=Подожди, почему ты мной командуешь? ..
@@ -18526,3 +18526,82 @@ While making their escape, Mendo and Jefuty were contacted by Crane, a mole plan
 Crane informed them that the URNC had come prepared and had expanded the search radius. However, he was willing to help them escape from their current predicament.=Крейн сообщил им, что URNC подготовились и расширили радиус поиска. Тем не менее, он был готов помочь им выбраться из их нынешнего затруднительного положения.
 Ugh... That rascal...=Ух... Этот негодяй...
 Chapter {{A}}, Act {{B}}: Breakout=Глава {{A}}, Акт {{B}}: Прорыв
+Upon discovering traces of the missing test subject of the GAVIRUL Project and Antarctic Union agents in the North Caucasus region, the higher-ups of the URNC military initiated a full-scale search and capture operation.=Обнаружив в Северо-Кавказском регионе следы пропавшего испытуемого проекта "ГАВРИРУЛЬ" и агентов Антарктического Союза, высшие военные чины УРНК начали полномасштабную операцию по поиску и захвату.
+Go to next chapter=Перейти к следующей главе
+Nirvana Domain=Домен Нирваны
+Mendo and the mysterious girl escaped from the immediate danger with Crane's assistance and met Atena in the safe house. However, URNC troops soon surrounded them as they discussed their next course of action. Also , the mysterious girl that was sedated by Atena was nowhere to be found.=Мендо и таинственная девушка с помощью Крейна избежали непосредственной опасности и встретились с Атеной на конспиративной квартире. Однако вскоре их окружили войска URNC, которые обсуждали их дальнейшие действия. Кроме того, таинственной девушки, которую усыпила Атена, нигде не было.
+While making his way alone to the backup safe house, Mendo was rescued again from the clutches of the enemy by the mysterious girl, who informed him that Atena had been killed at the previous safe house.=Пробираясь в одиночку к запасному убежищу, Мендо был вновь спасен из лап врага таинственной девушкой, которая сообщила ему, что Атена была убита на предыдущем убежище.
+The mysterious girl was determined to infiltrate the enemy base and rescue her sister. Resolved to complete Operation Bakery alone, Mendo agreed to accompany her.=Таинственная девушка была полна решимости проникнуть на вражескую базу и спасти свою сестру. Решив завершить операцию "Пекарня" в одиночку, Мендо согласился сопровождать ее.
+{{A}} AM={{A}} AM
+Preemptive=Упреждающий
+Shockwave Grenade, Holographic Gravel are now available for Item Production.=Ударно-волновая граната, голографический гравий теперь доступны для производства предметов.
+Medkit is now available for Item Synthesis.=Медкит теперь доступен для синтеза предметов.
+Backpack Capacity increased for the entire team=Увеличение вместимости рюкзака для всей команды
+Large Tactical Storage Bag=Большая тактическая сумка для хранения
+Lightweight Backpack=Легкий рюкзак
+Immune to abnormal status effects.=Невосприимчивость к эффектам аномального состояния.
+Fully restore the HP of all turrets (including destroyed ones) and grant self "Mechanical Rampage" for 2 turns. \nMechanical Rampage: Increase attack by 15% and accuracy by 15 for all turrets on the field. <color\=#ff8d48>Turrets with this buff that are not destroyed when the skill ends will have their HP restored to 100%</color>.=Полностью восстанавливает HP всех турелей (включая уничтоженные) и наделяет их "Механической яростью" на 2 ходов. Механическая ярость: увеличивает атаку на 15% и точность на 15 для всех турелей на поле. <color\=#ff8d48>У турелей с этим баффом, которые не уничтожены по окончании действия умения, HP будет восстановлено до 100%.</color>.
+Fully restore the HP of all turrets (including destroyed ones) and grant self "Mechanical Rampage" for {{A}} turns. \nMechanical Rampage: Increase attack by {{B}}% and accuracy by {{C}} for all turrets on the field.=Полностью восстанавливает HP всех турелей (включая уничтоженные) и наделяет себя "Механической яростью" на {{A}} ходов. Механическая ярость: увеличивает атаку на {{B}}% и точность на {{C}} для всех турелей на поле.
+MendoLevel<color\=#b94343>8</color>/14=Mendolevel<color\=#b94343>8</color>/14
+MendoLevel<color\=#b94343>8</color>/12=Mendolevel<color\=#b94343>8</color>/12
+Gain {{A}} stacks of Defensive Shot. If the "Defensive Shot" hits its target, inflict "Grounded" on them for {{B}} turn. \nDefensive Shot: During the enemy's turn, perform a normal attack on any enemy units that take an action within range. \nGrounded: Unable to move.=Получите {{A}} стаков "Защитного выстрела". Если "Защитный выстрел" попадает в цель, наложите на нее "Заземление" на {{B}} хода. Защитный выстрел: во время хода противника совершите обычную атаку на всех врагов, которые совершают действие в радиусе действия. Заземление: не может двигаться.
+Gain 2 stacks of Defensive Shot. When making a Defensive Shot, <color\=#ff8d48>all ranges become optimal range</color> and <color\=#ff8d48>damage dealt increases by 15%</color>. If the "Defensive Shot" hits its target, inflict "Grounded" on them for 1 turn. \nDefensive Shot: During the enemy's turn, perform a normal attack on any enemy units that take an action within range. \nGrounded: Unable to move.=Получите 2 стаков Защитного выстрела. Когда вы делаете Защитный выстрел, <color\=#ff8d48>все дистанции становятся оптимальными</color> и <color\=#ff8d48>Ущерб, нанесенный увеличивается на 15%</color>Если "Защитный выстрел" попадает в цель, накладывает на нее "Заземление" на 1 хода. Защитный выстрел: во время хода противника совершите обычную атаку по всем вражеским юнитам, совершающим действие в радиусе действия. Заземление: невозможность двигаться.
+Use the current weapon to fire a single shot that penetrates in a straight line <color\=#ff8d48>with 100% accuracy</color>, dealing damage equal to 125% of own attack to enemy units in range.=Используйте текущее оружие, чтобы произвести один выстрел, который проникает по прямой линии <color\=#ff8d48>с точностью 100%</color>нанося урон, равный 125% от собственной атаки, вражеским юнитам в радиусе действия.
+Backpack <color\=#56B8C0>2/</color>2 Storage2=Рюкзак <color\=#56B8C0>2/</color>2 Хранение2
+Large Tactical Storage Bag=<size\=9>Большая тактическая сумка для хранения</size>
+Consume <color\=#fffd90>600 Parts</color> to produce <color\=#ff8d48>4 of Shockwave Grenade</color>?=Израсходовать <color\=#fffd90>600 детали</color> для производства <color\=#ff8d48>4 граната ударной волны</color>?
+Target spotted! Get them!=Цель замечена! Получите их!
+Damn it, where did they come from?!=Черт возьми, откуда они взялись?!
+Damn, we've been spotted! Let's make a run for it before their main force returns!=Проклятье, нас заметили! Бежим, пока не вернулись их основные силы!
+{{A}}mm Reinforced Barrel=Усиленный ствол {{A}}mm
+Fully restore the HP of all turrets (including destroyed ones) and grant self <color\=#d7abff>"Mechanical Rampage"</color> for 2 turns. \n<color\=#d7abff>Mechanical Rampage</color>: Increase attack by 15% and accuracy by 15 for all turrets on the field.=Полностью восстанавливает HP всех турелей (включая уничтоженные) и наделяет себя <color\=#d7abff>"Механическое буйство"</color> на 2 ходов. \n<color\=#d7abff>Механическая ярость</color>: увеличивает атаку на 15% и точность на 15 для всех турелей на поле.
+Gain 1 stack of <color\=#d7abff>"Locked On"</color> and increase the next normal attack's damage by 30% . \n<color\=#d7abff>Locked On</color>: The next normal attack's accuracy is increased to 100%.=Получите 1 стопку <color\=#d7abff> "Заблокированных"</color> и увеличивает урон следующей обычной атаки на 30%. \n<color\=#d7abff>Включено</color>: Следующая нормальная точность атаки увеличивается до 100%.
+Gain 2 stacks of <color\=#d7abff>"Defensive Shot"</color>. If the <color\=#d7abff>“Defensive Shot”</color> hits its target, inflict <color\=#d7abff>"Grounded"</color> on them for 1 turn. \n<color\=#d7abff>Defensive Shot</color>: During the enemy's turn, perform a normal attack on any enemy units that take an action within range. \n<color\=#d7abff>Grounded</color>: Unable to move.=В конце хода получите 2 <color\=#d7abff>"Защитных удара"</color>Если <color\=#d7abff>"Защитный выстрел"</color> попадает в цель, наносится <color\=#d7abff>"Заземлен"</color> на 1 ход. \n<color\=#d7abff>Защитный выстрел</color>: Во время хода противника совершите обычную атаку на всех вражеских юнитов, совершающих действие в радиусе действия. \n<color\=#d7abff>Заземленный</color>: Невозможно двигаться.
+Deploys a piece of temporary cover that lasts for {{A}} turns. When an allied unit uses the cover, they gain {{B}} accuracy and {{C}} evasion, and damage taken is reduced by {{D}}%.=Когда союзник использует укрытие, он получает {{B}} точности и {{C}} уклонения, а получаемый урон снижается на {{D}}%.
+Simple Construction=Простая конструкция
+Alert! Suspicious individuals spotted. Get them!=Тревога! Замечены подозрительные личности. Взять их!
+Normal attack's AP cost is reduced by {{A}}, while damage is increased by {{B}}% and accuracy by {{C}} for {{D}} turns.=Стоимость AP обычной атаки снижается на {{A}}, урон увеличивается на {{B}}%, а точность - на {{C}} на {{D}} ходов.
+Danger Premonition=Предчувствие опасности
+Intercept them! Don't let them pass!=Перехватите их! Не дайте им пройти!
+Exquisite wigs=Изысканные парики
+Barbed Wire Barricade is now available for Item Synthesis.=Баррикада из колючей проволоки теперь доступна для синтеза предметов.
+Restart Phase Confirmation=Подтверждение фазы перезапуска
+Return to the beginning of the current phase and restart the battle?=Вернуться в начало текущей фазы и начать битву заново?
+Moving Pictures=Движущиеся картинки
+Consume <color\=#fffd90>2000 Parts</color> and <color\=#ff8d48>4 Medicine</color> to synthesize <color\=#ff8d48>2 of Medkit</color>?=Израсходовать <color\=#fffd90>Запчасти 2000</color> и <color\=#ff8d48>4 Medicine</color> синтезировать <color\=#ff8d48>2 из Медкита</color>?
+Medkit has been placed into your Backpack!=Медкапсула помещена в ваш рюкзак!
+There's no other way. Let's make a break for it before the main force returns!=Другого пути нет. Давайте прорываться, пока не вернулись главные силы!
+Mineral Water City=Город Минеральные Воды
+Purification Tower=Очистительная башня
+Infected Individual/ELID Creature=Зараженный человек/ЭЛИД существо
+Human Targeting Protocols=Протоколы нацеливания на человека
+The phenomenon where mutated cells from animals or plants infected by ELID extract silicon from the environment as part of their metabolism and accumulate it within the body.\nResearch has shown that after being infected by ELID, proteins within living creatures are phagocytosed and protein molecular bonds are broken, along with changes in bone structure, a marked accumulation of calcium and rapid increase in bone hardness.\nThe overall effects of silicification are the conversion of a carbon-based lifeform to a silicon-based one. Although most creatures die early on from disintegration of molecular bonds, some infected creatures manage to undergo genetic recombination, becoming mindless and highly aggressive ELID Infected individuals.=Феномен, в котором мутированные клетки животных или растений, инфицированные экстрактом Элида, кремния из окружающей среды как часть их метаболизма и накапливают его в организме. Исследования показали, что после заражения ELID белки в живых существах являются фагоцитозированными, а белковые молекулярные связи разбиваются, а также изменения в структуре кости, заметное накопление кальция и быстрое увеличение твердости кости. Общее влияние силицификации-это преобразование формы жизни на основе углерода в кремниевую основу. Хотя большинство существ умирают на ранних этапах распада молекулярных связей, некоторым инфицированным существам удается подвергаться генетической рекомбинации, становясь бессмысленными и очень агрессивными людьми, зараженными Элидом.
+Required Parts:<color\=#fffb8e>P. 665</color>=Требуемые детали:<color\=#fffb8e>P. 665</color>
+Obtain {{A}} stacks of "Support Fire". Each instance deals damage equal to {{B}}% of own normal attack. \nSupport Fire: when an enemy unit within range is targeted by an allied unit's normal attack, fire an extra shot at that enemy unit. This extra shot does not consume any AP and will not trigger "Counterattack".=Получите {{A}} стаков "Огня поддержки". Каждый стак наносит урон, равный {{B}}% от собственной нормальной атаки. Огонь поддержки: когда вражеская единица в радиусе действия становится целью нормальной атаки союзной единицы, сделайте дополнительный выстрел по этой единице. Этот дополнительный выстрел не расходует AP и не вызывает "Контратаку".
+Obtain 2 stacks of "Support Fire". Each instance deals damage equal to 70% of own normal attack.<color\=#ff8d48>If the allied unit's attack hit the target, then "Support Fire" gains 15% critical rate.</color> \nSupport Fire: when an enemy unit within range is targeted by an allied unit's normal attack, fire an extra shot at that enemy unit. This extra shot does not consume any AP and will not trigger "Counterattack".=Получите 2 стаков "Огня поддержки". Каждый экземпляр наносит урон, равный 70% от собственной обычной атаки.<color\=#ff8d48>Если атака союзного юнита попала в цель, то "Огонь поддержки" набирает 15% критического урона.</color> \nОгонь поддержки: когда вражеская единица в радиусе действия становится целью обычной атаки союзной единицы, сделайте дополнительный выстрел по этой единице. Этот дополнительный выстрел не расходует AP и не вызывает "Контратаку".
+Gain 1 stack of "Premonition". \nPremonition: <color\=#89f0ff>Increase evasion by 30</color> the next time attacked. If the dodge is unsuccessful, damage taken is reduced by 25%.=Получить 1 Stack of of Premoction ». Предчувствие: <color\=#89f0ff>Увеличивает уклонение на 30</color> Если уклонение неудачно, получаемый урон уменьшается на 25%.
+Gain 1 stack of "Premonition". \nPremonition: <color\=#ff8d48>Increase evasion by 50</color> the next time attacked. If the dodge is unsuccessful, damage taken is reduced by 25%.=Получить 1 Stack of of Premoction ». Предчувствие: <color\=#ff8d48>Увеличивает уклонение на 50</color> Если уклонение неудачно, получаемый урон уменьшается на 25%.
+The AP cost of the next normal attack is reduced by 1 and <color\=#ff8d48>damage is increased by 100%</color>.=Стоимость AP следующей обычной атаки уменьшается на 1 и <color\=#ff8d48>урон увеличивается на 100%</color>.
+<color\=#ff8d48>After taking damage, increase evasion by 10</color>; after evading an enemy's attack, restore 20% of Max HP <color\=#ff8d48>and lose the evasion buff</color>.=<color\=#ff8d48>После получения урона уклонение увеличивается на 10</color>; после уклонения от вражеской атаки восстанавливает 20% от максимального HP <color\=#ff8d48>и теряет бафф уклонения</color>.
+Gain 1 stack of "Locked On" and increase the next normal attack's damage by 30%. If it hits, <color\=#ff8d48>inflict "Vulnerable" to the target for 1 turn</color>. \nLocked On: The next normal attack's accuracy is increased to 100%. \n<color\=#ff8d48>Vulnerable: Increase damage taken by 20%.</color>=Получите 1 стаков "Locked On" и увеличьте урон следующей обычной атаки на 30%. Если она попадает, <color\=#ff8d48>накладывает на цель "Уязвимость" на 1 ход.</color>Locked On: точность следующей обычной атаки увеличивается на 100%. \n<color\=#ff8d48>Уязвимый: увеличить ущерб, нанесенный 20%.</color>
+The AP cost of the next normal attack is reduced by 1 and <color\=#89f0ff>damage is increased by 60%</color>.=Стоимость AP следующей обычной атаки уменьшается на 1 и <color\=#89f0ff>урон увеличивается на 60%</color>.
+<color\=#ff8d48>Immediately recover to full HP</color>. At the same time, normal attack's AP cost is reduced by 1, while damage is increased by 15% <color\=#ff8d48>evasion by 15</color>, and accuracy by 15 for 2 turns.=<color\=#ff8d48>Немедленно восстанавливается до полного HP</color>При этом стоимость AP обычной атаки уменьшается на 1, а урон увеличивается на 15%. <color\=#ff8d48>Уклонение от 15</color>и точность на 15 на 2 оборотов.
+Gain {{A}} stack of "Locked On" and increase the next normal attack's damage by {{B}}%. \nLocked On: The next normal attack's accuracy is increased to {{C}}%.=Получите {{A}} стаков "Locked On" и увеличьте урон следующей обычной атаки на {{B}}%. Locked On: Точность следующей обычной атаки увеличивается на {{C}}%.
+Damage taken within this turn is steadily reduced. The initial reduction is 15%, every successive instance of damage taken improves the damage reduction by 15% (maximum of 60%) and <color\=#ff8d48>gives 1 current AP (can trigger up to 3 times)</color>.=Урон, получаемый в течение этого хода, постоянно снижается. Начальное снижение составляет 15%, каждый последующий полученный урон увеличивает снижение урона на 15% (максимум 60%) и <color\=#ff8d48>дает 1 текущих AP (может сработать до 3 раз)</color>.
+Can only be used when not exposed. Deal damage equal to 100% of own attack to the targeted enemy unit. If the enemy human unit is not defeated, inflict the target <color\=#d7abff>"Asleep"</color>, reducing their evasion by 50. This skill will not expose the user. \n<color\=#d7abff>Asleep</color>: Immediately lose Vision and cannot take actions. While in <color\=#d7abff>"Asleep"</color> state, can be discovered and awakened by an allied unit’s Anti-Stealth Visual Range.=Наносит урон, равный 100% собственной атаки, целевому вражескому юниту. Если вражеский человеческий юнит не повержен, нанесите цели <color\=#d7abff> "Спящего"</color>, снижая их уклонение на 50. Это умение не подвергает пользователя опасности. \n<color\=#d7abff>Спящий</color>: Немедленно теряет зрение и не может выполнять действия. Находясь в состоянии <color\=#d7abff> "Спящего"</color> может быть обнаружен и разбужен союзным юнитом с дальностью видимости Anti-Stealth.
+Consume <color\=#fffd90>50 Parts</color> and <color\=#ff8d48>1 Steel Plate</color> to synthesize <color\=#ff8d48>1 of Barbed Wire Barricade</color>?=Израсходовать <color\=#fffd90>Запчасти 50</color> и <color\=#ff8d48>Стальной лист 1</color> синтезировать <color\=#ff8d48>1 баррикады из колючей проволоки</color>?
+Barbed Wire Barricade has been placed into your Backpack!=Баррикада из колючей проволоки была помещена в ваш рюкзак!
+Having inherited all of her memories of rescuing her sister in other timelines, Jefuty realized that using all of her available resources to rendezvous with TASA as soon as possible might bring about a new turning point.=Унаследовав все воспоминания о спасении сестры в других временных линиях, Джефути поняла, что использование всех имеющихся у нее ресурсов для скорейшей встречи с TASA может привести к новому поворотному моменту.
+After saving Mendo at the ambush site, Jefuty took a shortcut with him and shook off the pursuers. The two managed to get across the bridge and reached the highway station quickly.=Спасший Мендо на месте засады, Джефути вместе с ним срезал путь и, отбившись от преследователей, сумел перебраться через мост и быстро добраться до автостанции.
+The refugee transport arrived on schedule. Mendo disguised their identities skillfully and boarded the transport successfully.=Транспорт с беженцами прибыл по расписанию. Мендо умело замаскировали свои личности и успешно поднялись на борт.
+Unexpectedly, a conflict occurred between the refugees and the URNC soldiers at a highway checkpoint, because someone on the transport was infected. Mendo decided to step forward to protect the refugees.=Неожиданно на контрольно-пропускном пункте на шоссе произошел конфликт между беженцами и солдатами УРНК, поскольку кто-то в транспорте был заражен. Мендо решил встать на защиту беженцев.
+Unlike other elite scouts, their arsenal includes enhanced stun grenades to disrupt enemies and reduce their Evasion.\n<color\=#ff7373>Attack priority</color>: terminal HP, lowest evasion=В отличие от других элитных разведчиков, в их арсенале есть улучшенные оглушающие гранаты, которые выводят врагов из строя и снижают их Уклонение.\n<color\=#ff7373>Приоритет атаки</color>: терминальное HP, наименьшее уклонение
+<color\=#000000>Tech Level <color\=#b94343>2</color>/3</color>=<color\=#000000>Технический уровень <color\=#b94343>2</color>/3</color>
+PBN Suppressorx{{A}}=PBN Suppressorx{{A}}
+Deputy station chief of the Cherkessk Highway checkpoint, enjoys taking the spotlight in daily work and particularly relishes the feeling of impressing others.=Заместитель начальника поста КПП Черкесской магистрали, любит быть в центре внимания в повседневной работе и особенно наслаждается чувством, когда впечатляет других.
+Consume <color\=#fffd90>50 Parts</color> and <color\=#ff8d48>1 Damaged Firearm</color> to synthesize <color\=#ff8d48>1 of Simple Turret</color>?=Израсходовать <color\=#fffd90>Запчасти 50</color> и <color\=#ff8d48>Поврежденное огнестрельное оружие 1</color> синтезировать <color\=#ff8d48>1 простой турели</color>?
+PBN Suppressor=Подавитель PBN
+Electro Hijinks=Электрические хижины
+Warning Shot=Предупредительный выстрел
+Consume <color\=#fffd90>1000 Parts</color> and <color\=#ff8d48>2 Medicine</color> to synthesize <color\=#ff8d48>1 of Medkit</color>?=Израсходовать <color\=#fffd90>Запчасти 1000</color> и <color\=#ff8d48>2 Medicine</color> синтезировать <color\=#ff8d48>1 из Медкита</color>?
+Cur Attack=Cur Attack
