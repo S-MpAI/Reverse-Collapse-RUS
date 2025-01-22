@@ -3012,7 +3012,7 @@ I hope we made the right decision.=Я надеюсь, что мы приняли
 I inferred from the other Jefuty's memories that the URNC military was approaching. It was imperative that we get out of the enemy's encirclement.=Я сделал вывод из воспоминаний о другой Джефите, что приближались военные URNC. Было необходимо, чтобы мы вышли из окружения врага.
 I just accidentally touched you, don't slander me!=Я просто случайно коснулся тебя, не клеветаю на меня!
 I just gave him some necessary context. It won't affect our plan.=Я просто дал ему необходимый контекст. Это не повлияет на наш план.
-I just hope you won't get shot full of holes before you can "handle the rest".=Я просто надеюсь, что тебя не продырявят до того, как ты сможешь "справиться с остальными".
+I just hope you won't get shot full of holes before you can "handle the rest".=Я просто надеюсь, что у вас не будет простреленных отверстий, прежде чем вы сможете «справиться с остальными».
 I just hope you're right.=Я просто надеюсь, что ты прав.
 I just let a few clones out for fun. Don't tell me you thought that's my full strength.=Я просто выпустил несколько клонов для развлечения. Не говори мне, что ты думал, что это моя полная сила.
 I just need them to transport us out of immediate danger, and then we'll go the rest of the way on our own to the nearest safe house.=Мне просто нужно, чтобы они вывезли нас из -за непосредственной опасности, а потом мы пойдем на остальную часть пути самостоятельно в ближайший безопасный дом.
@@ -4392,7 +4392,7 @@ Mysterious Girl=Загадочная девушка
 Mysterious Note=Таинственная записка
 Mysterious Voice=Загадочный голос
 Mysteriousgirl=Загадочная девушка
-Mysterious Girl=<size\=16>Загадочная девушка</size>
+Mysterious Girl=Загадочная девушка
 Mysterious GirlLevel<color\=#b94343>4</color>/10=Таинственная девочка<color\=#b94343>4</color>/10
 Mysterious Girlhas left the team=Таинственная девочка покинула команду
 Mysterious Girl EquippedDanger Premonition、Steady Shot!=Таинственная предчувствие девушки -оборудованного, стабильное выстрел!
@@ -7108,8 +7108,8 @@ We're going to have to slow down. The URNC support arrived faster than expected.
 We're here.=Мы на месте.
 We're here. Are you certain we're at the right place?=Были здесь. Вы уверены, что мы находимся в нужном месте?
 We're here. This is the best vantage point near the cliff. It gives us a clear view of the base.=Мы на месте. Это лучшая точка обзора рядом со скалой. Отсюда нам хорошо видна база.
-We're in the clear. No more pursuers for now!=Мы в безопасности. На данный момент преследователей больше нет!
-We're not far from the bridge. Once we're out of their encirclement, I can handle the rest.=Мы недалеко от моста. Как только мы вырвемся из их окружения, я справлюсь с остальным.
+We're in the clear. No more pursuers for now!=Мы в безопасности. \nПока никаких преследователей!
+We're not far from the bridge. Once we're out of their encirclement, I can handle the rest.=Мы недалеко от моста.\nКак только мы вышли из их окружения, я смогу справиться с остальными.
 We're outnumbered. It's difficult for us to confront the URNC's main forces without some outside help.=Мы превосходили. Нам трудно противостоять основным силам URNCа без какой -либо внешней помощи.
 We're running out of time. Apply pressure on the wound for now. I'll drive and get us out of here!=У нас мало времени. Пока что приложи давление к ране. Я сяду за руль и увезу нас отсюда!
 We're running out of time. We need to get Lige out of here while she's still incapacitated.=У нас не хватает времени. Нам нужно вытащить Лидж отсюда, пока она еще не выведена из строя.
