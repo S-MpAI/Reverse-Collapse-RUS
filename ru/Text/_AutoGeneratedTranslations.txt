@@ -67,7 +67,7 @@
 -{{A}}=-{{A}}
 .=.
 ..=..
-...=...\n(Переведено <color\=#9df1f5>steamcommunity.com/id/S-MpAI/</color> )
+...=...\n<size\=12>(Переведено <color\=#9df1f5>steamcommunity.com/id/S-MpAI/</color>)</size>
 ....=....
 ...All right, you can join me on the mission. I'll call TASA for backup.=... Хорошо, вы можете присоединиться ко мне на миссии. Я позвоню в Таса для резервной копии.
 ...An agent isn't accustomed to relying on his intuition.=... агент не привык полагаться на свою интуицию.
@@ -3262,7 +3262,7 @@ If you don't want to come with me, then hand over the material shuttle. You can 
 If you fall tomorrow, all this research will be for naught. We're running out of time.=Если вы упадете завтра, все это исследование будет на что. У нас не хватает времени.
 If you find something good, don't keep it to yourself.=Если вы найдете что -то хорошее, не держите это при себе.
 If you have solid intel, I can get her off the base during the mission, but you can't stay here.=Если у вас есть твердая Intel, я могу снять ее с базы во время миссии, но вы не можете остаться здесь.
-If you insist...=Если вы настаиваете ...
+If you insist...=Если ты настаиваешь...
 If you refuse to believe me, feel free to confirm it with your informant while he's still willing to pick up your calls.=Если ты отказываешься верить мне, не постейняйся тогда подтвердить это у своего информатора, пока он еще готов отвечать на твои звонки.
 If you think about it this way, it was worth taking a risk by going through the village directly.=Если подумать с этой точки зрения, то стоило рискнуть и пройти через деревню напрямую.
 If you want to break out of the enemy's encirclement, it is certainly feasible to individually defeat every enemy. However, if you can cleverly use obstacles to block the pursuing enemies, it often reduces many unnecessary combat costs.=Если вы хотите вырваться из вражеского окружения, то, конечно, вполне реально победить каждого противника в отдельности. Однако если вы умело используете препятствия, чтобы блокировать преследующих врагов, то это часто снижает многие ненужные боевые затраты.
@@ -3688,7 +3688,7 @@ Jefuty receives a substantial amount of memory shocks at the site of the ambush.
 Jefuty rescued Mendo at the ambush site and chose to work with him. The duo went through various trials and tribulations to reunite with TASA, but TASA did not support Jefuty's ideas.=Джефути спас Мендо на месте засады и решил работать с ним. Дуэт прошел через различные испытания, чтобы воссоединиться с TASA, но TASA не поддержала идеи Джефути.
 Jefuty said her sister was taken to this base.=Джефути сказала, что ее сестра была доставлена ​​на эту базу.
 Jefuty takes less than {{A}} damage=Джефути получила менее {{A}} единиц урона
-Jefuty takes less than {{A}} damage		Remaining Damage: {{B}}=Джефути получила менее {{A}} единиц урона\nОставшийся урон: {{B}}
+Jefuty takes less than {{A}} damage		Remaining Damage: {{B}}=Джефути получила менее {{A}} единиц урона.		\nОставшийся урон: {{B}}
 Jefuty walks up to the glass. The girl approaches the glass fearfully.=Джефути подходит к стеклу. Девушка испугает стекло.
 Jefuty wipes her bloodshot eyes and sniffles.=Джефути вытирает ее выстрелы в кровь и нюхает.
 Jefuty!=Джефути!
@@ -3983,7 +3983,7 @@ Lightweight Backpack=<size\=25>Легкий рюкзак</size>
 Lilac=сиреневый
 Lime Cordial=Лаймовый ликер
 Limit Break=Предельный перерыв
-Limit Break=<size\=22>Предельный перерыв</size>
+Limit Break=<size\=20>Предельный перерыв</size>
 Limit Break Enhanced to level {{A}}!=Ограничение перерыва улучшено до {{A}}-го уровня!
 Line=Линия
 Lingonberry=Брусника
@@ -4214,7 +4214,7 @@ Mendo reunited with TASA member Atena at the safe house, while Captain Jevon had
 Mendo said you're from TASA. Where are your other members?=Мендо сказал, что ты из TASA. Где другие ваши члены?
 Mendo takes advantage of his fake identity to board the refugee transport with Jefuty. A conflict occurs between the refugees and URNC soldiers at the Cherkessk Highway checkpoint as someone on the transport is infected. With the help of the Dolls, Jefuty and Mendo eliminate the soldiers at the checkpoint who intend to kill everyone and decide to run away through the mountain path.=Мендо использует свою фальшивую личность, чтобы сесть на транспорт беженцев с Джефути. Конфликт возникает между беженцами и солдатами URNCа на контрольно -пропускном пункте Черкесски, поскольку кто -то на транспорте заражен. С помощью кукол Джефути и Мендо устраняют солдат на контрольно -пропускном пункте, которые намерены убить всех и решают убежать по горной дорожке.
 Mendo takes less than {{A}} points of damage=Мендо берет меньше, чем у повреждений {{A}}
-Mendo takes less than {{A}} points of damage		Remaining Damage: {{B}}=Мендо получил меньше, чем {{A}} - урона, оставшиеся ущерб: {{B}}
+Mendo takes less than {{A}} points of damage		Remaining Damage: {{B}}=Мендо получил меньше, чем {{A}} - урона.		\nОставшийся урон:: {{B}}
 Mendo triggers the trait "Obsession" when receiving fatal damage and avoid entering Critical Condition. This can only be triggered once per battle.=Мендо запускает черту «одержимость» при получении смертельного повреждения и избегает входа в критическое состояние.\nЭто может быть вызвано только один раз за битву.
 Mendo was still a new agent, but at least his expertise could be trusted.=Мендо все еще был новым агентом, но, по крайней мере, его опыту можно было доверять.
 Mendo!=Мендо!
@@ -4662,7 +4662,7 @@ Once we pass through this area, I have other plans to get support. Until then, y
 Once we're sure our main target has taken the bait, we'll exit through the underground river in the quarantine zone. It's a shortcut; it's just a quick ride down to the base.=Как только мы уверены, что наша главная цель взяла приманку, мы выйдем через подземную реку в карантинной зоне. Это ярлык; Это просто быстрая поездка на базу.
 Once you're safe, we'll split up and rendezvous later!=Как только вы в безопасности, мы разделимся, а потом встречаемся!
 One of their Doll-operated refugee transports just so happens to be passing through this area. If we travel fast enough, we may be able to catch it before it leaves.=Так уж случилось, что один из их грузовиков с беженцами, управляемых куклами, проезжает через этот район. Если мы будем двигаться достаточно быстро, то, возможно, успеем перехватить его до того, как он отправится.
-One thing I'd like to warn you about in particular is that your informant, Crane, is not to be trusted. Try not to go to him for information unless you have to.=В частности, я хотел бы предупредить вас, это то, что вашему информатору, Журавль, нельзя доверять. Постарайтесь не ходить к нему за информацией, если вам не нужно.
+One thing I'd like to warn you about in particular is that your informant, Crane, is not to be trusted. Try not to go to him for information unless you have to.=В частности, я хотел бы предупредить вас, это то, что вашему информатору, Крейн, нельзя доверять. Постарайтесь не ходить к нему за информацией, если вам не нужно.
 One Stroke=Один удар
 Onion=Лук
 Online services are unavailable. Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?=Онлайн-сервисы недоступны. Ваш игровой прогресс был сохранен локально, но его не удалось загрузить в облако. Ты уверен, что хочешь выходить?
@@ -5954,7 +5954,7 @@ TWITCH=TWITCH
 Tab=Tab
 Tablet=Таблетка
 Tactical Deception=Тактический обман
-Tactical Maneuver=Тактический маневр
+Tactical Maneuver=Тактическийㅤманевр
 Tactical Suppression=Тактическое подавление
 Tactical Deception=<size\=23>Тактический обман</size>
 Tactical Deception Enhanced to level {{A}}!=Тактический обман улучшено до {{A}}-го уровня!
@@ -6140,7 +6140,7 @@ The Jefuty in my memory didn't get an answer, but maybe I will. I should keep mo
 The Journal=Журнал
 The Maatala=Маатала
 The Mysterious Girl takes no more than {{A}} damage=Таинственная девушка получает не более {{A}} урона
-The Mysterious Girl takes no more than {{A}} damage		Remaining Damage: {{B}}=Таинственная девушка получает не более {{A}} урона		\nОставшийся урон: {{B}}
+The Mysterious Girl takes no more than {{A}} damage		Remaining Damage: {{B}}=Таинственная девушка получила не более {{A}} урона.		\nОставшийся урон: {{B}}
 The Northerly Mill=Северная мельница
 The Old Izergil=Старый Изергиль
 The Ozymandias=Озимандиас
@@ -6162,9 +6162,9 @@ The URNC has set up a line of defense in the area. Hold on tight, I have to acce
 The URNC has set up barricades and sandpiles here. We can use them as <color\=#ff6060>cover</color> and take out the nearby enemies.=URNC установил здесь баррикады и кучи песка. Мы можем использовать их в качестве <color\=#ff6060>укрытия</color> и уничтожать ближайших врагов.
 The URNC patrol has entered the ambush area.=Патруль URNCа вошел в засаду.
 The URNC soldiers must've taken her while she was injured and transported her to the base I just told you about.=Солдаты URNC, наверное, схватили ее, когда она была ранена, и перевезли на базу, о которой я вам только что рассказала.
-The URNC troops easily detected my location and sent many soldiers in pursuit.=Войска URNC легко обнаружили мое местоположение и отправили много солдат в преследование.
-The URNC troops had set up layers of defenses to intercept the pair, which left Mendo with no choice but to abandon the vehicle and launch a bold assault to break through the encirclement.=Войска URNC установили слои защиты для перехвата пары, которая оставила Мендо без выбора, кроме как отказаться от автомобиля и запустить смелое нападение, чтобы прорваться через окружение.
-The URNC troops relentlessly chased them all the way to the backup safe house, wherein Jevon decides to lead the trio out through a secret tunnel in the mine. With everyone's combined efforts, heavy damage is inflicted on the enemy, and they break through to the mine entrance. Jefuty, concerned about her sister, intended to leave the team before boarding the rail car. Incidentally, the explosion-induced collapse separated Jevon, while Atena and Mendo follow Jefuty to find another way out.=Джевон решает вывести троицу через секретный туннель в шахте. Общими усилиями врагу наносится большой урон, и они прорываются к входу в шахту. Джефути, беспокоясь о сестре, собирается покинуть команду перед посадкой в вагон. Кстати, вызванный взрывом обвал отделяет Джевона, а Атена и Мендо следуют за Джефути, чтобы найти другой выход.
+The URNC troops easily detected my location and sent many soldiers in pursuit.=Войска URNC легко обнаружили моё местоположение и послали много солдат на перехват.
+The URNC troops had set up layers of defenses to intercept the pair, which left Mendo with no choice but to abandon the vehicle and launch a bold assault to break through the encirclement.=Войска URNC установили несколько слоев обороны, чтобы перехватить пару, и Мендо не оставалось выбора, кроме как покинуть транспортное средство и начать смелую атаку, чтобы прорвать кольцо окружения.
+The URNC troops relentlessly chased them all the way to the backup safe house, wherein Jevon decides to lead the trio out through a secret tunnel in the mine. With everyone's combined efforts, heavy damage is inflicted on the enemy, and they break through to the mine entrance. Jefuty, concerned about her sister, intended to leave the team before boarding the rail car. Incidentally, the explosion-induced collapse separated Jevon, while Atena and Mendo follow Jefuty to find another way out.=Войска URNC неустанно преследовали их до запасного укрытия, где Джевон решает вывести троицу через секретный туннель в шахте. С усилиями всех, врагу был нанесен значительный ущерб, и они прорвались к выходу из шахты. Джефути, обеспокоенная своей сестрой, намеревалась покинуть команду перед тем, как сесть в вагон. Внезапно, из-за взрыва, произошло обрушение, которое разделило Джевона, в то время как Атена и Мендо следуют за Джефути, чтобы найти другой выход.
 The URNC vanguard has arrived at the backup safe house. Time is of the essence. Take advantage of the enemy being off-balance and launch a surprise attack. Break through before the main enemy forces arrive!=Авангард URNC прибыл на запасную конспиративную квартиру. Время дорого. Воспользуйтесь тем, что противник потерял равновесие, и проведите внезапную атаку. Прорвитесь до прибытия основных сил противника!
 The Union of Rossartrist Nations Coalition (abbreviated ...=Союз Наций Россартистов (сокращенно...
 The Union of Rossartrist Nations Coalition (abbreviated as URNC). \nRoasartrism primarily espouses a delayered style of resource distribution and a narrowly-defined management system, as well as a highly-automated system of societal guidance.\nAfter World War III, Rossartrism was proposed as a solution to the problems of civilian needs and reconstruction, eventually being adopted as an internationally-accepted values system.=Союз Наций Россартистов (сокращенно URNC) — это международная организация, основанная на идеологии Россартизма.  \n\nРоссартизм в первую очередь пропагандирует многослойное распределение ресурсов и узко определённую систему управления, а также высокоавтоматизированную систему общественного управления.  \n\nПосле Третьей мировой войны Россартизм был предложен как решение проблем, связанных с удовлетворением гражданских нужд и восстановлением, и в конечном итоге был принят как международно признанная система ценностей.
@@ -6583,7 +6583,7 @@ To stabilize Lige's consciousness, Jefuty enters her virtual cognition image, on
 To successfully complete the mission of rescuing Lige, teamwork among the four members is essential. There are moving searchlights in addition to patrolling soldiers. Carefully observe the surrounding environment to make a move, and remember that their positions musn't be revealed at all costs. Carl, active in the dormitory area, may bring unexpected assistance to the operation.=Для успешного выполнения миссии по спасению Лидж необходима слаженная работа всех четырех членов команды. Помимо патрулирующих солдат, здесь есть движущиеся прожекторы. Внимательно наблюдайте за окружающей обстановкой, чтобы сделать ход, и помните, что их позиции не должны быть раскрыты любой ценой. Карл, действующий в районе общежития, может принести неожиданную помощь в операции.
 To tell you the truth, I received a new order earlier. There are some additional tasks that need to be done at the base now.=Чтобы сказать вам правду, я получил новый приказ раньше. Есть некоторые дополнительные задачи, которые необходимо выполнить сейчас на базе.
 To tell you the truth, this was about when you started learning how to speak, I was pretty torn and confused about my role.=Чтобы сказать вам правду, это было о том, когда вы начали учиться говорить, я был довольно разорван и смущен своей ролью.
-To your new living quarters. I also have a gift for you. It will enable you to live your life without worry or fear.=К вашим новым жилым помещениям. У меня также есть подарок для вас. Это позволит вам жить своей жизнью без беспокойства и страха.
+To your new living quarters. I also have a gift for you. It will enable you to live your life without worry or fear.=В твою новую жилую комнату. У меня также есть подарок для тебя. Он позволит тебе жить без забот и страха.
 Today is the {{A}}nd basal conciousness test of the mitotic specimen.=Сегодня является тест базального сознания {{A}}nd митотического образца.
 Together with the mysterious girl, Antarctic Union agent Mendo escaped the URNC's encirclement. They were spotted by URNC soldiers while crossing the bridge, leading to a firefight.=Вместе с таинственной девушкой агент Антарктического Союза Мендо избежал окружения URNCа. Они были замечены солдатами URNCа во время пересечения моста, что привело к перестрелке.
 Toggle=Задания
@@ -7437,7 +7437,7 @@ Yes, sir.=Да, сэр.
 Yes, sorry!=Да, извините!
 Yes, that's right.=Да, это верно.
 Yes, they succeeded. So the Shrikes are no longer as big a threat.=Да, они преуспели. Так что Шрики больше не такая большая угроза.
-Yes, you just have to go to sleep for a while. Don't be scared, both Professor Helena and I will be there with you.=Да, вам просто нужно немного спать. Не бойтесь, и профессор Хелена, и я будем с вами.
+Yes, you just have to go to sleep for a while. Don't be scared, both Professor Helena and I will be there with you.=Да, тебе просто нужно немного поспать. Не бойся, профессор Хелена и я будем рядом с тобой.
 Yes.=Да.
 Yes. As you requested, the medical unit is ready for deep anesthesia.=Да. Как вы просили, медицинская единица готова к глубокому анестезии.
 Yes. Does that make you believe what I'm saying?=Да. Это заставляет вас верить в то, что я говорю?
@@ -9473,7 +9473,7 @@ I didn't expect them to move so quickly. They're already close by.=Я не ож�
 Let's take shelter in the ruins first.=Давайте сначала укроемся в руинах.
 The backup safe house isn't too far away. Just head straight north and you'll find it.=Запасное убежище находится не так уж и далеко. Просто идите прямо на север и найдете его.
 Judging from the current situation, a battle is inevitable.=Судя по текущей ситуации, битва неизбежна.
-Indeed, and in the darkness of night, too.=Конечно, и во тьме ночи тоже.
+Indeed, and in the darkness of night, too.=Действительно, и в ночной темноте тоже.
 Night ops are a piece of cake for TASA, so don't sweat it.=Ночные операции для TASA - сущий пустяк, так что не трудитесь.
 Mendo, keep this young lady safe.=Мендо, береги эту девушку.
 Of course, that's the least I could do.=Конечно, это самое меньшее, что я могу сделать.
@@ -9485,7 +9485,7 @@ These AU vermin are a nuisance, but it doesn't matter. The encirclement has been
 The commander said to shoot all enemies on sight. Take no prisoners!=Командир приказал расстреливать всех врагов на месте. Пленных не брать!
 It seems there are <color\=#ff6060>three teams</color> of enemies in this area. As long as we proceed with caution, we should be able to <color\=#ff6060>take them out one by one</color>.=Кажется, есть <color\=#ff6060>три команды</color> врагов. Если мы будем действовать осторожно, то сможем <color\=#ff6060>уничтожить их одного за другим</color>.
 Remember, Mendo, seizing the <color\=#ff6060>initiative</color> without getting spotted is the priority of this battle.=Помни, Мендо, главное в этой битве - <color\=#ff6060>захватить инициативу</color>, не будучи замеченным.
-Got it. I'll follow your orders.=Понял. Я буду выполнять ваши приказы.
+Got it. I'll follow your orders.=Понял. Я буду выполнять твои приказы.
 A gentle reminder: the area is full of potential hiding spots. Remember to use scanners to secure our way.=Не забывайте использовать сканеры, чтобы обезопасить наш путь.
 Let's go. Stay close.=Пойдемте. Держитесь ближе.
 This must be the URNC's advance recon force sent to feel us out.=Это, наверное, передовой отряд разведки URNC, посланный прощупать нас.
@@ -9502,65 +9502,65 @@ Good. Mendo, double check that. The rest of us should get inside the safe house 
 The area appears to be safe for the moment. Let's stock up on supplies.=На данный момент местность выглядит безопасной. Давайте запасаться припасами.
 Weapons are on the storage racks inside. You'll find ammo in the crates next to the racks.=Оружие находится на стеллажах внутри здания. Патроны вы найдете в ящиках рядом со стеллажами.
 There is some food and water over here. Take what you need.=Здесь есть еда и вода. Возьмите все, что вам нужно.
-If you need anything else... Mendo, your material shuttle is now connected to the relay station. Reverse-Collapse whatever you need yourself.=Если вам нужно что-то еще... Мендо, ваш транспортер материалов подключен к ретрансляционной станции. Обратный коллапс - все, что вам нужно.
+If you need anything else... Mendo, your material shuttle is now connected to the relay station. Reverse-Collapse whatever you need yourself.=Если тебе нужно что-то еще... Мендо, твой транспортер материалов теперь подключен к ретрансляционной станции. Обратный коллапс — сделай всё, что тебе нужно, сам.
 Also, don't make any more unauthorized modifications to the material shuttle.=Кроме того, не делайте больше несанкционированных модификаций на транспортер материалов.
 Uh... that wasn't me... Never mind.=Это был не я... Неважно.
-Rules are rules. You mustn't expose this technology in front of enemies.=Правила есть правила. Вы не должны раскрывать эту технологию перед врагами.
-I'll shut down the relay station once we enter the battle. If we need anything, it must be ready before we pick them up. Got it?=Я отключу ретрансляционную станцию, как только мы вступим в бой. Если нам что-то понадобится, это наверное готово до того, как мы их подберем. Понятно?
-I need more high-explosive grenades. Is there enough bandwidth in the relay station?=Мне нужно больше фугасных гранат. Достаточно ли пропускной способности у ретрансляционной станции?
+Rules are rules. You mustn't expose this technology in front of enemies.=Правила есть правила. Ты не должен раскрывать эту технологию перед врагами.
+I'll shut down the relay station once we enter the battle. If we need anything, it must be ready before we pick them up. Got it?=Я отключу ретрансляционную станцию, как только мы вступим в бой. Если нам что-то понадобится, это должно быть готово до того, как мы их заберем. Понял?
+I need more high-explosive grenades. Is there enough bandwidth in the relay station?=Мне нужно больше осколочных гранат. Достаточно ли пропускной способности на ретрансляционной станции?
 I'll figure it out.=Я разберусь.
-We won't be able to obtain any more supplies later. Make good use of the material shuttle while there's still time. We're leaving in {{A}} hours once the reinforcements arrive.=Мы не сможем получить больше припасов позже. Воспользуйтесь транспортером материалов, пока есть время. Мы улетаем через {{A}} часа, как только прибудет подкрепление.
+We won't be able to obtain any more supplies later. Make good use of the material shuttle while there's still time. We're leaving in {{A}} hours once the reinforcements arrive.=Мы не сможем получить больше запасов позже. Используйте транспортный шаттл с материалами пока у вас есть время. Мы уходим через {{A}} часа, как только прибудет подкрепление.
 Mendo, you can take Miss Jefuty into the back room of the safe house for a rest first.=Мендо, ты можешь сначала отвести мисс Джефути в заднюю комнату убежища, чтобы она отдохнула.
 Right, understood.=Понятно.
 Atena, come with me to take stock of our supplies and equipment.=Атена, пойдем со мной, проверим наши запасы и снаряжение.
 Jefuty, you seem to be in a bad mood...=Джефути, у тебя, кажется, плохое настроение...
-Somehow I have a feeling that you're already aware of Jevon's plan.=Мне почему-то кажется, что вы уже в курсе плана Джевона.
-What makes you think so?=Почему вы так думаете?
+Somehow I have a feeling that you're already aware of Jevon's plan.=Мне почему-то кажется, что ты уже в курсе плана Джевона.
+What makes you think so?=Почему ты так думаешь?
 You always seem to know things ahead of time. I can kind of guess just from your face.=Ты всегда все знаешь наперед. Я догадываюсь об этом по твоему лицу.
 (This guy is surprisingly astute when it comes to certain things...)=(Этот парень удивительно проницателен, когда речь заходит о некоторых вещах...)
-So what? Your new captain has given you a direct order.=И что? Ваш новый капитан отдал вам прямой приказ.
-So you do know.=Так что вы знаете.
+So what? Your new captain has given you a direct order.=И что? Твой новый капитан отдал тебе прямой приказ.
+So you do know.=Итак, ты всё-таки знаешь.
 It is an order, but... I still believe it's wrong.=Это приказ, но... Я все еще считаю, что это неправильно.
-Why do you think so?=Почему вы так думаете?
+Why do you think so?=Почему ты так думаешь?
 I would never leave my own family behind and escape on my own.=Я бы никогда не бросил свою семью и не сбежал в одиночку.
 If Jevon and Atena won't give you any help, I'll come with you to rescue your sister. The supplies in this safe house should be enough for a tough battle.=Если Джевон и Атена не помогут тебе, я пойду с тобой спасать сестру. Припасов в этом убежище должно хватить на тяжелую битву.
-You're defying your orders?=Вы нарушаете приказ?
+You're defying your orders?=И ты нарушишь приказ?
 I'm just trying to do a more thorough job of completing the mission. I'm sure Jevon will understand.=Я просто пытаюсь тщательнее выполнить задание. Уверен, Джевон меня поймет.
-There's still some time until the next evacuation window.=До следующего окна эвакуации еще есть время.
-If we act fast enough, we might evacuate safely with your sister.=Если мы будем действовать достаточно быстро, то сможем благополучно эвакуироваться вместе с вашей сестрой.
-Right, I almost forgot you're a happy-go-lucky idiot...=Точно, я почти забыла, что ты счастливый идиот...
+There's still some time until the next evacuation window.=До следующего окна эвакуации ещё есть время.
+If we act fast enough, we might evacuate safely with your sister.=Если мы будем действовать достаточно быстро, то сможем благополучно эвакуироваться вместе с твоей сестрой.
+Right, I almost forgot you're a happy-go-lucky idiot...=Точно, я чуть не забыла, что ты беззаботный идиот...
 ...I'm happy-go-lucky?=...я счастливчик?
 Come sit next to me.=Садись рядом со мной.
 Uuh... Is that okay?=А... Это нормально?
 I told you as much.=Я уже говорила тебе об этом.
-You showed me the picture of you and your parents in your pendant. In return, take a look at this.=Ты показала мне свою фотографию с родителями на кулоне. В свою очередь, взгляни на это.
+You showed me the picture of you and your parents in your pendant. In return, take a look at this.=Ты показал мне свою фотографию с родителями на кулоне. В свою очередь, взгляни на это.
 This is... a picture of you and Lige when you were little?=Это... твоя с Лидж фотография, когда вы были маленькими?
 Yes. This is the first and only picture we have ever taken together.=Да. Это первая и единственная фотография, которую мы сделали вместе.
 Eight years ago.=Восемь лет назад.
 Alright, look this way. One, two, three, cheese!=Так, смотрите сюда. Раз, два, три, сыр!
 Female Professor=Женщина-профессор
-Okay, hang on tight to this picture now. Both of you look like little angels.=Так, держитесь за эту фотографию. Вы оба выглядите как маленькие ангелочки.
+Okay, hang on tight to this picture now. Both of you look like little angels.=Ладно, держитесь крепко за эту фотографию. Вы оба выглядите как маленькие ангелочки.
 Thank you, <keyword\=6>Professor Helena</keyword>.=Спасибо, <keyword\=6>Профессор Хелена</keyword>.
-I will keep this picture safe, but it would be nice if the background wasn't a blank wall in a lab.=Я сохраню эту фотографию, но было бы неплохо, если бы фоном не была глухая стена в лаборатории.
+I will keep this picture safe, but it would be nice if the background wasn't a blank wall in a lab.=Я сохраню эту фотографию в безопасности, но было бы хорошо, если бы фоном была не пустая стена в лаборатории.
 Want to take another one in my office?=Хотите сделать еще один снимок в моем офисе?
 Male Professor=Мужчина-профессор
-No, thanks. I don't want to draw too much attention, especially the attention of that person.=Нет, спасибо. Я не хочу привлекать слишком много внимания, особенно внимания этого человека.
-However, there's a small favor I'd like to ask, Philip.=Однако у меня есть небольшая просьба, Филипп.
+No, thanks. I don't want to draw too much attention, especially the attention of that person.=Нет, спасибо. Я не хочу привлекать слишком много внимания, особенно внимания одного человека.
+However, there's a small favor I'd like to ask, Philip.=Однако у меня есть небольшая просьба, Филип.
 Name it. I'll do whatever I can.=Назовите её. Я сделаю все, что смогу.
 My room is quite spacious, so put in another bed. I want her to move in and stay with me.=Моя комната довольно просторная, так что поставьте еще одну кровать. Я хочу, чтобы она переехала ко мне и жила со мной.
 I must warn you, though. Surely you also know that these test subjects are extremely unstable, or they wouldn't need to be monitored so carefully.=Однако я должен предупредить тебя. Наверняка ты также знаешь, что эти испытуемые крайне нестабильны, иначе за ними не нужно было бы так тщательно наблюдать.
 Having her by your side will be like living with a ticking bomb. You won't know when she'll lose control and hurt you.=Иметь ее рядом с собой - все равно что жить с тикающей бомбой. Ты не будешь знать, когда она потеряет контроль и причинит тебе боль.
 Why don't you leave her with Professor Helena? She can find a safer place for Lige to rest.=Почему бы тебе не оставить ее с профессором Хеленой? Она сможет найти для Лидж более безопасное место.
-I'll put her in the room next to yours so you can check in on her anytime.=Я поселю ее в комнате рядом с вашей, и вы сможете проведать ее в любое время.
-If there are any accidents, the room is equipped with a flamethrower. That will keep the risks to a minimum.=На случай несчастных случаев в комнате есть огнемет, который сведет риски к минимуму.
-You won't have to worry about that. I've made my own preparations.=Тебе не придется об этом беспокоиться. Я сам все подготовил.
-Oh? Care to tell me about it?=О? Не хотите рассказать мне об этом?
-I actually designed a <keyword\=52>neural inhibitor</keyword> to help stabilize her personality.=Я разработал <keyword\=52>нейронный ингибитор</keyword> чтобы помочь стабилизировать ее личность.
-I just sent you the design. Have it constructed right away.=Я только что отправил вам проект. Пусть его сразу же построят.
-You're well-prepared.=Вы хорошо подготовились.
-Hmm... It's a fascinating design. I'll have the development department make it for you as soon as possible.=Хм... Это интересный дизайн. Я попрошу отдел разработки сделать его для вас как можно скорее.
-Still, this test subject doesn't seem at all remarkable just from the data report. What makes her so special to you?=И все же, судя по данным, эта испытуемая совсем не выглядит выдающейся. Что делает ее такой особенной для вас?
-I'll tell you and Professor Helena, but you must never ever tell anyone else—especially not William.=Я расскажу вам и профессору Хелене, но вы никогда и никому не должны рассказывать об этом - особенно Уильяму.
+I'll put her in the room next to yours so you can check in on her anytime.=Я поселю её в комнате рядом с твоей, так что ты сможешь навещать её в любое время.
+If there are any accidents, the room is equipped with a flamethrower. That will keep the risks to a minimum.=Если произойдут какие-либо несчастные случаи, в комнате есть огнемёт. Это сведёт риски к минимуму.
+You won't have to worry about that. I've made my own preparations.=Вам не придется об этом беспокоиться. Я сама все подготовила.
+Oh? Care to tell me about it?=О, хочешь рассказать об этом?
+I actually designed a <keyword\=52>neural inhibitor</keyword> to help stabilize her personality.=На самом деле, я разработала <keyword\=52>нейронный ингибитор</keyword>, чтобы помочь стабилизировать её личность.
+I just sent you the design. Have it constructed right away.=Я только что отправила вам проект. Постройте его. 
+You're well-prepared.=Ты хорошо подготовилась.
+Hmm... It's a fascinating design. I'll have the development department make it for you as soon as possible.=Хм... Это интересный дизайн. Я попрошу отдел разработки сделать его для тебя как можно скорее.
+Still, this test subject doesn't seem at all remarkable just from the data report. What makes her so special to you?=Тем не менее, этот испытательный объект совершенно не выделяется, судя по отчету данных. Что делает её такой особенной для тебя?
+I'll tell you and Professor Helena, but you must never ever tell anyone else—especially not William.=Я расскажу вам и профессору Хелене, но вы никогда не должны говорить об этом никому другому — особенно Уильяму.
 I can promise that no one will ever learn anything from me or Helena.=Я могу обещать, что никто никогда не узнает ничего у меня или Елены.
 As for Professor William—there's no hiding anything from him in the lab.=Что касается профессора Уильяма, то от него в лаборатории ничего не скроешь.
 It's your job to make sure he never finds out. If you can't promise absolute secrecy, I won't explain.=Ваша задача - сделать так, чтобы он никогда не узнал. Если вы не можете пообещать абсолютную секретность, я не стану ничего объяснять.
@@ -9576,83 +9576,83 @@ A mitotic specimen that displays emotions...?=Митотическая особ�
 That certainly deserves a more in-depth study.=Это, безусловно, заслуживает более глубокого изучения.
 If you still refuse to believe in Lige's peculiarities, I'll give you another example.=Если вы все еще отказываетесь верить в особенности Лидж, я приведу вам другой пример.
 Lige, here. Let's play a game.=Лидж, вот. Давай сыграем в игру.
-My... my name is Noylu. "She" doesn't like it if I go by another name.=Меня... меня зовут Нойлу. "Ей" не нравится, когда я называюсь другим именем.
-But we agreed—I would only play with you if you change your name.=Но мы договорились - я буду играть с тобой, только если ты сменишь имя.
-You can keep this from "her".=Вы можете скрыть это от "нее".
+My... my name is Noylu. "She" doesn't like it if I go by another name.=Меня... меня зовут Noylu. "Ей" не нравится, когда я называюсь другим именем.
+But we agreed—I would only play with you if you change your name.=Но мы договорились — я буду играть с тобой только если ты изменишь своё имя.
+You can keep this from "her".=Ты можешь держать это в секрете от "неё".
 But... we've always been together, and we'll always be together.=Но... мы всегда были вместе, и мы всегда будем вместе.
-Even if I manage to hide from one or two of "her", I won't be able to hide the truth from all of "them".=Даже если мне удастся спрятаться от одной или двух "ее", я не смогу скрыть правду от всех "их".
-Now that you have me, you'll soon be free of their control!=Теперь, когда у вас есть я, ты скоро выйдешь из-под их контроля!
+Even if I manage to hide from one or two of "her", I won't be able to hide the truth from all of "them".=Даже если мне удастся скрыться от одной или двух "неё", я не смогу скрыть правду от всех "них".
+Now that you have me, you'll soon be free of their control!=Теперь, когда у тебя есть я, ты скоро освободишься от их контроля!
 So let's carry on with this game, Lige.=Так что давай продолжим игру, Лидж.
 Professor Helena, do you remember the book on your desk? You've written a poem on the flyleaf.=Профессор Хелена, вы помните книгу на вашем столе? Вы написали стихотворение на форзаце.
 Sorry, I have too many books on my desk. Which one are you talking about? Which poem?=Простите, у меня слишком много книг на столе. О какой из них ты говоришь? О каком стихотворении?
-It goes like this...=Это происходит так...
-I bring fresh showers for the thirsting flowers,=Я приношу свежие ливни для жаждущих цветов,
-From the seas and the streams;=Из морей и ручьев;
-I bear light shade for the leaves when laid in their noonday dreams=Я несу легкую тень для листьев, когда они ложатся в свои полуденные сны.
-From my wings are shaken the dews that waken=С моих крыльев слетают росы, которые пробуждают
-The sweet buds every one...=Сладкие бутоны, которые каждый...
+It goes like this...=Оно начинается примерно так ...
+I bring fresh showers for the thirsting flowers,=Я приношу свежие дожди для жаждущих цветов,
+From the seas and the streams;=Из морей и рек;
+I bear light shade for the leaves when laid in their noonday dreams=Я дарую лёгкую тень для листвы, когда она в полуденных грёзах.
+From my wings are shaken the dews that waken=С моих крыльев сыплются росы, что пробуждают
+The sweet buds every one...=Каждую сладкую почку,
 Do you remember now, Professor?=Теперь вы помните, профессор?
-That's "The Cloud" by Shelley.=Это "Облако" Шелли.
+That's "The Cloud" by Shelley.=Это "Облако" Шелли.\n(Переводчик: Здесь говорится об "The Cloud" Перси Биши Шелли)
 The book was meant to be a gift to my son. That's why I've copied out my favorite poem on the flyleaf.=Книга предназначалась в подарок моему сыну, поэтому на форзаце я переписала свое любимое стихотворение.
 But I haven't got the chance to give it to him, so it's just sitting on my desk.=Но у меня не было возможности отдать ее ему, так что она просто лежит у меня на столе.
 I've talked to Kämpfe about this. Once we've made it through this busy period, he'll send our son over to play. You can give him your book then.=Я поговорил об этом с Кемпфе. Как только мы справимся с этим напряженным периодом, он пришлет нашего сына поиграть. Тогда ты сможешь передать ему свою книгу.
-I'm sure he'll love such a romantic gift.=Уверена, он будет в восторге от такого романтичного подарка.
+I'm sure he'll love such a romantic gift.=Уверен, он будет в восторге от такого романтичного подарка.
 Haha... Boys his age are probably more into video games and stuff like that.=Хаха... Мальчики его возраста, наверное, больше любят видеоигры и все такое.
-Don't worry, he's bound to like it. He's my son, after all. He must have inherited some of my romantic genes.=Не волнуйтесь, ему обязательно понравится. Он же мой сын, в конце концов. наверное, он унаследовал мои романтические гены.
+Don't worry, he's bound to like it. He's my son, after all. He must have inherited some of my romantic genes.=Не волнуйся, ему обязательно понравится. Он же мой сын, в конце концов. Наверное, он унаследовал мои романтические гены.
 Your son, huh...=Ваш сын...
 I'm a bit curious.=Мне немного любопытно.
-He's only {{A}} right now, but I'm sure he'll grow into a handsome chap.=Сейчас он всего лишь {{A}}, но я уверена, что он вырастет в красивого парня.
+He's only {{A}} right now, but I'm sure he'll grow into a handsome chap.=Ему сейчас всего лишь {{A}}, но я уверен, что он вырастет в красивого парня.
 Even though he's eight years older than you, watch out you don't fall head over heels for him when you're older.=Даже если он старше тебя на восемь лет, смотри, чтобы ты не влюбилась в него с головой, когда повзрослеешь.
 Your jokes are as lame as always.=Твои шутки, как всегда, неубедительны.
 Just kidding.=Шучу.
-More importantly, Jefuty, you've read this poem before...=Более того, Джефути, вы уже читали это стихотворение...
-But Lige hasn't, has she?=Но Лидж этого не сделала, не так ли?
-You're right, she hasn't. I recited it to her.=Вы правы, она не читала. Я ей пересказал.
+More importantly, Jefuty, you've read this poem before...=Более того, Джефути, ты уже читала это стихотворение...
+But Lige hasn't, has she?=Но Лидж этого не делала, не так ли?
+You're right, she hasn't. I recited it to her.=Вы правы, она не читала. Я ей пересказала.
 Telepathically?=Телепатически?
-As expected of you, Philip. Clever guess.=Как и ожидалось от тебя, Филип. Умная догадка.
-So the poem was in your thoughts, and Lige verbalized it. How miraculous.=Значит, стихотворение было в ваших мыслях, а Лидж его озвучила. Как чудесно.
-But you are not a Shrike mitotic specimen, so you shouldn't be able to share consciousness...=Но вы не митотическая особь Шрайка, поэтому не должны иметь возможность делиться сознанием...
-But I managed to establish one.=Но мне удалось создать одну.
-That's why you want us to keep this from Professor William?=Поэтому вы хотите, чтобы мы скрыли это от профессора Уильяма?
+As expected of you, Philip. Clever guess.=Как и ожидалось от вас, Филип. Умная догадка.
+So the poem was in your thoughts, and Lige verbalized it. How miraculous.=Значит, стихотворение было в твоих мыслях, а Лидж его озвучила. Как чудесно.
+But you are not a Shrike mitotic specimen, so you shouldn't be able to share consciousness...=Но ты не являешься митотическим экземпляром Шрайк, так что не должна иметь возможность делиться сознанием...
+But I managed to establish one.=Но мне удалось установить его.
+That's why you want us to keep this from Professor William?=Поэтому ты хочешь, чтобы мы скрыли это от профессора Уильяма?
 Exactly. This is why I don't want him to find out about any of this.=Именно. Вот почему я не хочу, чтобы он узнал обо всем этом.
-I never thought such a connection possible. This completely refutes our working hypothesis.=Я никогда не думал, что такая связь возможна. Это полностью опровергает нашу рабочую гипотезу.
-Don't worry, Professor Helena. That's quite common in the process of research. I will help you determine the specific cause of this phenomenon.=Не волнуйтесь, профессор Хелена. Это обычное явление в процессе исследований. Я помогу вам определить конкретную причину этого явления.
-Now that I have demonstrated Lige's value, you must also keep your word.=Теперь, когда я продемонстрировал ценность Лидж, вы также должны сохранить свое слово.
+I never thought such a connection possible. This completely refutes our working hypothesis.=Я никогда не думала, что такая связь возможна. Это полностью опровергает нашу рабочую гипотезу.
+Don't worry, Professor Helena. That's quite common in the process of research. I will help you determine the specific cause of this phenomenon.=Не волнуйтесь, профессор Хелена. Это вполне обычное явление в процессе исследований. Я помогу вам определить конкретную причину этого феномена.
+Now that I have demonstrated Lige's value, you must also keep your word.=Теперь, когда я продемонстрировала ценность Лидж, вы также должны сохранить свое слово.
 Can I show her to my room now?=Могу я проводить ее в свою комнату?
 Of course. I'll ask a researcher to put in another bed for you later.=Конечно. Я попрошу научного сотрудника поставить для вас другую кровать позже.
-We're going to escort you back, and then I'll sort out some follow-up issues for Jefuty and set up her access authorizations.=Мы проводим вас обратно, а потом я улажу кое-какие вопросы с Джефути и подготовлю разрешения на ее доступ.
+We're going to escort you back, and then I'll sort out some follow-up issues for Jefuty and set up her access authorizations.=Мы проводим тебя обратно, а затем я разберусь с последующими вопросами для Джефути и настрою её доступы.
 Thank you, Professors.=Спасибо, профессора.
 Lige, let's go. From now on, you're my little sister.=Лидж, пойдем. С этого момента ты моя младшая сестра.
-I've thought long and hard to come up with it.=Я долго думал, чтобы придумать его.
+I've thought long and hard to come up with it.=Я долго думала, чтобы придумать его.
 Where are you taking me?=Куда вы меня ведете?
 I never thought you'd make such a face.=Никогда не думал, что ты сделаешь такое лицо.
 Did you just think of your sister?=Ты только что подумала о своей сестре?
 Lige is such an important part of my life. She isn't just my little sister—she's more like my other self.=Лидж - такая важная часть моей жизни. Она не просто моя младшая сестра - она больше похожа на мое второе "я".
 We rely on each other, take care of each other, and live life together. We are practically inseparable.=Мы полагаемся друг на друга, заботимся друг о друге, проживаем жизнь вместе и практически неразлучны.
-Back then, I didn't keep my promise—I didn't keep my family safe.=Тогда я не сдержал своего обещания - не уберег свою семью.
-She was the only family I had left. I couldn't stand to see her ripped away from me. It was worse than death.=Она была единственной семьей, которая у меня осталась. Я не мог видеть, как ее отрывают от меня. Это было хуже смерти.
-You'd better put away such a precious picture.=Вам лучше убрать такую ценную картину.
-I'm starting to envy you. At least you got to spend time in the company of your beloved family. As for me...=Я начинаю вам завидовать. По крайней мере, вы смогли провести время в компании любимой семьи. Что касается меня...
-You were always on your parents' mind. That much is evident from the pendant you carry. You also miss them dearly, or you wouldn't be keeping it on you at all times.=Вы всегда были на уме у своих родителей. Это видно по кулону, который вы носите. Вы также очень скучаете по ним, иначе не носили бы его всегда при себе.
-This pendant... I simply haven't found an excuse to ditch it.=Этот кулон... Я просто не нашла повода, чтобы его выбросить.
-I don't know if you're just saying that out of spite or if you actually mean it, but I urge you to hold onto the pendant all the same.=Не знаю, говорите ли вы это просто из вредности или на самом деле, но я все равно призываю вас держать кулон.
-Remember, family is irreplaceable.=Помните, что семья незаменима.
-They might not have had the chance to convey it, but their love for you was absolutely genuine.=Возможно, у них не было возможности передать это, но их любовь к вам была абсолютно искренней.
-Strange, how did I become the subject of our conversation?=Странно, как я стал предметом нашего разговора?
-But... thanks. I think you're right.=Но... спасибо. Думаю, вы правы.
-Don't worry. The colonel who contacted you is actually my foster father.=Не волнуйтесь. Полковник, который с вами связался, на самом деле мой приемный отец.
-Ever since my parents went abroad to participate in the research project, Kämpfe has been taking care of me. He's more of a dad to me than my own biological father.=С тех пор как мои родители уехали за границу для участия в исследовательском проекте, обо мне заботится Кемпфе. Он для меня больше отец, чем мой родной отец.
+Back then, I didn't keep my promise—I didn't keep my family safe.=Тогда я не сдержала своего обещания — я не уберла свою семью.
+She was the only family I had left. I couldn't stand to see her ripped away from me. It was worse than death.=Она была единственной семьёй, которая у меня осталась. Я не могла вынести того, чтобы её забрали у меня. Это было хуже, чем смерть.
+You'd better put away such a precious picture.=Тебе лучше убрать такую ценную фотографию.
+I'm starting to envy you. At least you got to spend time in the company of your beloved family. As for me...=Я начинаю тебе завидовать. По крайней мере, ты успела провести время в компании своей любимой семьи. А что касается меня...
+You were always on your parents' mind. That much is evident from the pendant you carry. You also miss them dearly, or you wouldn't be keeping it on you at all times.=Ты всегда был на уме у своих родителей. Это видно по кулону, который ты носишь. Ты также очень скучаешь по ним, иначе не носили бы его всегда при себе.
+This pendant... I simply haven't found an excuse to ditch it.=Этот подвеска... Я просто не нашёл причины избавиться от неё.
+I don't know if you're just saying that out of spite or if you actually mean it, but I urge you to hold onto the pendant all the same.=Не знаю, говоришь ли ты это из злобы или на самом деле имеешь в виду, но я настоятельно рекомендую тебе держаться за этот кулон, несмотря на всё.
+Remember, family is irreplaceable.=Помни, что семья незаменима.
+They might not have had the chance to convey it, but their love for you was absolutely genuine.=Возможно, у них не было возможности выразить это, но их любовь к тебе была совершенно искренней.
+Strange, how did I become the subject of our conversation?=Странно, как я стал объектом нашего разговора?
+But... thanks. I think you're right.=Но... спасибо. Думаю, ты права.
+Don't worry. The colonel who contacted you is actually my foster father.=Не переживай. Полковник, который с тобой связывался, на самом деле мой приёмный отец.
+Ever since my parents went abroad to participate in the research project, Kämpfe has been taking care of me. He's more of a dad to me than my own biological father.=С тех пор как мои родители уехали за границу для участия в исследовательском проекте, Кэмпфе заботится обо мне. Он больше похож на отца, чем мой биологический отец.
 It was also from him that I learned of the intel from before. If Jevon can get in touch with him, I'm sure I can convince him to support our attempt to rescue Lige.=Если Джевон сможет связаться с ним, я уверен, что смогу убедить его поддержать нашу попытку спасти Лидж.
 Just leave it all to me.=Просто предоставь все это мне.
 Mm...=Мм...
 What's that sound?=Что это за звук?
-The satellite phone! It's Crane!=Спутниковый телефон! Это Журавль!
-Let's go. We have to get Jevon and Atena.=Пойдемте. Мы должны забрать Джевона и Атену.
-Should we answer?=Должны ли мы отвечать?
+The satellite phone! It's Crane!=Спутниковый телефон! Это Крейн!
+Let's go. We have to get Jevon and Atena.=Пойдём. Нам нужно идти к Джевону и Атене.
+Should we answer?=Должны ли мы ответить?
 Atena, can you make sure no one traces the call to our location?=Атена, ты можешь убедиться, что никто не отследит наш звонок?
 You have {{A}} seconds at most.=У вас есть максимум {{A}} секунд.
 That's enough. Pick up the call.=Достаточно. Возьмите трубку.
-Crane?=Журавль?
+Crane?=Крейн?
 Please go ahead.=Пожалуйста, продолжайте.
 <color\=#92b1ff>Still alive?</color>=<color\=#92b1ff>Все еще живы?</color>
 For the time being.=На данный момент.
@@ -9680,23 +9680,23 @@ Hell, we might be already surrounded!=Черт, да нас уже могут о
 Are TASA's reinforcements still not here?=Подкрепление ТАСА все еще не прибыло?
 It'll take them a while to arrive!=Им понадобится время, чтобы приехать!
 We must head into the mine immediately!=Мы должны немедленно отправиться в шахту!
-If the enemies beat us to the mine, not only will we have no way to escape, our reinforcements will also take heavy losses!=Если враги забьют нас в шахту, мы не только не сможем спастись, но и понесем большие потери!
-But to get to the entrance of the mine, we need to cover a large amount of open ground.=Но чтобы добраться до входа в шахту, нам нужно покрыть большое количество открытых землей.
+If the enemies beat us to the mine, not only will we have no way to escape, our reinforcements will also take heavy losses!=Если враги первыми доберутся до шахты, у нас не только не будет пути для побега, но и наши подкрепления понесут серьёзные потери!
+But to get to the entrance of the mine, we need to cover a large amount of open ground.=Но чтобы добраться до входа в шахту, нам нужно будет преодолеть большое открытое пространство.
 The snipers will have enough time to kill us a dozen times!=У снайперов будет достаточно времени, чтобы убить нас дюжину раз!
 ...I can deal with those snipers.=...я могу справиться с этими снайперами.
-...You're bringing up the rear?=...Вы идете сзади?
-Letting our mission objective take the brunt of the attack? That makes absolutely no sense.=Позволить нашей цели принять на себя основную тяжесть атаки? В этом нет никакого смысла.
+...You're bringing up the rear?=...Ты будешь замыкать группу?
+Letting our mission objective take the brunt of the attack? That makes absolutely no sense.=Позволить нашей цели миссии принять основной удар? Это абсолютно бессмысленно.
 They aren't particularly good snipers. I can handle them.=Они не особо хорошие снайперы. Я с ними справлюсь.
 Let me take them out while you go and secure the extraction point.=Позвольте мне убрать их, пока вы будете охранять точку эвакуации.
 I now understand how you managed to survive the ambush.=Теперь я понимаю, как вам удалось пережить засаду.
-...Atena, prioritize which targets to take out first and come up with a route of escape.=... Атена, приоритет, какие целевые предназначены сначала и придумать маршрут побега.
-Mendo, take the supplies and cover Miss "Bakery". Don't let her get hurt.=Мендо, возьмите припасы и покрывайте мисс "Пекарня". Не позволяй ей пострадать.
+...Atena, prioritize which targets to take out first and come up with a route of escape.=...Атена, приоритетно выбери цели для уничтожения и составь маршрут для эвакуации.
+Mendo, take the supplies and cover Miss "Bakery". Don't let her get hurt.=Мендо, забери припасы и прикрывай мисс "Пекарню". Не дай ей пострадать.
 It seems that the URNC mobilized quite a large force. We won't be able to charge through to the mine at the moment.=Кажется, что URNC мобилизовали довольно большую силу. В данный момент мы не сможем прорваться к шахте.
 The nearby <color\=#ff6060>turrets</color> have been activated and can be used at any time.=Ближайшие <color\=#ff6060>турели</color> были активированы и могут быть использованы в любое время.
 Once an opportunity presents itself, we'll make a break for it together!=Как только представится возможность, воспользуйтесь ими!
-Atena, what's the status of the <color\=#ff6060>underground passage</color> we prepared earlier?=Атена, в каком состоянии <color\=#ff6060>подземные проходе</color>, которые мы подготовили ранее?
+Atena, what's the status of the <color\=#ff6060>underground passage</color> we prepared earlier?=Атена, как обстоят дела с <color\=#ff6060>подземными проходами</color>, который мы подготовили ранее?
 They're operating normally. I've marked them on the map.=Они работают штатно. Я отметила их на карте.
-By using the conveyor belts in the underground passage, we can <color\=#ff6060>move quickly and provide support</color> around the safe house.=Используя конвейерные ленты в подземном переходе, мы можем быстро передвигаться и <color\=#ff6060>оказывать поддержку по всему безопасному месту</color>.
+By using the conveyor belts in the underground passage, we can <color\=#ff6060>move quickly and provide support</color> around the safe house.=Используя конвейерные ленты в подземных переходах, мы можем быстро передвигаться и <color\=#ff6060>оказывать поддержку по всему безопасному месту</color>.
 Looks like Miss Deadeye could make good use of them.=Похоже, мисс ДэдАй могла бы неплохо использовать их.
 Mendo, is the <color\=#ff6060>tear gas grenade</color> ready to go?=Мендо, готовы ли <color\=#ff6060>гранаты со слезоточивым газом</color>?
 Yes, they're ready.=Да, они готовы.
@@ -9712,7 +9712,7 @@ Retreat into the mine immediately. Let's use the backup railcar to leave this pl
 We've taken control of this area. Adjutant, give the order.=Мы взяли под контроль эту область. Адъютант, дайте приказ.
 Search every inch! Leave nothing to chance!=Обыщите каждый дюйм! Ничего не оставляйте на волю случая!
 They're not here.=Их здесь нет.
-Enemy reinforcements are gathering over there. Now, Atena! Detonate the bomb!=Там собирается вражеское подкрепление. Сейчас же, Атена! Взорви бомбу!
+Enemy reinforcements are gathering over there. Now, Atena! Detonate the bomb!=Там собирается вражеское подкрепление. Сейчас же, Атена! Взрывай бомбы!
 Damn it, they've buried explosives.=Дерьмо, они закопали взрывчатку.
 They couldn't have gotten far in such a short amount of time.=Они не могли далеко уйти за такой короткий промежуток времени.
 Continue calling for more reinforcements and expand the search area! Search every inch!=Продолжайте вызывать подкрепление и расширяйте зону поиска! Обыщите каждый дюйм!
@@ -9730,7 +9730,7 @@ It's safe inside. Come on in.=Внутри безопасно. Заходите.
 It looks to be alright!=Похоже, все в порядке!
 Jefuty, let's head inside too.=Джефути, давай тоже зайдем внутрь.
 Don't go...=Не уходи ...
-The railcar has been checked, so why haven't they come in yet?=Вагон был проверен, так почему же они до сих пор не вошли?
+The railcar has been checked, so why haven't they come in yet?=Рельсовый вагон проверен, так почему они ещё не зашли?
 I'll go take a look.=Я пойду посмотрю.
 Watch out!!=Осторожно!!
 Jevon!!!=Джевон !!!
@@ -9741,10 +9741,10 @@ It seems like they've blown up the entrance to the mine.=Похоже, они в
 You lot, come with me to search the mountain paths.=Вы все, пойдемте со мной, поищем горные тропы.
 At the same time, contact HQ and check if the mine has another exit.=В то же время свяжитесь со штаб-квартирой и проверьте, есть ли в шахте другой выход.
 The area ahead is under the control of the URNC. There are Rossartrist soldiers patrolling everywhere.=Область впереди находится под контролем URNC. Везде патрулируют Россартристские солдаты.
-Our target signal towers are at <color\=#ff6060>different locations to the south</color>.=Наши сигнальные вышки-мишени находятся в <color\=#ff6060>разных местах на юге</color>.
+Our target signal towers are at <color\=#ff6060>different locations to the south</color>.=Наши целевые сигнальные башни находятся в <color\=#ff6060>разных местах на юге</color>.
 We need to install the chips on all three towers so that I can guarantee a successful hack into the control system of the base.=Нам нужно установить чипы на все три башни, чтобы я могла гарантировать успешный взлом системы управления базой.
 Hacking Chip=Хакерский чип
-Mendo, what's the situation around the target locations?=Мендо, какая ситуация в целевых местах?
+Mendo, what's the situation around the target locations?=Мендо, какая обстановка вокруг целевых точек?
 There are several campfires, and I can see some patrols nearby.=Там горит несколько походных костров, и я вижу поблизости несколько патрулей.
 But it's pretty dark so I can't see things too clearly.=Но здесь довольно темно, так что я не могу видеть все слишком отчетливо.
 Since we're short on time, let's <color\=#ff6060>split up</color> and install the chips at the designated targets.=Поскольку у нас мало времени, давайте <color\=#ff6060>разделимся</color> и установите чипы в обозначенных местах.
@@ -10241,7 +10241,7 @@ You're so naive! Lige is ours! Get lost!=Ты такой наивный! Лид�
 These are... hedges transformed into machine gun turrets...=Это... живые изгороди, превращенные в пулеметные турели...
 If it's a defense formed by Lige's mind, then it should be possible to <color\=#ff6060>use them against these phantoms</color>!=Если это защита, созданная разумом Лидж, то ее можно <color\=#ff6060>использовать их против этих фантомов</color>!
 Lige takes less than {{A}} damage=Лидж получает меньше, чем {{A}} урона
-Lige takes less than {{A}} damage		Remaining Damage: {{B}}=Лидж нанесено меньше {{A}} урона		\nОставшийся урон: {{B}}
+Lige takes less than {{A}} damage		Remaining Damage: {{B}}=Лидж нанесено меньше {{A}} урона.		\nОставшийся урон: {{B}}
 Defeat the Shrike Consciousness		{{A}}=Победить Шрайк Сознание {{A}}
 <color\=#8bc7ff>+1(0)</color>=<color\=#8bc7ff>+1(0)</color>
 The phantoms are rising again...=Призраки снова поднимаются...
@@ -11096,8 +11096,8 @@ Restores {{A}} HP to all allied units within the heal radius and grants "Antibod
 　　The ambush trap has been seen through, but that is by no means a reason to underestimate the enemy. The enemy commander still holds crucial clues to the neural inhibitor's location. Only by capturing him alive can we find the true mastermind behind the scenes.=　　Ловушка засада была замечена, но это ни в коем случае не является причиной недооценивать врага. Командир противника по -прежнему держит решающие подсказки о местонахождении нейронного ингибитора. Только запечатлев его живым, мы можем найти истинного вдохновителя за кулисами.
 Has a sculpted physique. Capable of suppressing opponents with a hail of fire from their heavy machine gun. They are equipped with special ammunition that deals higher damage, has stronger armor penetration, and the ability to suppress an opponent's recovery abilities.\n<color\=#ff7373>Attack priority</color>: closest distance=Имеет скульптурное телосложение. Способный подавить противников с градом огня из их тяжелого пулемета. Они оснащены специальными боеприпасами, которые наносят более высокий ущерб, имеют более сильное проникновение брони и способность подавлять способности восстановления противника.\n<color\=#ff7373>Приоритет атаки</color>: ближайшая дистанция
 Decisive Order=Решающий порядок
-Tactical Maneuver=Тактический маневр
-The unit can move an additional time after executing a normal attack.=Устройство может перенести дополнительное время после выполнения нормальной атаки.
+Tactical Maneuver=Тактическийㅤманевр
+The unit can move an additional time after executing a normal attack.=Подразделение может двигаться ещё раз после выполнения обычной атаки.
 Increase attack by {{A}}% and accuracy by {{B}} to all allied units within {{C}} tiles.=Увеличьте атаку {{A}}% и точность {{B}} на все союзные подразделения в плитках {{C}}.
 Reduce AP by {{A}} to enemy units within the area and leave behind a pool of slime for {{B}} turns. Increase movement AP cost by {{C}} to enemy units inside the slime pool.=Сократите AP на {{A}} до вражеских подразделений в этом районе и оставьте бассейн слизи для поворотов {{B}}. Увеличьте движение ap stost от {{C}} к вражеским подразделениям в бассейне слизи.
 Slime Grenade=Слизь Граната
@@ -11574,187 +11574,187 @@ Long-range Automated Gun and Defensive Howitzer have limited ammunition and cann
 Young Female Driver=Молодая женщина-водитель
 Rescue Team Leader=Руководитель спасательной группы
 Little Boy=<size\=15>Маленький мальчик</size>
-{{A}} a.m.  inside the Global Rescue Foundation transport={{A}} a.m. в транспорте Фонда Глобального Спасения
+{{A}} a.m.  inside the Global Rescue Foundation transport={{A}} a.m.  в транспорте Фонда Глобального Спасения
 Middle-aged Man=<size\=15>Мужчина средних лет</size>
 Old Woman=<size\=20>Старуха</size>
-{{A}} p.m.  Cherkessk Highway Checkpoint={{A}} p.m. Черкесск Автодорожный контрольно-пропускной пункт
+{{A}} p.m.  Cherkessk Highway Checkpoint={{A}} p.m.  Черкесск Автодорожный контрольно-пропускной пункт
 Ack!!!=Ааа!!!
 URNC Squad Leader=Командир отряда URNC
 ...Okay.=...Хорошо.
-(Wheezes)=(Улыбается)
+(Wheezes)=(Хрипит)
 Arghhh!=А-а-а!
 {{A}} p.m.  inside the Global Rescue Foundation transport={{A}} p.m. внутри транспорта Фонда глобального спасения
 Male Professor=Мужчина-профессор
 Female Professor=Женщина-профессор
-{{A}}  GAVIRUL laboratory=Лаборатория {{A}} GAVIRUL
+{{A}}  GAVIRUL laboratory={{A}}  Лаборатория GAVIRUL
 {{A}} p.m.  the Ika Mine={{A}} p.m. шахта Ика
 Everyone, stick to the plan and <color\=#ff6060>defend your positions</color>. Take out the incoming enemies.=Все, придерживайтесь плана и <color\=#ff6060>защищайте свои позиции</color>. Уничтожьте приближающихся врагов.
  near the Ika Mine= рядом с шахтой Ика
-We've finally given them the slip. Let's get some rest here.=Мы наконец-то дали им отбой. Давайте немного отдохнем.
-Dammit, I missed again!=Черт, я опять промахнулся!
-You're too slow.=Вы слишком медлительны.
-I underestimated you. I should've done this right from the start.=Я недооценил тебя. Надо было сделать это с самого начала.
+We've finally given them the slip. Let's get some rest here.=Мы наконец-то ускользнули от них. Давайте немного отдохнем.
+Dammit, I missed again!=Черт, я опять промахнулась!
+You're too slow.=Ты слишком медлительна.
+I underestimated you. I should've done this right from the start.=Я недооценила тебя. Надо было сделать это с самого начала.
 I have no time for games.=У меня нет времени на игры.
-Stop it, both of you! Atena, relax and put the gun down!=Прекратите, вы оба! Атена, расслабься и опусти пистолет!
+Stop it, both of you! Atena, relax and put the gun down!=Прекратите, вы обе! Атена, расслабься и опусти пистолет!
 {{A}} p.m.  near the Ika Mine={{A}} около шахты Ика
-You were just scheming a bit too loudly.=Вы просто слишком громко интриговали.
+You were just scheming a bit too loudly.=Вы просто слишком громко строили козни.
 Humph, take it.=Хамп, возьми это.
-<color\=#92b1ff>Let me talk to Mendo.</color>=<color\=#92b1ff>Позвольте мне поговорить с Мендо.</color>
+<color\=#92b1ff>Let me talk to Mendo.</color>=<color\=#92b1ff>Дай мне поговорить с Мендо.</color>
 ...Alright.=...Хорошо.
-<color\=#92b1ff>Lower your weapon.</color>=<color\=#92b1ff>Опустите оружие.</color>
+<color\=#92b1ff>Lower your weapon.</color>=<color\=#92b1ff>Опусти оружие.</color>
 What? But—!=Что? Но...!
-<color\=#92b1ff>First, lower your weapon.</color>=<color\=#92b1ff>Сначала опустите оружие.</color>
-<color\=#92b1ff>I'm guessing you're pointing your gun at them.</color>=<color\=#92b1ff>Полагаю, вы направили на них свой пистолет.</color>
+<color\=#92b1ff>First, lower your weapon.</color>=<color\=#92b1ff>Сначала опусти оружие.</color>
+<color\=#92b1ff>I'm guessing you're pointing your gun at them.</color>=<color\=#92b1ff>Полагаю, ты направила на них свой пистолет.</color>
 ...They are.=...Они.
-<color\=#92b1ff>Things are a bit complicated... Are Mendo and Jefuty still with you?</color>=<color\=#92b1ff>Все немного запуталось... Мендо и Джефути все еще с вами?</color>
+<color\=#92b1ff>Things are a bit complicated... Are Mendo and Jefuty still with you?</color>=<color\=#92b1ff>Все немного запуталось... Мендо и Джефути все еще с тобой?</color>
 <color\=#92b1ff>I'm fine... for the most part.</color>=<color\=#92b1ff>Я в порядке... по большей части.</color>
-Are you alright? Are you injured?=Ты в порядке? Ты ранена?
+Are you alright? Are you injured?=Ты в порядке? Ты ранен?
 <color\=#92b1ff>Oh... I didn't expect you'd be the one to pick up, Atena. This plan has really spun out of control, hasn't it?</color>=<color\=#92b1ff>О... Я не ожидал, что именно ты возьмешь трубку, Атена. Этот план действительно вышел из-под контроля, не так ли?</color>
-Jevon, what's your situation?=Джевон, как у вас обстоят дела?
-Neither of you move.=Никто из вас не двигается.
-Let me do the talking!=Позвольте мне говорить!
+Jevon, what's your situation?=Джевон, как у тебя обстоят дела?
+Neither of you move.=Никому не двигаться.
+Let me do the talking!=Дай мне с ним поговорить!
 Hold on, it's Jevon on the comms!=Подождите, это Джевон на связи!
 <color\=#92b1ff>You outplayed us, Miss Jefuty.</color>=<color\=#92b1ff>Вы переиграли нас, мисс Джефути.</color>
-<color\=#92b1ff>I'm fine, the radio malfunctioned just now, otherwise I would have contacted you earlier. Go ahead and broadcast publicly; I have something to say.</color>=<color\=#92b1ff>Я в порядке, радиопрофессионал только сейчас, иначе я бы связался с вами ранее. Давай, транслируйте публику; Мне есть что сказать.</color>
+<color\=#92b1ff>I'm fine, the radio malfunctioned just now, otherwise I would have contacted you earlier. Go ahead and broadcast publicly; I have something to say.</color>=<color\=#92b1ff>Со мной всё в порядке, просто радиостанция дала сбой, иначе я бы связался с вами раньше. Можете начинать трансляцию публично, у меня есть что сказать.</color>
 Jevon, I'm sure Jefuty didn't do it out of malice. She just wants to...=Джевон, я уверен, что Джефути не сделала это из злобы. Она просто хочет ...
 She wants us dead!=Она хочет, чтобы мы умерли!
-<color\=#92b1ff>If Miss Jefuty really wanted us dead, she had more than enough opportunities while we were busy engaging the enemy.</color>=<color\=#92b1ff>Если бы мисс Джефути действительно хотела, чтобы мы умерли, у нее было более чем достаточно возможностей, пока мы были заняты вовлечением врага.</color>
-<color\=#92b1ff>However, Atena isn't entirely wrong either.</color>=<color\=#92b1ff>Однако Атена тоже не совсем не так.</color>
-<color\=#92b1ff>Miss Jefuty, I know you simply wanted us to get out of your way, but we are on your side. This was uncalled for.</color>=<color\=#92b1ff>Мисс Джефути, я знаю, что ты просто хотел, чтобы мы ушли с пути, но мы на твоей стороне. Это было неуместно для.</color>
-<color\=#92b1ff>However, I didn't expect you'd keep Mendo with you.</color>=<color\=#92b1ff>Тем не менее, я не ожидал, что вы будете держать Мендо с собой.</color>
-I wasn't planning to.=Я не планировал.
-<color\=#92b1ff>So you did it on a whim, huh? Mendo, you should be proud of yourself.</color>=<color\=#92b1ff>Так ты сделал это по прихоти, а? Мендо, ты должен гордиться собой.</color>
-Uh, what do you mean?=Э -э, что ты имеешь в виду?
-<color\=#92b1ff>Miss Jefuty, I know you have your own agenda, but I also have my own considerations.</color>=<color\=#92b1ff>Мисс Джефути, я знаю, что у вас есть собственная повестка дня, но у меня также есть свои соображения.</color>
-<color\=#92b1ff>Look, things are always more complicated in real life than on paper. Neither of us got what we wanted in the end.</color>=<color\=#92b1ff>Слушай, в реальной жизни всегда сложнее, чем на бумаге. Никто из нас не получил того, что мы хотели в конце концов.</color>
-<color\=#92b1ff>Still, I would like you to listen to me. I'm speaking from the heart here.</color>=<color\=#92b1ff>Тем не менее, я бы хотел, чтобы вы меня послушали. Я говорю здесь от всего сердца.</color>
-...Go ahead.=...Вперед, продолжать.
+<color\=#92b1ff>If Miss Jefuty really wanted us dead, she had more than enough opportunities while we were busy engaging the enemy.</color>=<color\=#92b1ff>Если бы мисс Джефути действительно хотела нашей смерти, у неё было достаточно возможностей, пока мы были заняты сражением с врагом.</color>
+<color\=#92b1ff>However, Atena isn't entirely wrong either.</color>=<color\=#92b1ff>Тем не менее, Атена тоже не совсем не права.</color>
+<color\=#92b1ff>Miss Jefuty, I know you simply wanted us to get out of your way, but we are on your side. This was uncalled for.</color>=<color\=#92b1ff>Мисс Джефути, я знаю, что ты просто хотела, чтобы мы не мешали тебе, но мы на твоей стороне. Это было лишним.</color>
+<color\=#92b1ff>However, I didn't expect you'd keep Mendo with you.</color>=<color\=#92b1ff>Тем не менее, я не ожидал, что ты оставишь Мендо с собой.</color>
+I wasn't planning to.=Я не планировала.
+<color\=#92b1ff>So you did it on a whim, huh? Mendo, you should be proud of yourself.</color>=<color\=#92b1ff>Так ты сделала это по прихоти, а? Мендо, тебе стоит гордиться собой.</color>
+Uh, what do you mean?=Эм, что ты имеешь в виду?
+<color\=#92b1ff>Miss Jefuty, I know you have your own agenda, but I also have my own considerations.</color>=<color\=#92b1ff>Мисс Джефути, я знаю, что у тебя есть свои цели, но у меня тоже есть свои соображения.</color>
+<color\=#92b1ff>Look, things are always more complicated in real life than on paper. Neither of us got what we wanted in the end.</color>=<color\=#92b1ff>Слушай, в реальной жизни всё всегда сложнее, чем на бумаге. В итоге ни один из нас не получил того, чего хотел.</color>
+<color\=#92b1ff>Still, I would like you to listen to me. I'm speaking from the heart here.</color>=<color\=#92b1ff>Тем не менее, я бы хотел, чтобы ты выслушала меня. Я говорю от всей души.</color>
+...Go ahead.=...Продолжайте.
 <color\=#92b1ff>Our mission is to bring you to Antarctica, but you insist on rescuing your little sister first.</color>=<color\=#92b1ff>Наша миссия - привезти вас в Антарктиду, но вы настаиваете на том, чтобы сначала спасти свою младшую сестру.</color>
-<color\=#92b1ff>We do have conflicting interests here, but the good news is, our respective objectives aren't mutually exclusive despite this.</color>=<color\=#92b1ff>У нас здесь конфликтующие интересы, но хорошая новость в том, что наши соответствующие цели не являются взаимоисключающими, несмотря на это.</color>
-<color\=#92b1ff>As long as you are still willing to join us, these two Antarctican soldiers will listen to your orders for our next move.</color>=<color\=#92b1ff>Пока вы все еще готовы присоединиться к нам, эти два солдата -антарктики выслушают ваши заказы на наш следующий шаг.</color>
+<color\=#92b1ff>We do have conflicting interests here, but the good news is, our respective objectives aren't mutually exclusive despite this.</color>=<color\=#92b1ff>У нас действительно есть противоречивые интересы, но хорошая новость в том, что наши цели на самом деле не взаимно исключают друг друга, несмотря на это.</color>
+<color\=#92b1ff>As long as you are still willing to join us, these two Antarctican soldiers will listen to your orders for our next move.</color>=<color\=#92b1ff>Пока ты всё ещё готова присоединиться к нам, эти два антарктических солдата будут слушать твои приказы по поводу нашего следующего шага.</color>
 Jevon?!=Джевон?!
-<color\=#92b1ff>Atena, considering these circumstances, it's better to do what we can to attain the best possible result instead of antagonizing her any further.</color>=<color\=#92b1ff>Атена, учитывая эти обстоятельства, лучше сделать все возможное, чтобы достичь наилучшего возможного результата вместо того, чтобы противостоять ей.</color>
-<color\=#92b1ff>Surely you agree, Miss Jefuty?</color>=<color\=#92b1ff>Конечно, вы согласны, мисс Джефути?</color>
-<color\=#92b1ff>Can I interpret your silence as tacit agreement?</color>=<color\=#92b1ff>Могу ли я истолковывать ваше молчание как молчаливое соглашение?</color>
-Why should I trust you again?=Почему я должен тебе снова доверять?
-<color\=#92b1ff>Because if you really want to rescue your sister from the URNC base, you'll definitely need our help.</color>=<color\=#92b1ff>Потому что, если вы действительно хотите спасти свою сестру от базы URNC, вам определенно понадобится наша помощь.</color>
-Humph. I hope you won't do anything out of line again.=Хамп. Я надеюсь, что вы больше ничего не сделаете вне линии.
-<color\=#92b1ff>Great. In that case, Mendo.</color>=<color\=#92b1ff>Большой. В этом случае Мендо.</color>
-<color\=#92b1ff>Miss Jefuty trusts you, so from now on, make sure you take good care of the two ladies.</color>=<color\=#92b1ff>Мисс Джефути доверяет вам, так что отныне убедитесь, что вы хорошо заботитесь о двух дамах.</color>
-<color\=#92b1ff>Without me with you, you're the one who calls the shots.</color>=<color\=#92b1ff>Без меня с тобой, ты тот, кто называет снимки.</color>
-Me? Hold on... They are both perfectly capable of taking care of themselves...=Мне? Держитесь ... они оба вполне способны заботиться о себе ...
+<color\=#92b1ff>Atena, considering these circumstances, it's better to do what we can to attain the best possible result instead of antagonizing her any further.</color>=<color\=#92b1ff>Атена, учитывая эти обстоятельства, будет лучше сделать всё, что мы можем, чтобы достичь наилучшего возможного результата, вместо того чтобы продолжать её раздражать.</color>
+<color\=#92b1ff>Surely you agree, Miss Jefuty?</color>=<color\=#92b1ff>Наверное, ты согласна, мисс Джефути?</color>
+<color\=#92b1ff>Can I interpret your silence as tacit agreement?</color>=<color\=#92b1ff>Могу ли я интерпретировать твоё молчание как молчаливое согласие?</color>
+Why should I trust you again?=Почему я должна вам снова доверять?
+<color\=#92b1ff>Because if you really want to rescue your sister from the URNC base, you'll definitely need our help.</color>=<color\=#92b1ff>Потому что если ты действительно хочешь спасти свою сестру из базы URNC, тебе обязательно понадобится наша помощь.</color>
+Humph. I hope you won't do anything out of line again.=Хмф. Надеюсь, ты больше не сделаешь ничего нелепого.
+<color\=#92b1ff>Great. In that case, Mendo.</color>=<color\=#92b1ff>Отлично. В таком случае, Мендо.</color>
+<color\=#92b1ff>Miss Jefuty trusts you, so from now on, make sure you take good care of the two ladies.</color>=<color\=#92b1ff>Мисс Джефути доверяет тебе, так что с этого момента убедись, что ты хорошо позаботишься о двух дамах.</color>
+<color\=#92b1ff>Without me with you, you're the one who calls the shots.</color>=<color\=#92b1ff>Без меня рядом, теперь ты принимаешь решения.</color>
+Me? Hold on... They are both perfectly capable of taking care of themselves...=Я? Подожди... Они обе вполне способны позаботиться о себе сами...
 <color\=#92b1ff>Atena.</color>=<color\=#92b1ff>Атена.</color>
 <color\=#92b1ff>I know what you're thinking, but don't forget—we're soldiers.</color>=<color\=#92b1ff>Я знаю, о чем ты думаешь, но не забывай - мы солдаты.</color>
-<color\=#92b1ff>No matter what we do, we're here to complete our mission. Don't let your emotions cloud your judgment.</color>=<color\=#92b1ff>Независимо от того, что мы делаем, мы здесь, чтобы завершить нашу миссию. Не позволяйте своим эмоциям омрачить ваше суждение.</color>
-Mendo, stand back!=Мендо, отступил!
+<color\=#92b1ff>No matter what we do, we're here to complete our mission. Don't let your emotions cloud your judgment.</color>=<color\=#92b1ff>Что бы мы ни делали, мы здесь, чтобы выполнить нашу миссию. Не позволяй своим эмоциям затмить здравый смысл.</color>
+Mendo, stand back!=Мендо, отойди!
 No! Atena, calm down! This isn't necessary!=Нет! Атена, успокойся! Это не нужно!
-I saw her detonate the explosives! Is that not enough to prove her intentions?!=Я видел, как она взорвала взрывчатые вещества! Разве этого недостаточно, чтобы доказать ее намерения?!
-And you! Why did she make you stay behind?! Were you aware of her plan?!=А ты! Почему она заставила тебя остаться?! Вы знали о ее плане?!
+I saw her detonate the explosives! Is that not enough to prove her intentions?!=Я видела, как она взорвала взрывчатку! Разве этого недостаточно, чтобы доказать её намерения?!
+And you! Why did she make you stay behind?! Were you aware of her plan?!=А ты! Почему она заставила тебя остаться? Ты знал о её плане?!
 I didn't know what she was going to do! If I had known, I would've stopped her!=Я не знал, что она собирается делать! Если бы я знал, я бы остановил ее!
 But I believe she didn't mean to hurt you!=Но я верю, что она не хотела причинить тебе боль!
-Jefuty, explain yourself!=Джефути, объясните себя!
-For what? I see no reason to explain myself to someone who tried to kill me without warning.=За что? Я не вижу причин объяснять себя тому, кто пытался убить меня без предупреждения.
-If you both refuse to budge, we're going to—=Если вы оба отказываетесь сдвинуться с места, мы собираемся ...
+Jefuty, explain yourself!=Джефути, объясни свои действия!
+For what? I see no reason to explain myself to someone who tried to kill me without warning.=Зачем? Я не вижу причины объясняться с той, кто пыталась убить меня без предупреждения.
+If you both refuse to budge, we're going to—=Если вы обе откажетесь отступить, мне придется...
 It's me, Jevon.=Это я, Джевон.
 <color\=#92b1ff>Don't go asking me the same question every time.</color>=<color\=#92b1ff>Не задавайте мне одного и того же вопроса каждый раз.</color>
-This girl is utterly ruthless. She kills anyone who doesn't do things her way.=Эта девушка совершенно безжалостная. Она убивает любого, кто не делает вещи по -своему.
-<color\=#92b1ff>Don't repeat the same mistake.</color>=<color\=#92b1ff>Не повторяйте ту же ошибку.</color>
-Understood. I'll reflect on my own actions.=Понял. Я размышляю о своих собственных действиях.
-<color\=#92b1ff>I won't be with you for quite a while.</color>=<color\=#92b1ff>Я не буду с тобой довольно долго.</color>
-<color\=#92b1ff>I'll lead our reinforcements through a different route and regroup with you.</color>=<color\=#92b1ff>Я возеду наше подкрепление по другому маршруту и ​​перегруппируюсь с вами.</color>
-I can wait for you near the URNC base.=Я могу ждать тебя возле базы урнка.
+This girl is utterly ruthless. She kills anyone who doesn't do things her way.=Эта девушка совершенно безжалостна. Она убивает любого, кто поступает не по-своему.
+<color\=#92b1ff>Don't repeat the same mistake.</color>=<color\=#92b1ff>Не повторяй ту же ошибку.</color>
+Understood. I'll reflect on my own actions.=Понял. Я подумаю над своими действиями.
+<color\=#92b1ff>I won't be with you for quite a while.</color>=<color\=#92b1ff>Я не буду с вами ещё долго.</color>
+<color\=#92b1ff>I'll lead our reinforcements through a different route and regroup with you.</color>=<color\=#92b1ff>Я проведу наши подкрепления другим маршрутом и соберусь с вами.</color>
+I can wait for you near the URNC base.=Я могу подождать вас рядом с базой URNC.
 <color\=#92b1ff>Looks like we've come to an agreement.</color>=<color\=#92b1ff>Похоже, мы пришли к соглашению.</color>
-<color\=#92b1ff>Comms won't work while I'm in the tunnel. I'll get in touch once I'm out.</color>=<color\=#92b1ff>Коммум не будет работать, пока я в туннеле. Я свяжусь с нами, как только я выйду.</color>
-<color\=#92b1ff>It's not safe where you are. You should get a move on.</color>=<color\=#92b1ff>Это не безопасно там, где вы находитесь. Вы должны пойти дальше.</color>
-Uh, Jefuty... Atena...=Э -э, Джефути ... Атена ...
+<color\=#92b1ff>Comms won't work while I'm in the tunnel. I'll get in touch once I'm out.</color>=<color\=#92b1ff>Связь не будет работать, пока я в туннеле. Свяжусь с вами, как только выберусь.</color>
+<color\=#92b1ff>It's not safe where you are. You should get a move on.</color>=<color\=#92b1ff>Там небезопасно. Тебе стоит поспешить.</color>
+Uh, Jefuty... Atena...=Э -э, Джефути... Атена...
 Since it's an order from Jevon, I have no objections.=Поскольку это приказ от Джевона, у меня нет возражений.
 Since no one has anything against Jevon's plan, let's...=Поскольку никто не имеет ничего против плана Джевона, давайте ...
 I know a way to the base.=Я знаю путь к базе.
-Once we're there, we can infiltrate the building.=Как только мы там, мы можем проникнуть в здание.
-You want to get inside directly?=Вы хотите попасть внутрь напрямую?
-Wait a minute, didn't Jevon say that he was going to help you find your sister after the rendezvous!?=Подождите минутку, не сказал, что Джевон не сказал, что поможет вам найти свою сестру после рандеву!?
-That would be too late. It's uncertain if he even can regroup with us. Besides, I am highly doubtful that you would honor our agreement.=Это было бы слишком поздно. Неясно, может ли он даже перегруппироваться с нами. Кроме того, я очень сомневаюсь, что вы будете соблюдать наше согласие.
+Once we're there, we can infiltrate the building.=Как только мы доберёмся туда, мы сможем проникнуть в здание.
+You want to get inside directly?=Ты хочешь попасть внутрь напрямую?
+Wait a minute, didn't Jevon say that he was going to help you find your sister after the rendezvous!?=Подожди минуту, разве Джевон не сказал, что он поможет тебе найти вашу сестру после встречи!?
+That would be too late. It's uncertain if he even can regroup with us. Besides, I am highly doubtful that you would honor our agreement.=Это будет слишком поздно. Не факт, что он вообще сможет присоединиться к нам. К тому же, я сильно сомневаюсь, что ты сдержишь наше соглашение.
 Why, you...!=Почему, ты ...!
-I thought that TASA officer said you would aid me in my endeavors.=Я думал, что офицер TASA сказал, что вы поможете мне в моих усилиях.
+I thought that TASA officer said you would aid me in my endeavors.=Я думала, что офицер TASA сказал, что ты поможешь мне в моих усилиях.
 If you refuse to do that, I will go solo.=Если вы откажетесь делать это, я пойду соло.
-We'll work with you!=Мы будем работать с вами!
-But let's not be too rash. We should first conduct some basic recon around the base before planning our next step. =Но давайте не будем слишком опрометчивыми. Сначала мы должны провести какой -то базовый разговор вокруг базы, прежде чем планировать наш следующий шаг. 
+We'll work with you!=Мы будем работать с тобой!
+But let's not be too rash. We should first conduct some basic recon around the base before planning our next step. =Но давай не будем торопиться. Сначала нам нужно провести базовую разведку вокруг базы, прежде чем планировать следующие шаги.
 Isn't that right, Atena?=Разве это не так, Атена?
 Alright, we're all in agreement then.=Хорошо, мы все согласны тогда.
-Can we finally set off? Lige is running out of time.=Можем ли мы наконец отправиться? Лидж не хватает времени.
-Are you sure it's safe where you're going?=Вы уверены, что это безопасно, куда вы идете?
-I'm not, but the location is at the very heart of the URNC forces' defensive perimeter...=Я нет, но расположение находится в самом сердце оборонительного периметра сил URNC ...
-As long as we stay undetected when we cross their line of defenses, they won't expect us to be so close to the base.=Пока мы остаемся незамеченными, когда мы пересекаем их линию защиты, они не ожидают, что мы будем так близки к базе.
-Besides, I've been there before. Trust me, you won't find a better vantage point to scout out the base.=Кроме того, я был там раньше. Поверьте мне, вы не найдете лучшую точку зрения для поиска базы.
+Can we finally set off? Lige is running out of time.=Можем ли мы наконец отправляться? Время Лидж на исходе.
+Are you sure it's safe where you're going?=Ты уверена, что там, куда ты направляешься, безопасно?
+I'm not, but the location is at the very heart of the URNC forces' defensive perimeter...=Я не уверена, но это место прямо в самом центре оборонительного периметра сил URNC...
+As long as we stay undetected when we cross their line of defenses, they won't expect us to be so close to the base.=Пока мы останемся незамеченными, когда пересечём их оборонительную линию, они не будут ожидать, что мы так близко к базе.
+Besides, I've been there before. Trust me, you won't find a better vantage point to scout out the base.=Кроме того, я уже была там. Поверь мне, вы не найдёте лучшей позиции для разведки базы.
 That's not good enough.=Этого недостаточно.
-Do you even understand our situation? We are terribly exposed.=Вы даже понимаете нашу ситуацию? Мы ужасно разоблачены.
-This whole place is teeming with the URNC soldiers. We'll just be walking in to a death trap.=Все это место кишат солдатами URNC. Мы просто пойдем в ловушку смерти.
-Then do you have a better suggestion?=Тогда у вас есть лучшее предложение?
+Do you even understand our situation? We are terribly exposed.=Ты вообще понимаешь нашу ситуацию? Мы в ужасно уязвимом положении.
+This whole place is teeming with the URNC soldiers. We'll just be walking in to a death trap.=Это место переполнено солдатами URNC. Мы просто войдём в смертельную ловушку.
+Then do you have a better suggestion?=Тогда у тебя есть лучшее предложение?
 ...Evading the URNC's capture is just the first step, and that's difficult enough on its own.=... уклоняться от захвата URNC - это лишь первый шаг, и это достаточно сложно само по себе.
-Even if we do make it to the base safely, how are we going to get your sister away from the base's garrison? Don't you think the URNC is going to guard such an important test subject?=Даже если мы безопасно доберемся до базы, как мы собираемся убрать вашу сестру от гарнизона базы? Разве вы не думаете, что URNC будет охранять такой важный тестовый предмет?
-You're right. Since stealth isn't really an option, let's not consider it at all.=Ты прав. Поскольку Stealth на самом деле не вариант, давайте не будем рассматривать это вообще.
-...What do you mean? Are you going to fight your way into the base?=...Что ты имеешь в виду? Собираетесь ли вы пробиться в базу?
-Mendo, what would happen if we're spotted near the URNC base?=Мендо, что произойдет, если мы увидим рядом с базой Урнк?
-All the troops in the base would sally forth and have us surrounded. That would be certain death for us.=Все войска на базе будут находить на себя и окружить нас. Это было бы определенной смертью для нас.
-But what if it wasn't actually us that they spot?=Но что, если на самом деле это не мы, они заметили?
-Not actually us...?=Не на самом деле мы ...?
-So your idea is to draw out the garrison with some sort of decoy?=Итак, ваша идея состоит в том, чтобы вытянуть гарнизон какой -то приманкой?
-We'll get their main forces to sortie and draw them somewhere far away, then we can take advantage of their weakened defenses and go get Lige.=Мы заставим их основные силы, чтобы вылетить и нарисовать их где -то далеко, затем мы сможем воспользоваться их ослабленной обороной и пойти получить Лидж.
+Even if we do make it to the base safely, how are we going to get your sister away from the base's garrison? Don't you think the URNC is going to guard such an important test subject?=Даже если нам удастся добраться до базы безопасно, как мы заберём твою сестру из гарнизона? Разве ты не думаешь, что URNC будет охранять такой важный опытный объект?
+You're right. Since stealth isn't really an option, let's not consider it at all.=Ты права. Раз уж скрытность не вариант, давай вообще не будем её учитывать.
+...What do you mean? Are you going to fight your way into the base?=...Что ты имеешь в виду? Ты собираешься пробиваться в базу силой?
+Mendo, what would happen if we're spotted near the URNC base?=Мендо, что произойдёт, если нас заметят рядом с базой URNC?
+All the troops in the base would sally forth and have us surrounded. That would be certain death for us.=Все войска на базе выйдут и окружат нас. Это означало бы верную смерть для нас.
+But what if it wasn't actually us that they spot?=А что, если они заметят не нас?
+Not actually us...?=Не нас...?
+So your idea is to draw out the garrison with some sort of decoy?=Так твоя идея — выманить гарнизон с помощью приманки?
+We'll get their main forces to sortie and draw them somewhere far away, then we can take advantage of their weakened defenses and go get Lige.=Мы выведем их основные силы и заманим их куда-то далеко, а затем сможем воспользоваться ослабленной обороной и забрать Лидж.
 That's too reckless!=Это слишком безрассудно!
-Besides, how are you planning to lure the URNC's main forces?=Кроме того, как вы планируете заманить основные силы URNC?
-We'll play it by ear.=Мы сыграем это на слух.
+Besides, how are you planning to lure the URNC's main forces?=К тому же, как ты собираешься выманить основные силы URNC?
+We'll play it by ear.=Будем действовать по ситуации.
 That's your plan?=Это твой план?
-See, that's why you can't trust an amateur...=Видите, вот почему вы не можете доверять любительству ...
-Then what do you suggest, Miss Professional?=Тогда что вы предлагаете, мисс профессионал?
-...If you're dead set on this, I do have a way.=... если вы погибли на этом, у меня есть способ.
-I carefully reviewed the map and intelligence of the Inner Caucasus region before the mission. I have some knowledge of the situation around their military base.=Я тщательно рассмотрел карту и интеллект внутреннего региона Кавказа перед миссией. У меня есть некоторые знания о ситуации вокруг их военной базы.
-A word of warning: the perimeter of the base is very dangerous. The southwest is a contaminated quarantine zone. There's no sign of life there except for ELIDs. We should try and avoid that side.=Слово предупреждения: периметр базы очень опасен. Юго -запад является загрязненной карантинной зоной. Там нет никаких признаков жизни, кроме Элида. Мы должны попытаться избежать этой стороны.
-To get the forces inside to mobilize en masse, we must at least hack their command system and feed the high-ranking officers false intelligence.=Чтобы получить силы внутри, чтобы мобилизовать EN Mass, мы должны, по крайней мере, взломать их систему команд и накормить высокопоставленных офицеров ложного интеллекта.
-Hm... That's true. If it can be done, it's the most likely way to draw out the enemy.=Хм ... это правда. Если это можно сделать, это наиболее вероятный способ вытянуть врага.
-But hacking their internal command system isn't exactly easy. You'll need at least one base station as an access point for that.=Но взломать их внутреннюю систему команд не совсем просто. Для этого вам понадобится хотя бы одна базовая станция.
-Although the equipment of the URNC here might be outdated, their command system is likely still based on a closed-circuit structure.=Хотя оборудование URNC здесь может быть устаревшим, их командная система, вероятно, по-прежнему основана на структуре с замкнутым кругом.
-Indeed, but there are still weaknesses that we can exploit.=Действительно, но есть еще слабости, которые мы можем использовать.
-Even if their system is totally sealed, they must still receive commands externally.=Даже если их система полностью запечатана, они все равно должны получать команды извне.
-I know the location of some URNC signal towers near the base.=Я знаю местоположение некоторых сигнальных башни URNC возле основания.
-If I can put my chip in those signal towers, I can remotely disguise their commands and gain access to the base's command system. =Если я могу поместить свой чип в эти сигнальные башни, я могу удаленно маскировать их команды и получить доступ к системе команд базы. 
-Once I'm in, I should be able to handle the rest.=Как только я нахожусь, я смогу справиться с остальными.
-Looks like you've already worked out how to take on the base. I don't believe this was ever part of your mission?=Похоже, вы уже выработали, как взять на себя базу. Я не верю, что это было частью вашей миссии?
-This is just one of our backup plans. A contingency prepared for the worst-case scenario.=Это только один из наших планов резервного копирования. Непредвиденные обстоятельства, подготовленные для худшего сценария.
-However, after we draw out their main forces, they'll return to the base soon enough if they can't find anything.=Однако после того, как мы вытащим их основные силы, они скоро вернутся на базу, если не смогут ничего найти.
-Remember the vantage point I mentioned?=Помните то, какую точку зрения, которую я упомянул?
+See, that's why you can't trust an amateur...=Вот почему нельзя доверять новичкам...
+Then what do you suggest, Miss Professional?=Тогда что ты предлагаешь, Мисс Профессионал?
+...If you're dead set on this, I do have a way.=...Если ты настроена на это, у меня есть план.
+I carefully reviewed the map and intelligence of the Inner Caucasus region before the mission. I have some knowledge of the situation around their military base.=Я тщательно изучила карту и разведданные по региону Внутреннего Кавказа перед миссией. У меня есть некоторое представление о ситуации вокруг их военной базы.
+A word of warning: the perimeter of the base is very dangerous. The southwest is a contaminated quarantine zone. There's no sign of life there except for ELIDs. We should try and avoid that side.=Предупреждаю: периметр базы очень опасен. Юго-запад — это заражённая карантинная зона. Там нет признаков жизни, кроме ЭЛИДов. Нам стоит постараться избегать этой стороны.
+To get the forces inside to mobilize en masse, we must at least hack their command system and feed the high-ranking officers false intelligence.=Чтобы заставить войска внутри массово мобилизоваться, нам нужно как минимум взломать их командную систему и ввести высокопоставленных офицеров в заблуждение, подавая ложные данные.
+Hm... That's true. If it can be done, it's the most likely way to draw out the enemy.=Хм... Это правда. Если нам удастся это провернуть, это будет самым надёжным способом выманить врага.
+But hacking their internal command system isn't exactly easy. You'll need at least one base station as an access point for that.=Но взлом их внутренней командной системы — не такая уж простая задача. Тебе понадобится как минимум одна базовая станция в качестве точки доступа.
+Although the equipment of the URNC here might be outdated, their command system is likely still based on a closed-circuit structure.=Хотя оборудование URNC здесь может быть устаревшим, их командная система, скорее всего, всё ещё основана на замкнутой сети.
+Indeed, but there are still weaknesses that we can exploit.=Это верно, но всё же есть уязвимости, которыми мы можем воспользоваться.
+Even if their system is totally sealed, they must still receive commands externally.=Даже если их система полностью изолирована, они всё равно должны получать команды извне.
+I know the location of some URNC signal towers near the base.=Я знаю расположение нескольких сигнальных вышек URNC рядом с базой.
+If I can put my chip in those signal towers, I can remotely disguise their commands and gain access to the base's command system. =Если я смогу установить свой чип на этих сигнальных вышках, то смогу удалённо подделать их команды и получить доступ к командной системе базы.
+Once I'm in, I should be able to handle the rest.=Как только я получу доступ, со всем остальным я разберусь.
+Looks like you've already worked out how to take on the base. I don't believe this was ever part of your mission?=Похоже, ты уже продумала, как взять базу. Не думаю, что это когда-либо было частью твоего задания?
+This is just one of our backup plans. A contingency prepared for the worst-case scenario.=Это всего лишь один из наших запасных планов. Мера предосторожности на случай худшего сценария.
+However, after we draw out their main forces, they'll return to the base soon enough if they can't find anything.=Однако, как только мы выманим их основные силы, они быстро вернутся на базу, если ничего не найдут.
+Remember the vantage point I mentioned?=Помнишь, я говорила о точке наблюдения?
 You mean to...=Ты хочешь ...
-That's right, draw them there and we'll ambush them.=Правильно, нарисуйте их там, и мы их устроем.
-Once we've lured them all to us, we'll jump off the cliff and the base will be right there. We can then make our way inside and find Lige.=Как только мы заманили их всех нам, мы спрыгну с обрыва, и база будет прямо там. Затем мы можем пробиться внутрь и найти Лидж.
-They will probably hang around and search for us around the cliff. Even if they return to the base, it'll take them a while.=Они, вероятно, будут болтаться и искать нас вокруг скалы. Даже если они вернутся на базу, это займет им некоторое время.
-Jumping off the cliff?!=Спрыгнул со скалы?!
-I can Reverse-Collapse a paraglider.=Я могу обработать параплана.
+That's right, draw them there and we'll ambush them.=Точно, выманим их туда, а затем устроим засаду.
+Once we've lured them all to us, we'll jump off the cliff and the base will be right there. We can then make our way inside and find Lige.=Как только мы заманим их всех к нам, мы спрыгнем с утёса, и база будет прямо перед нами. Тогда мы сможем пробраться внутрь и найти Лидж.
+They will probably hang around and search for us around the cliff. Even if they return to the base, it'll take them a while.=Они, вероятно, будут искать нас вокруг утёса. Даже если они вернутся на базу, это займёт у них какое-то время.
+Jumping off the cliff?!=Спрыгнуть со скалы?!
+I can Reverse-Collapse a paraglider.=Я могу получить параплан с помощью Обратного Коллапса.
 ...With a paraglider, that's worth a try.=... с парапланом, это стоит попробовать.
-Sounds a lot safer. So the war council is over.=Звучит намного безопаснее. Так что военный совет закончился.
-I didn't expect you would actively contribute to this plan.=Я не ожидал, что вы будете активно внести свой вклад в этот план.
-Don't get the wrong idea. Jevon gave me a direct order to assist you, so I have no choice but to obey.=Не поймите неправильную идею. Джевон дал мне прямой приказ, чтобы помочь вам, поэтому у меня нет выбора, кроме как подчиняться.
-I've done you a huge favor. In return, you must answer my question.=Я сделал тебе огромную услугу. Взамен вы должны ответить на мой вопрос.
+Sounds a lot safer. So the war council is over.=Звучит намного безопаснее. Значит, военный совет завершён.
+I didn't expect you would actively contribute to this plan.=Не ожидала, что ты так активно примешь участие в этом плане.
+Don't get the wrong idea. Jevon gave me a direct order to assist you, so I have no choice but to obey.=Не думай, что я что-то решила. Джевон дал мне прямой приказ помочь тебе, так что у меня нет другого выбора, кроме как подчиниться.
+I've done you a huge favor. In return, you must answer my question.=Я сделала тебе огромную услугу. Взамен ты должна ответить на мой вопрос.
 What question?=Какой вопрос?
-Why did you keep Mendo with you when you blew up the entrance to the mine?=Почему вы держали Мендо с собой, когда взорвали вход в шахту?
+Why did you keep Mendo with you when you blew up the entrance to the mine?=Почему ты оставила Мендо с собой, когда взорвал вход в шахту?
 What are you still hiding from me?=Что ты все еще скрываешь от меня?
-...Mendo.=... Мендо.
-I'm not sure if you know, but the research project that your parents participated in was the GAVIRUL Project.=Я не уверен, что знаете ли вы, но исследовательский проект, в котором участвовали ваши родители, был проект Gavirul.
+...Mendo.=...Мендо.
+I'm not sure if you know, but the research project that your parents participated in was the GAVIRUL Project.=Не уверена, знаешь ли ты, но исследовательский проект, в котором участвовали твои родители, назывался проектом GAVIRUL.
 ...What?=...Что?
-Mendo, I knew the two professors personally...=Мендо, я знал двух профессоров лично ...
-You knew my parents?=Ты знал моих родителей?
-They were the ones who cultivated me for the project. They worked with me for a long time.=Они были теми, кто культивировал меня для проекта. Они работали со мной долго.
-I'm sorry for keeping them away from you...=Прошу прощения за то, что держал их подальше от вас ...
-So that's what kept them so busy...=Так что это то, что заставило их такими заняты ...
-Hold on, when you said you couldn't keep your family safe... you were talking about them?=Держитесь, когда вы сказали, что не можете обеспечить безопасность своей семьи ... вы говорили о них?
-Yes... I didn't think things through.=Да ... я не думал о чем -то.
-If only I were more cautious six years ago...=Если бы я был более осторожен шесть лет назад ...
+Mendo, I knew the two professors personally...=Мендо, я знала двух профессоров лично ...
+You knew my parents?=Ты знала моих родителей?
+They were the ones who cultivated me for the project. They worked with me for a long time.=Именно они занимались моим выращиванием для проекта. Они долгое время работали со мной.
+I'm sorry for keeping them away from you...=Извини, что я держала их вдали от тебя...
+So that's what kept them so busy...=Вот что занимало их всё это время...
+Hold on, when you said you couldn't keep your family safe... you were talking about them?=Подожди, когда ты сказала, что не смогла защитить свою семью... ты говорила о них?
+Yes... I didn't think things through.=Да... Я не подумала о последствиях.
+If only I were more cautious six years ago...=Если бы я была более осторожна шесть лет назад...
 Six years ago...=Шесть лет назад ...
 What exactly happened back then...?=Что именно произошло тогда ...?
-I know you have a lot of questions. I'll tell you everything once we find Lige and get to somewhere safe.=Я знаю, что у вас много вопросов. Я расскажу вам все, как только мы найдем Лидж и доберемся до где -нибудь в безопасности.
-But for now, I need your full cooperation. Your parents raised both Lige and me. I don't want their effort or sacrifice to be in vain.=Но сейчас мне нужно ваше полное сотрудничество. Ваши родители воспитали и Лидж, и я. Я не хочу, чтобы их усилия или жертвы были напрасными.
-Somehow, I don't think our meeting here was a coincidence.=Каким -то образом я не думаю, что наша встреча здесь была совпадением.
+I know you have a lot of questions. I'll tell you everything once we find Lige and get to somewhere safe.=Я знаю, у тебя много вопросов. Я расскажу тебе всё, как только мы найдём Лидж и окажемся в безопасности.
+But for now, I need your full cooperation. Your parents raised both Lige and me. I don't want their effort or sacrifice to be in vain.=Но пока мне нужна твоя полная поддержка. Твои родители воспитали и Лидж, и меня. Я не хочу, чтобы их усилия и жертвы были напрасными.
+Somehow, I don't think our meeting here was a coincidence.=Как-то мне кажется, что наша встреча здесь — не случайность.
 So that's how it is...=Так вот как это ...
-And here I thought nothing could surprise me anymore.=И здесь я думал, что ничто не может меня удивить.
-Save your surprise. We need to move.=Сохраните свой сюрприз. Нам нужно двигаться.
+And here I thought nothing could surprise me anymore.=А я думала, что меня уже ничем не удивишь.
+Save your surprise. We need to move.=Оставь свои удивления. Нам нужно двигаться.
 {{A}} a.m.  Küie Cliffs={{A}} A.M. Скалы Кюи
 No... Ow...=Нет ... оу ...
 I can't believe they went so deep into enemy territory when there are signs of URNC troop activity everywhere... Atena should be just up ahead!=Я не могу поверить, что они настолько глубоко вошли в вражескую территорию, когда повсюду есть признаки активности войск URNC ... Атена должна быть впереди!
@@ -14668,7 +14668,7 @@ I didn't expect the lab's internal surveillance to still be working.=Я не о�
 The lab was a temporary setup. There was no need to destroy the entire surveillance system. William would never have thought we could control the encrypted internal surveillance.=Лаборатория была временной установкой. Не было необходимости уничтожать всю систему наблюдения. Уильям никогда бы не подумал, что мы сможем контролировать зашифрованное внутреннее наблюдение.
 <color\=#92b1ff>Jefuty, I think I found the clip you're talking about.</color>=<color\=#92b1ff>Джефути, кажется, я нашел клип, о котором вы говорите.</color>
 <color\=#92b1ff>It's being transmitted to Carl's terminal.</color>=<color\=#92b1ff>Он передается на терминал Карла.</color>
-Let me see.=Позвольте мне посмотреть.
+Let me see.=Дай мне посмотреть.
 This is...!=Это...!
 This is it.=Вот оно.
 Carl, this may be our secret weapon to convince Crane.=Карл, это может стать нашим секретным оружием, чтобы убедить Крейна.
@@ -16128,7 +16128,7 @@ A common steel plate, the ideal material for crafting Barbed Wire Barricades.=О
 Adjutant - Aye=Адъютант - Глаз
 Defensive Cover=Защитное прикрытие
 Restore HP equal to {{A}}% of the performer's attack to the targeted allied unit.=Восстанавливает HP, равное {{A}}% от атаки исполнителя, целевому союзному юниту.
-Battlefield Treatment=Лечение на поле боя
+Battlefield Treatment=Лечениеㅤнаㅤполеㅤбоя
 If an enemy human unit comes into contact with the dense fog, inflict "Exhausted" and "Disorganized" for {{A}} turn.=Если вражеский человеческий отряд вступает в контакт с густым туманом, наносится "Истощение" и "Дезорганизация" на {{A}} ход.
 Dense Fog=Густой туман
 High platform=Высокая платформа
@@ -16164,7 +16164,7 @@ Follow me! Attack together!=За мной! Атакуем вместе!
 These damn Antarcticans are quite a handful.=Эти чертовы Антарктидцы - сущее наказание.
 Leave it to me. I'll do it.=Предоставь это мне. Я сделаю это.
 These can be used to <color\=#ff6060>modify the turrets</color>.=Они могут быть использованы для  <color\=#ff6060>модификации турелей</color>.
-Atena, I collected some materials near the safe house earlier. Would you take a look and see if they'll come in handy?=Атена, я собрала кое-какие материалы возле убежища. Посмотри, может, они пригодятся?
+Atena, I collected some materials near the safe house earlier. Would you take a look and see if they'll come in handy?=Атена, я собрал кое-какие материалы возле убежища. Посмотри, может, они пригодятся?
 The enemy has greater firepower than we expected...=Враг обладает большей огневой мощью, чем мы ожидали...
 It seems like they intend to bring in more reinforcements.=Похоже, они намерены привести еще подкрепление.
 <color\=#92b1ff>Received! You guys will help support the recon forces. The rest of you, go and capture the targets!</color>=<color\=#92b1ff>Принято! Вы, ребята, будете помогать разведке. Остальные, идите и захватывайте цели!</color>
@@ -16189,8 +16189,8 @@ Increase evasion by {{A}} to allied units within {{B}} tiles.=Увеличива
 AP is reduced by {{A}}.=AP снижается с помощью {{A}}.
 Shock Strike=Ударная волна
 Possesses the <color\=#d7abff>"Armor"</color> stat, which reduces damage taken. The amount of armor increases with skill level.=Обладает <color\=#d7abff>"Броня"</color> Количество брони увеличивается с уровнем навыка.
-Deal damage equal to 130% of own attack to the targeted enemy unit and inflict <color\=#d7abff>"Disarmed"</color> for 2 turns. \n<color\=#d7abff>Disarmed</color>: Unable to perform normal attacks.=Нанесите урон, равный 130% собственной атаки, целевому вражескому юниту и нанесите <color\=#d7abff>"Обезоружен"</color> на 2 ходов. \n<color\=#d7abff>Разоружен</color>: Невозможно выполнить обычные атаки.
-Shock Strike=Ударная волна
+Deal damage equal to 130% of own attack to the targeted enemy unit and inflict <color\=#d7abff>"Disarmed"</color> for 2 turns. \n<color\=#d7abff>Disarmed</color>: Unable to perform normal attacks.=Наносит урон, равный 130% от собственного атаки, по выбранной вражеской единице и накладывает <color\=#d7abff>"Обезоружен"</color> на 2 хода. \n\n<color\=#d7abff>Обезоружен</color>: Невозможность выполнять обычные атаки.
+Shock Strike=Ударнаяㅤволна
 Chapter {{A}}, Act {{B}}: Struggle for Survival=Глава {{A}}, Акт {{B}}: Борьба за выживание
 3000x<color\=#ff9600>1,4</color>x<color\=#ff9600>0,3</color>\=<color\=#ff9600>1260</color>=3000x<color\=#ff9600>1,4</color>x<color\=#ff9600>0,3</color>"\="<color\=#ff9600>1260</color>
 Chapter {{A}}, Act {{B}}: Struggle for Survival=Глава {{A}}, акт {{B}}: Борьба за выживание
@@ -16635,7 +16635,7 @@ Mendo or Jefuty enters Critical Condition=Мендо или Джефути в к
 Jefuty reaches Mendo=Джефути достигает Мендо
 Mendo defeats {{A}} enemy units=Мендо побеждает вражеские подразделения {{A}}
 Mendo defeats {{A}} enemy units		{{B}}=Мендо побеждает вражеские подразделения {{A}} {{B}}
-Mendo takes less than {{A}} damage		Remaining Damage: {{B}}=Мендо получает меньше {{A}} урона Остаточный урон: {{B}}
+Mendo takes less than {{A}} damage		Remaining Damage: {{B}}=Мендо получает меньше {{A}} урона.		\nОставшийся урон: {{B}}
 Listen to the Radio=Слушайте радио
 Application of Doll Technology in the Late {{A}}s=Применение кукольной технологии в конце {{A}}-х годов
 Application of Doll Technology in the Late {{A}}s=Применение кукольной технологии в конце {{A}}-х годов
@@ -17358,7 +17358,7 @@ Jefuty and Atena take no more than {{A}} damage=Джефути и Атена п�
 Allied units can use a <color\=#ff8d48>Rocket Launcher</color> to trigger an <color\=#ff8d48>Avalanche</color>. \n\nWhen using the Rocket Launcher to select a target, some cliffs will show <color\=#ff8d48>fragile spots</color>. Aim the attack at these spots.=Союзные боевые единицы могут использовать <color\=#ff8d48>ракетницу</color>, чтобы спровоцировать <color\=#ff8d48>лавину</color>.\n\nПри использовании ракетницы для выбора цели некоторые утёсы будут показывать <color\=#ff8d48>уязвимые места</color>. Направь атаку на эти точки.
 Allied units can use a <color\=#ff8d48>Rocket Launcher</color> to trigger an <color\=#ff8d48>Avalanche</color>. \n\nWhen using the Rocket Launcher to select a target, some cliffs will show <color\=#ff8d48>fragile spots</color>. Aim the attack at these spots.=Союзные боевые единицы могут использовать <color\=#ff8d48>Ракетная пусковая установка</color> чтобы вызвать <color\=#ff8d48>Лавина</color>.\n\nПри использовании ракетницы для выбора цели некоторые скалы будут показывать <color\=#ff8d48>хрупкие пятна</color>Полем Нацелитесь на атаку в этих местах.
 Before executing the attack, the specific effects of the Avalanche can be previewed: \n\n<color\=#61a8eb>Blue areas</color> will become <color\=#ff8d48>passable</color> snow terrains. \n<color\=#f95859>Within red areas</color>, all enemy units, <color\=#ff8d48>except for Bosses</color> will be killed by the avalanche. \n\nAllied units will leave the danger zone during the avalanche.=Перед выполнением атаки можно предварительно просмотреть специфические эффекты "Лавины": \n\n<color\=#61a8eb>Синие области</color> станет <color\=#ff8d48>проходимый</color> Снежные территории. \n<color\=#f95859>В красных областях</color>, все вражеские подразделения, <color\=#ff8d48>За исключением боссов</color> будут убиты лавиной.\n\nСоюзные отряды покинут опасную зону во время схода лавины.
-Jefuty and Atena take no more than {{A}} damage		Remaining Damage: {{B}}=Джефути и Атена получают не более {{A}} урона\nОстаточный урон: {{B}}
+Jefuty and Atena take no more than {{A}} damage		Remaining Damage: {{B}}=Джефути и Атена получают не более {{A}} урона.		\nОставшийся урон: {{B}}
 Watch out! Enemy hover tanks are approaching!=Осторожно! Вражеские парящие танки приближаются!
 These tanks have a limited range of movement in these steep mountains. <color\=#ff6060>Make sure to stay out of their range!</color>=У этих танков ограниченный радиус действия в этих крутых горах. <color\=#ff6060>Следите за тем, чтобы не попасть в зону их действия!</color>
 Reduce <color\=#ff7373>evasion by 20</color> to human and Shrike enemy units within the blast radius for 1 turn.=Уменьшать <color\=#ff7373>уклонение на 20</color> человеку и вражеским подразделениям в рамках радиуса взрыва на 1 ход.
@@ -17398,7 +17398,7 @@ Defeat Kirill=Победить Кирилла
 Focus Target=Фокус-цель
 Mucus=Слизь
 I didn't realize they had this much firepower. Pull back.=Я и не думал, что у них столько огневой мощи. Отступайте.
-Crane is retreating north through the smoke!=Журавль отступает на север сквозь дым!
+Crane is retreating north through the smoke!=Крейн отступает на север сквозь дым!
 After him! We can't let him slip away!=За ним! Мы не можем позволить ему ускользнуть!
 Don't be too hasty. We don't know what traps that guy has set for us. Be careful when you chase him.=Не спешите. Мы не знаем, какие ловушки расставил для нас этот парень. Будьте осторожны, когда будете преследовать его.
 Sir! You're seriously injured. Should we...?=Сэр! Вы серьезно ранены. Может, нам...?
@@ -18075,7 +18075,7 @@ We're trapped!=Мы в ловушке!
 Don't panic, there's still a chance!=Не паникуйте, у вас еще есть шанс!
 I've prepared some bombs. We'll break out from the <color\=#ff6060>southwest</color>. We'll use the explosives to cause some chaos, and we'll escape out the side door!=Я приготовил несколько бомб. Мы выйдем с <color\=#ff6060>юго-запада</color>Используем взрывчатку, чтобы устроить хаос, и сбежим через боковую дверь!
 Mendo, Jefuty and Carl take no more than {{A}} damage=Мендо, Джефути и Карл получают не более {{A}} урона
-Mendo, Jefuty and Carl take no more than {{A}} damage		Remaining Damage: {{B}}=Мендо, Джефути и Карл получают не более {{A}} урона Оставшийся урон: {{B}}
+Mendo, Jefuty and Carl take no more than {{A}} damage		Remaining Damage: {{B}}=Мендо, Джефути и Карл получают не более {{A}} урона.		\nОставшийся урон: {{B}}
 IPIM Integrated Laser Sight=Интегрированный лазерный прицел IPIM
 We've got the enemy cornered. Why are you still standing here?!=Мы загнали врага в угол. Почему вы все еще стоите здесь?!
 Tangieu=Тангье
@@ -19075,3 +19075,4 @@ The device in this room looks very similar to the mechanism Jevon mentioned befo
 ...It seems like it can't be activated... Did I remember it incorrectly?=...Кажется, его нельзя активировать... Я неправильно запомнил?
 Вердикт\r\n\r\n　　Провалы в разведывательной деятельности MID и влияние отдельных политических целей привели к поспешным военным решениям, в результате чего команда TASA {{A}} выполнила «Операцию Пекарня» без достаточной разведывательной информации, с ограниченной поддержкой и без чёткого понимания цели миссии.  \r\n\r\n　　Центральная цель операции, VIP под кодовым именем «Пекарня», вовсе не существовала; по сути, это была уловка, созданная URNC, чтобы ввести в заблуждение нашу разведку. В результате спецподразделение TASA оказалось на поле боя, подготовленном противником, выполняя действия, которых от него ожидали, и цели операции были полностью известны врагу. Будучи вынуждены действовать в столь невыгодных условиях, силы TASA понесли серьёзные потери. Необходимо тщательно проанализировать причины столь позорного провала.  \r\n\r\n　　Я считаю, что MID должен изменить свою ошибочную политику, допускающую влияние политических целей на сбор разведывательной информации и формирование задач для профессиональных военных операций, а также понести ответственность за этот провал.  \r\n\r\nГенерал-майор Вооружённых сил Антарктического Союза,\r\n\r\nНачальник штаба Оперативного командования TASA\r\nКэмпф\r\n\r\n\r\n\r\n=Вердикт\r\n\r\n　　Провалы в разведывательной деятельности MID и влияние отдельных политических целей привели к поспешным военным решениям, в результате чего команда TASA {{A}} выполнила «Операцию Пекарня» без достаточной разведывательной информации, с ограниченной поддержкой и без чёткого понимания цели миссии.  \r\n\r\n　　Центральная цель операции, VIP под кодовым именем «Пекарня», вовсе не существовала; по сути, это была уловка, созданная URNC, чтобы ввести в заблуждение нашу разведку. В результате спецподразделение TASA оказалось на поле боя, подготовленном противником, выполняя действия, которых от него ожидали, и цели операции были полностью известны врагу. Будучи вынуждены действовать в столь невыгодных условиях, силы TASA понесли серьёзные потери. Необходимо тщательно проанализировать причины столь позорного провала.  \r\n\r\n　　Я считаю, что MID должен изменить свою ошибочную политику, допускающую влияние политических целей на сбор разведывательной информации и формирование задач для профессиональных военных операций, а также понести ответственность за этот провал.  \r\n\r\nГенерал-майор Вооружённых сил Антарктического Союза,\r\n\r\nНачальник штаба Оперативного командования TASA\r\nКэмпф\r\n\r\n\r\n\r\n
 {{A}} p.m.  safe house at Point β={{A}} p.m. конспиративная квартира в Point β
+Medkitx{{A}}=Medkitx{{A}}
