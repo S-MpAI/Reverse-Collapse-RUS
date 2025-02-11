@@ -101,7 +101,7 @@
 ...Sugar?!=... Сахар?!
 ...Suit yourself, but make sure it doesn't come within a hundred meters of me!=...Как хотите, но следите, чтобы он не приближался ко мне ближе, чем на сто метров!
 ...Take this. Let's find a safe place while the snowstorm is heavy.=... возьми это. Давайте найдем безопасное место, пока метель тяжелая.
-...Thank you.=...Спасибо.
+...Thank you.=...Спасибо тебе.
 ...That's right. The captain... Captain Carl!=...Это верно.\nКапитан ... Капитан Карл!
 ...The fluctuation wasn't a hallucination!=...Это колебание не было галлюцинацией!
 ...Then we'll have to go to the pre-arranged evacuation point on our own.=...Тогда нам придется самим отправиться в заранее подготовленный пункт эвакуации.
@@ -293,9 +293,9 @@ Accuracy Boost Energy Bar=Энергетический батончик Accuracy
 Accuracy is set at {{A}}% when under attack.=Точность устанавливается на {{A}}% при атаке.
 Accuracy Boost Energy Bar=Энергетический батончик Accuracy Boost
 Achieve the Victory Objective within {{A}} turns=Достичь цели победы за {{A}} ходов
-Achieve the Victory Objective within {{A}} turns		Remaining Turns: {{B}}=Достичь цели победы в пределах {{A}} ходов\nОставшиеся ходы: {{B}}
+Achieve the Victory Objective within {{A}} turns		Remaining Turns: {{B}}=Достичь цели победы в пределах в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Achieve the first phase's objective within {{A}} turns=Достижение цели первой фазы в рамках оборотов {{A}}
-Achieve the first phase's objective within {{A}} turns		Remaining Turns: {{B}}=Достигните цели первой фазы за {{A}} ходов\nОставшиеся ходы: {{B}}
+Achieve the first phase's objective within {{A}} turns		Remaining Turns: {{B}}=Достигните цели первой фазы в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Achievement=Достижение
 Achievements=Достижения
 Achieve S ratings in all battles in Chapter {{A}}.=Достигнуть рейтинга S во всех битвах в главе {{A}}.
@@ -431,7 +431,7 @@ All allied units reach the specified position=Все союзные подраз
 All allied units reach the specified position on the left side of the map=Все союзные единицы достигают указанной позиции в левой стороне карты
 All allied units reach the specified position on the right side of the map=Все союзные единицы достигают указанной позиции на правой стороне карты
 All allied units reach the specified position within {{A}} turns=Все союзные единицы достигли указанной позиции в пределах {{A}} ходов
-All allied units reach the specified position within {{A}} turns		Remaining Turns: {{B}}=Все союзные отряды достигают указанной позиции в течение {{A}} ходов Оставшиеся ходы: {{B}}
+All allied units reach the specified position within {{A}} turns		Remaining Turns: {{B}}=Все союзные отряды достигают указанной позиции в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 All hands, stop them!=Все руки, останови их!
 All information will be available in the journal. Choose how much information you want to receive during the tutorial.=Вся информация будет доступна в журнале. Выберите, сколько информации вы хотите получить из туториала.
 All kinds of crops needed by the people are regularly available.=Все виды культур, необходимых для людей, регулярно доступны.
@@ -649,7 +649,7 @@ As a mainstay of land warfare, it is equipped with a comprehensive weapons syste
 As a person, a name is very important.=Как человек, имя очень важно.
 As expected from the Werewolf Commando Team, they were able to predict that the targets would enter the quarantine zone.=Как и ожидалось от "Команды коммандос-оборотней", они смогли предсказать, что цели войдут в зону карантина.
 As expected... We have company! Prepare for combat.=Как и ожидалось... К нам кто-то приближается! Готовься к бою.
-As for Sugar, even if she was strong, she can't handle a hoard of ELIDs all at once. I just needed a little time!=Что касается Шугар, то даже если бы она была сильной, ей не справиться со скопищем ЭЛИДов сразу. Мне просто нужно немного времени!
+As for Sugar, even if she was strong, she can't handle a hoard of ELIDs all at once. I just needed a little time!=Что касается Сахар, то даже если бы она была сильной, ей не справиться со скопищем ЭЛИДов сразу. Мне просто нужно немного времени!
 As for William... Carl's scouts had found no sign of him. Combined with other clues, that made me think he may not be personally involved in the operation.=Что касается Уильяма ... разведчики Карла не нашли его признаков. В сочетании с другими подсказками, это заставило меня думать, что он не может быть лично вовлечен в операцию.
 As for the ELIDs, they primarily rely on sound to locate other objects. We should be safe as long as we <color\=#ff6060>don't get too close to them</color>.=Что касается ЭЛИДов, то для определения местоположения других объектов они полагаются в основном на звук. Мы будем в безопасности, если только <color\=#ff6060>не подходить к ним слишком близко</color>.
 As if liberated, I did as the voice demanded.=Как будто освободил, я сделал, как требовал голос.
@@ -1655,8 +1655,8 @@ Debuff=Дебафф
 Debuff Bomb=Дебафф бомба
 December {{A}}th, {{B}} a.m.=Декабрь {{A}}th, {{B}} A.M.
 December {{A}}th, {{B}} a.m. Heavy Snow=Декабрь {{A}}th, {{B}} a.m. Сильный снег
-December {{A}}th, {{B}} a.m. Heavy Snow\nQuarantine Zone K-{{C}}=Декабрь {{A}}th, {{B}} a.m. Сильный снег Карантинная зона K-{{C}}
-December {{A}}th, {{B}} a.m. Heavy Snow\nZeuk Town=Декабрь {{A}}th, {{B}} A.M. Тяжелый снежный город Зеук
+December {{A}}th, {{B}} a.m. Heavy Snow\nQuarantine Zone K-{{C}}=Декабрь {{A}}th, {{B}} a.m. Сильный снег\nКарантинная зона K-{{C}}
+December {{A}}th, {{B}} a.m. Heavy Snow\nZeuk Town=Декабрь {{A}}th, {{B}} A.M. Тяжелый снежный\nгород Зеук
 December {{A}}th, {{B}} a.m. Light Snow=Декабрь {{A}}th, {{B}} A.M. Легкий снегопад
 December {{A}}th, {{B}} a.m. Light Snow\nDamania Town=Декабрь {{A}}th, {{B}} A.M. Легкий снегопад\nДамании Город
 December {{A}}th, {{B}} a.m. Light Snow\nNorthern Caucasus Mountains=Декабрь {{A}}th, {{B}} A.M. Светлый снег\nСеверные горы Кавказа
@@ -1689,7 +1689,7 @@ Default=По умолчанию
 Default Settings=По умолчанию
 Defeat Lige=Победить Лидж
 Defeat Thian within {{A}} turns=Победить Тиан в пределах {{A}} поворачивается
-Defeat Thian within {{A}} turns		Remaining Turns: {{B}}=Победить Тиан в пределах {{A}} поворачивается по поворотам: {{B}}
+Defeat Thian within {{A}} turns		Remaining Turns: {{B}}=Победить Тиан в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Defeat all Shrike Mitotic Specimens=Победить все образцы митотических образцов Shrike
 Defeat all enemy units=Победить все вражеские подразделения
 Defeat all enemy units below the cliff=Победить все вражеские подразделения под утесом
@@ -1706,7 +1706,7 @@ Defeat the first enemies.=Победить первых врагов.
 Defeat the specified enemy units=Победить указанные вражеские подразделения
 Defeat the specified enemy units		{{A}}=Победить указанные вражеские единицы {{A}}
 Defeat the specified enemy units below the cliff within {{A}} turns=Победить указанные вражеские единицы под обрывом в пределах хода {{A}}
-Defeat the specified enemy units below the cliff within {{A}} turns		Remaining Turns: {{B}}=Победить указанные вражеские единицы под обрывом в пределах {{A}} поворачиваются по ходам: {{B}}
+Defeat the specified enemy units below the cliff within {{A}} turns		Remaining Turns: {{B}}=Победить указанные вражеские единицы под обрывом в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Defeat {{A}} Shrike Mitotic Specimens=Победить митотические образцы {{A}} Shrike
 Defeat {{A}} Shrike Mitotic Specimens		{{B}}=Поражение {{A}} Шрайк Митотические образцы {{B}}
 Defeat {{A}} Shrike Mitotic Specimens within {{B}} turns=Победить {{A}} shrike mitotic expecmens в поворотах {{B}}
@@ -2957,7 +2957,7 @@ I couldn't rely solely on this badly damaged snowmobile to break through the lay
 I did it... Let's go home...=Я сделал это ... Пойдем домой ...
 I didn't expect a call from you, Crane.=Я не ожидал от тебя звонка, Крейн.
 I didn't expect him to get in touch with you.=Я не ожидала, что он свяжется с вами.
-I didn't expect that Sugar could use special means to recover, but at least the explosion gave me enough time to take Lige.=Я не ожидала, что Шугар сможет использовать специальные средства для восстановления, но, по крайней мере, взрыв дал мне достаточно времени, чтобы забрать Лидж.
+I didn't expect that Sugar could use special means to recover, but at least the explosion gave me enough time to take Lige.=Я не ожидала, что Сахар сможет использовать специальные средства для восстановления, но, по крайней мере, взрыв дал мне достаточно времени, чтобы забрать Лидж.
 I didn't expect you to defeat the phantoms so easily...=Я не ожидал, что вы так легко победите фантомов ...
 I didn't expect you'd just go in head first...=Я не ожидала, что ты сразу решишься на это...
 I didn't take you for a jewelry wearer.=Я не думала, что ты любишь украшения.
@@ -3529,7 +3529,7 @@ It took Oleg a lot of effort to rip their heads off.=Олегу потребов
 It was at this time that I received a powerful projection of consciousness.=Именно в это время я получил мощную проекцию сознания.
 It was because you were so unreliable at first. I only trust people who deserve it.=Это было потому, что сначала вы были так ненадежны. Я доверяю только людям, которые это заслуживают.
 It was going to take some time for them to adjust their deployment. We needed to use this window to create as safe an evacuation as possible.=Им потребовалось некоторое время, чтобы скорректировать их развертывание. Нам нужно было использовать это окно, чтобы создать максимально безопасную эвакуацию.
-It was hard to wait for the chance to take Lige away, but Sugar went out of her way to stop me.=Трудно было дождаться возможности забрать Лидж, но Шугар из кожи вон лезла, чтобы остановить меня.
+It was hard to wait for the chance to take Lige away, but Sugar went out of her way to stop me.=Трудно было дождаться возможности забрать Лидж, но Сахар из кожи вон лезла, чтобы остановить меня.
 It was nothing.=Это было ничего.
 It was rare for the base to be so empty. With Mendo's help, we quickly mapped the prison zone. The next task was to confirm Carl's exact location. We had to move fast.=Это было редко, чтобы база была такой пустой. С помощью Мендо мы быстро нанесли на карту тюремную зону. Следующей задачей было подтвердить точное местоположение Карла. Мы должны были двигаться быстро.
 It won't take the URNC very long to find this place. We can't stay here for much longer.=У URNC не займет много времени, чтобы найти это место. Мы не можем оставаться здесь надолго.
@@ -3667,7 +3667,7 @@ Jefuty already told me that this man was responsible for the riot that led to my
 Jefuty and Mendo did not find out the whereabouts of the neural inhibitor. Upon receiving contact from Atena, they immediately rush back to the final extraction point, only to find out that everyone had been massacred by Lige, who has transformed into β Shrike. In the mix of grief and anger, the two fight β Shrike, trying to awaken Lige's consciousness. During the battle, β Shrike continuously creates Shrike puppets to launch attacks, posing a significant threat to the two. Fortunately, Jefuty has prepared an ample supply of blood weapons to use. In the end, after sustaining heavy damage β Shrike is neutralized. With the help of Jefuty, Lige temporarily regained consciousness.=Джефути и Мендо не узнали местонахождение нейронного ингибитора. Получив контакт из Атены, они сразу же спешат обратно к окончательной точке извлечения, только чтобы узнать, что все были убиты Лидж, который превратился в β -Shrike. В сочетании горя и гнева эти двое сражаются с β -Shrike, пытаясь пробудить сознание Лидж. Во время битвы β -Shrike непрерывно создает куклы Shrike для запуска атак, представляя значительную угрозу для них. К счастью, Джефути подготовила достаточный запас оружия крови для использования. В конце концов, после получения тяжелых повреждений β -шрайк нейтрализован. С помощью Джефути Лидж временно восстановил сознание.
 Jefuty and Mendo found the defense mechanisms set by Jevon near the safe house. In order to rendezvous with the members of TASA as soon as possible, they disarmed the defenses and navigated through the danger zone successfully.=Джефути и Мендо обнаружили рядом с убежищем защитные механизмы, установленные Джевоном. Чтобы как можно скорее встретиться с членами TASA, они обезвредили защитные механизмы и успешно прошли через опасную зону.
 Jefuty and Mendo landed in an abandoned tourism area and found numerous ELIDs roaming around. They relied on the acoustic generators at their disposal to get out of the crisis. Meanwhile, Atena successfully established contact with Carl and helped him leave the URNC base.=Джефути и Мендо приземлились в заброшенном туристическом районе и обнаружили множество бродящих вокруг ELID. Чтобы выбраться из кризиса, они полагались на имеющиеся в их распоряжении акустические генераторы. Тем временем Атена успешно установила контакт с Карлом и помогла ему покинуть базу URNC.
-Jefuty and Mendo prepared Blood Bullets and wait for Lige to arrive. However, an ordinary Shrike mitotic specimen appears instead. Seeing that the situation is increasingly deteriorating, the two choose to use the ELIDs to slow down nearby URNC troops and make the most out of the distraction to break through. However, Lige, with her consciousness invaded, eventually intercepts them. Jefuty and Lige were engaged in battle when an ELID suddenly attacks Jefuty. At the pivotal moment, Lige wakes up and saves Jefuty, but this also causes her body to collapse. Facing Sugar, Jefuty is still unable to find an opportunity to take Lige away, and has to retreat together with Mendo.=Джефути и Мендо приготовили Кровавые пули и ждут появления Лидж. Однако вместо нее появляется обычная митотическая особь Шрайк. Видя, что ситуация все больше ухудшается, двое решают использовать ЭЛИДы, чтобы замедлить войска URNC и, воспользовавшись отвлекающим маневром, прорваться вперед. Однако Лидж, в сознание которой вторгся ЭЛИД, в конце концов перехватывает их. Джефути и Лидж вступили в бой, когда на Джефути внезапно нападает ЭЛИД. В решающий момент Лидж просыпается и спасает Джефути, но от этого ее тело разрушается. Столкнувшись с Шугар, Джефути не может найти возможность увести Лидж и вынужден отступить вместе с Мендо.
+Jefuty and Mendo prepared Blood Bullets and wait for Lige to arrive. However, an ordinary Shrike mitotic specimen appears instead. Seeing that the situation is increasingly deteriorating, the two choose to use the ELIDs to slow down nearby URNC troops and make the most out of the distraction to break through. However, Lige, with her consciousness invaded, eventually intercepts them. Jefuty and Lige were engaged in battle when an ELID suddenly attacks Jefuty. At the pivotal moment, Lige wakes up and saves Jefuty, but this also causes her body to collapse. Facing Sugar, Jefuty is still unable to find an opportunity to take Lige away, and has to retreat together with Mendo.=Джефути и Мендо приготовили Кровавые пули и ждут появления Лидж. Однако вместо нее появляется обычная митотическая особь Шрайк. Видя, что ситуация все больше ухудшается, двое решают использовать ЭЛИДы, чтобы замедлить войска URNC и, воспользовавшись отвлекающим маневром, прорваться вперед. Однако Лидж, в сознание которой вторгся ЭЛИД, в конце концов перехватывает их. Джефути и Лидж вступили в бой, когда на Джефути внезапно нападает ЭЛИД. В решающий момент Лидж просыпается и спасает Джефути, но от этого ее тело разрушается. Столкнувшись с Сахар, Джефути не может найти возможность увести Лидж и вынужден отступить вместе с Мендо.
 Jefuty and Mendo rendezvoused successfully with TASA after escaping the attack on the snowy mountain. Jefuty learned that TASA would not take the initiative to help her rescue her sister, so she began to implement her own plan.=Джефути и Мендо успешно встретились с TASA, избежав нападения на снежной горе. Джефути поняла, что TASA не проявит инициативы, чтобы помочь ей спасти сестру, и начала осуществлять свой собственный план.
 Jefuty and Mendo successfully board the refugee transport, escaping the encirclement and regrouping with TASA. Upon learning that the safe house has been compromised, Jevon orders everyone to start the evacuation early. However, the URNC troops are already conducting a search in the mine. The team eliminates the enemies while advancing towards the mine's hidden passage. Unable to secure TASA's support, Jefuty, determined to rescue her sister, resorts to a familiar tactic—blowing up the entrance to the mine, isolating Jevon. She then leads Atena and Mendo through an alternative route.=Джефути и Мендо успешно садятся на транспорт беженцев, выходят из окружения и объединяются с TASA. Узнав, что убежище скомпрометировано, Джевон приказывает всем начать эвакуацию раньше. Однако войска URNC уже ведут поиски в шахте. Команда уничтожает врагов, продвигаясь к скрытому проходу в шахту. Не сумев заручиться поддержкой TASA, Джефути, решив спасти сестру, прибегает к привычной тактике - взрывает вход в шахту, изолируя Джевона. Затем она ведет Атена и Мендо по альтернативному пути.
 Jefuty and Mendo successfully rescue Lige from the laboratory and capitalize on the missile attacks to exit the base. Everyone forges ahead to TASA's location, but are overtaken by the pursuing troops near the rendezvous point. The transporter is also turned into scrap after sustaining heavy damage. The team, carrying the unconscious Lige, use the nearby terrain to engage the enemy. They successfully break through with the timely help of Jevon. However, Captain Oleg of Werewolf Commando Team and his men block their path. Oleg is hampered by TASA after a tenacious resistance. The group capitalizes on the chance to quickly make their escape.=Джефути и Мендо успешно спасают Лидж из лаборатории и, воспользовавшись ракетным обстрелом, покидают базу. Все устремляются к месту дислокации TASA, но у места встречи их настигают преследующие войска. Транспортник также превращается в металлолом, получив сильные повреждения. Команда, неся на себе потерявшего сознание Лидж, использует близлежащую местность для столкновения с врагом. Они успешно прорываются, благодаря своевременной помощи Джевона. Однако путь им преграждает капитан Олег из команды Werewolf Commando Team и его люди. Олег после упорного сопротивления TASA оказывается в затруднительном положении. Группа использует шанс быстро скрыться.
@@ -3935,7 +3935,7 @@ Lige is among them. I'll recognize her when they get closer.=Лидж среди
 Lige is approaching. Get ready!=Лидж приближается. Будьте готовы!
 Lige is fighting with us now!=Лидж сейчас борется с нами!
 Lige misses you so much...=Лидж так много скучает по тебе ...
-Lige was going to be returned to the lab soon. There, I remembered images of Sugar being crushed, as if someone else secretly set off an explosion.=Лидж скоро вернут в лабораторию. Там я вспомнила кадры раздавленой Шугар, как будто кто-то тайно устроил взрыв.
+Lige was going to be returned to the lab soon. There, I remembered images of Sugar being crushed, as if someone else secretly set off an explosion.=Лидж скоро вернут в лабораторию. Там я вспомнила кадры раздавленой Сахар, как будто кто-то тайно устроил взрыв.
 Lige was never successfully taken out of the quarantine zone despite all those attempts.=Несмотря на все эти попытки, Лидж так и не удалось вывести из карантинной зоны.
 Lige was still a little unstable.=Лидж все еще был немного нестабильным.
 Lige will do anything to protect sister!=Лидж сделает все, чтобы защитить сестру!
@@ -4550,7 +4550,7 @@ Now that the target has appeared, let's move quickly. Hurry up!=Теперь, к
 Now we just need to find suitable parts to synthesize new supplies.=Теперь нам просто нужно найти подходящие детали для синтеза новых расходных материалов.
 Now we'll wait for an opportunity to rescue the captain.=Теперь мы подождем возможность спасти капитана.
 Now what?=Что теперь?
-Now! Run for it!=Сейчас! Беги к нему!
+Now! Run for it!=Теперь! Беги!
 Now's a good chance. I'm going to launch the attack early and come to back you up as soon as you guys get in position!=Сейчас хороший шанс. Я собираюсь запустить атаку рано и прийти в поддержку вас, как только вы, ребята, встаете!
 Now's our chance! Get out now!=Теперь наш шанс! Уходи сейчас!
 Now's our chance! Get ready to ambush the target!=Теперь наш шанс! Будьте готовы устроить засаду на цель!
@@ -5862,7 +5862,7 @@ Sugar (Blue Hologram) will reduce the damage taken for Sugar.=Сахар (син
 Sugar (Red Hologram)=Сахар (красная голограмма)
 Sugar can create realistic holographic clones to assist in combat.=Сахар может создать реалистичные голографические клоны, чтобы помочь в бою.
 Sugar is most likely in the group chasing us...=Сахар, скорее всего, в группе, преследующей нас ...
-Sugar watched Lige like a ghost, which could only mean she knew exactly what I was up to.=Шугар наблюдала за Лидж как за привидением, что могло означать только одно: она точно знала, что я задумала.
+Sugar watched Lige like a ghost, which could only mean she knew exactly what I was up to.=Сахар наблюдала за Лидж как за привидением, что могло означать только одно: она точно знала, что я задумала.
 Sugar, you failed again.=Сахар, вы снова потерпели неудачу.
 Sugarcane=Сахарный тростник
 Sugar (Red Hologram)=Сахар (красная голограмма)
@@ -5905,7 +5905,7 @@ Sure. Be careful!=Да. Будь осторожен!
 Surround Sound for Ambient Sounds=Объемный звук для окружающих звуков
 Survival-type Traits disabled.=Черты типа выживания отключены.
 Survive until the beginning of Turn {{A}}=Выжить в течении {{A}} ходов
-Survive until the beginning of Turn {{A}}		Remaining Turns: {{B}}=Выжить ходов {{A}}		\nОставшиеся ходы: {{B}}
+Survive until the beginning of Turn {{A}}		Remaining Turns: {{B}}=Выжить {{A}} ходов		\nОставшиеся ходы: {{B}}
 Survivor=Выживший
 Suspicion=Недоверие
 Svarog=Сварог
@@ -6241,7 +6241,7 @@ The frontline reports indicate that the targets have escaped. Given the timing, 
 The garden is still not fully restored. Don't let your guard down.=Сад все еще не полностью восстановлен. Не подводите свою охрану.
 The garden may not be stable for long, but now that Lige is conscious, we can try to get out of here before it collapses!=Сад может быть не в течение длительного времени, но теперь, когда Лидж сознает, мы можем попытаться убраться отсюда, прежде чем он рухнет!
 The gate is clear. Let's move. Carl is outside ready to meet us!=Ворота свободны. Давайте выдвигаться. Карл ждет нас снаружи, готовый встретить!
-The good thing was that I don't necessarily need to fight Sugar head on. I had a chance as long as I found a way to keep her away from Lige.=Хорошо, что мне не обязательно бороться с Шугар. У меня был шанс, пока я находила способ держать ее подальше от Лидж.
+The good thing was that I don't necessarily need to fight Sugar head on. I had a chance as long as I found a way to keep her away from Lige.=Хорошо, что мне не обязательно бороться с Сахар. У меня был шанс, пока я находила способ держать ее подальше от Лидж.
 The group launched a surprise attack on the unsteady URNC forces at the mine. Jefuty used a similar strategy as before, triggering an explosion at the mine entrance to trap Jevon while escaping with Mendo and Atena.=Джефути использовал ту же стратегию, что и раньше: устроил взрыв у входа в шахту, чтобы заманить Джевона в ловушку и сбежать с Мендо и Атеной.
 The group took a risky move and successfully defeated a wave of powerful enemy forces in the quarantine zone. As expected, the cautious URNC promptly requested support from Sugar. After leaving the quarantine zone through the underground river, the group arrived at the other side of the base. The operation to capture Lige was about to begin.=Как и ожидалось, осторожный URNC незамедлительно запросил поддержку у Шугара. Выйдя из карантинной зоны через подземную реку, группа прибыла на другую сторону базы. Операция по захвату Лидж вот-вот должна была начаться.
 The guards burst into the testing room, pulled Jefuty away and began firing at the mitotic specimen.=Охранники ворвались в испытательную комнату, вытащили ккеотику и начали стрелять по митотическому образе.
@@ -6912,8 +6912,8 @@ Vegetable=Овощной
 Vegetables (0/15)=Овощи (0/15)
 Vehicle=Транспортное средство
 Venomous Crystal=Ядовитый кристалл
-Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.2.6.0
-Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.2.6.0</size>
+Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.2.7.0
+Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.2.7.0</size>
 Very Fast=<size\=19>Очень быстро</size>
 Very High=Очень высоко
 Very Low=Очень низко
@@ -7365,7 +7365,7 @@ With that kind of military strength...=С такой военной силой .
 With the URNC main forces still out of action, Jevon and Atena are safe for a while. We need to find another way to reach them.=С помощью основных сил URNCа, все еще не входящих в действие, Джевон и Атена какое -то время в безопасности. Нам нужно найти другой способ достичь их.
 With the cold climate in the Caucasus Mountains, a well insulated cotton jacket like this is helpful for Atena's field operations.=С холодным климатом в горах Кавказ, хорошо изолированная хлопчатобумажная куртка, подобная этой, полезна для полевых операций Атены.
 With the cover of a transporter, Jefuty and Mendo arrive at the prison area within the base. After identifying Carl's location, they split up to carry out their respective tasks. One goes to the control room to seize access, while the other is responsible for finding the prison key card to rescue Carl. With their coordinated efforts, Carl is successfully freed. The group decides to find a secure area to discuss their next plan.=Прикрываясь телепортом, Джефути и Мендо прибывают в тюремную зону базы. Определив местоположение Карла, они разделяются для выполнения своих задач: один отправляется в комнату управления, чтобы захватить доступ, а другой отвечает за поиск тюремной карты-ключа, чтобы спасти Карла. Скоординировав свои усилия, Карл успешно освобождается. Группа решает найти безопасное место, чтобы обсудить свой дальнейший план.
-With the help of Carl and Atena, Jefuty decides to utilize the potent suppressive power of the checkpoint to execute a plan to trap Lige near the quarantine zone gate. Sugar arrives with Lige just as planned, together with the URNC troops. Jefuty and her team tries their best to defeat Lige, but she is enveloped by a mysterious blood cocoon and vanished. In the end, the group have no choice but to break through the gate and retreat.=С помощью Карла и Атены Джефути решает использовать мощную подавляющую силу контрольно-пропускного пункта, чтобы осуществить план по захвату Лидж в ловушку у ворот карантинной зоны. Как и планировалось, вместе с Лидж прибывает Шугар и войска URNC. Джефути и ее команда изо всех сил пытаются победить Лидж, но ее окутывает таинственный кровавый кокон, и она исчезает. В итоге группе ничего не остается, как прорваться через ворота и отступить.
+With the help of Carl and Atena, Jefuty decides to utilize the potent suppressive power of the checkpoint to execute a plan to trap Lige near the quarantine zone gate. Sugar arrives with Lige just as planned, together with the URNC troops. Jefuty and her team tries their best to defeat Lige, but she is enveloped by a mysterious blood cocoon and vanished. In the end, the group have no choice but to break through the gate and retreat.=С помощью Карла и Атены Джефути решает использовать мощную подавляющую силу контрольно-пропускного пункта, чтобы осуществить план по захвату Лидж в ловушку у ворот карантинной зоны. Как и планировалось, вместе с Лидж прибывает Сахар и войска URNC. Джефути и ее команда изо всех сил пытаются победить Лидж, но ее окутывает таинственный кровавый кокон, и она исчезает. В итоге группе ничего не остается, как прорваться через ворота и отступить.
 With the help of compost you will accelerate the growth of plants.=С помощью компоста вы ускорите рост растений.
 With the intelligence provided by his AU informant "Crane", Mendo identifies the escape route out of the search zone. Together with the mysterious girl, he sneaks through a village of URNC soldiers in heavy snow.=С помощью разведданных, предоставленных его информатором в АС Крейном, Мендо находит путь к отступлению из зоны поисков. Вместе с таинственной девушкой он пробирается через деревню солдат URNC в сильный снегопад.
 With the little bit of hope I had left, I tried once again to persuade them to help me rescue my sister, but I didn't get the response I wanted.=С небольшой надеждой, которую я ушел, я попытался еще раз убедить их помочь мне спасти свою сестру, но я не получил ответ, который хотел.
@@ -8084,7 +8084,7 @@ I understand, Captain Oleg. I want the fully-immune individual even more than yo
 Beria=Берия
 But our troops are tired. With the heavy losses of the battle, I feel it is necessary to rest a little.=Но наши войска устали. Учитывая тяжелые потери в битве, я считаю необходимым немного отдохнуть.
 True. What good can you do in the middle of the night in a contamination zone?=Правда. Что хорошего вы можете сделать посреди ночи в зоне заражения?
-Sugar, this was a shameful defeat for the Werewolf Commando Team. Shouldn't you be reflecting on it?=Шугар, это было позорное поражение для "Команды коммандос-оборотней". Разве тебе не следует задуматься об этом?
+Sugar, this was a shameful defeat for the Werewolf Commando Team. Shouldn't you be reflecting on it?=Сахар, это было позорное поражение для "Команды коммандос-оборотней". Разве тебе не следует задуматься об этом?
 I followed Captain's plan to the letter. Who knew that the local garrison was so vulnerable that AU agents could take it over so easily?=Я следовала плану капитана к письму. Кто знал, что местный гарнизон был настолько уязвим, что агенты AU могут так легко взять его на себя?
 If anything, it's the fat guy's fault.=Если что, виноват толстяк.
 That's not a very nice thing to say, vice-captain. I've put the best troops in our base under your command.=Это не очень приятные слова, вице-капитан. Я отдал под ваше командование лучшие войска на нашей базе.
@@ -8101,7 +8101,7 @@ Is there anything we can do to help?=Можем ли мы чем-то помоч
 Why do you care?=Почему вас это волнует?
 All you need to worry about is catching the fully-immune individual!=Все, о чем вам нужно беспокоиться, - это поймать человека с полным иммунитетом!
 Okay, okay. Actually, I have a new battle plan. Why don't we go to the war room and discuss it while the troops are resting?=Ладно, ладно. Вообще-то, у меня есть новый план сражения. Почему бы нам не пойти в штаб и не обсудить его, пока войска отдыхают?
-Sugar, go get some rest. We'll update you once the next plan is confirmed.=Шугар, иди отдохни. Мы сообщим тебе, как только будет утвержден новый план.
+Sugar, go get some rest. We'll update you once the next plan is confirmed.=Сахар, иди отдохни. Мы сообщим тебе, как только будет утвержден новый план.
  base laboratory= базовая лаборатория
 Colonel, I'm inside the lab.=Полковник, я в лаборатории.
 It's strange. There's no one here except for the Werewolf standing guard outside.=Странно, но здесь никого нет, кроме Оборотня, стоящего на страже снаружи.
@@ -11757,19 +11757,19 @@ And here I thought nothing could surprise me anymore.=А я думала, что
 Save your surprise. We need to move.=Оставь свои удивления. Нам нужно двигаться.
 {{A}} a.m.  Küie Cliffs={{A}} A.M. Скалы Кюи
 No... Ow...=Нет ... оу ...
-I can't believe they went so deep into enemy territory when there are signs of URNC troop activity everywhere... Atena should be just up ahead!=Я не могу поверить, что они настолько глубоко вошли в вражескую территорию, когда повсюду есть признаки активности войск URNC ... Атена должна быть впереди!
-I'll double check Atena's status.=Я дважды проверю статус Атены.
-Mendo, are you guys nearby?=Мендо, вы, ребята, поблизости?
-<color\=#92b1ff>We're not far from the coordinates we received earlier. Are you still at the same coordinates?</color>=<color\=#92b1ff>Мы недалеко от координат, которые мы получили ранее. Ты все еще на тех же координатах?</color>
-Yeah, I just cleared a batch of enemies, but reinforcements are closing in, so it doesn't look so optimistic here.=Да, я только что уничтожила группу врагов, но подкрепление приближается, так что все выглядит не так оптимистично.
-<color\=#92b1ff>Understood. Hang in there, we'll be there soon!</color>=<color\=#92b1ff>Понял. Держись там, мы скоро будем там!</color>
-Alright! Be careful.=Хорошо! Будь осторожен.
-It's confirmed. She's just below this slope ahead.=Это подтверждено. Она чуть ниже этого склона впереди.
-Yeah, the URNC troop uniforms' ability to resist Collapse radiation <color\=#ff6060>is very limited in patches of Collapse Epiphyllums</color>, so we need to seize the opportunity and settle things quickly.=Да, способность униформы спецназа URNC противостоять коллапсирующему излучению <color\=#ff6060>очень ограничена на участках Коллапса Эпифиллумов</color>, поэтому нам нужно воспользоваться возможностью и быстро все уладить.
-We spotted the white-haired target! Let's go! Take them all down!=Мы заметили беловолосую цель! Вперед! Уничтожьте их всех!
+I can't believe they went so deep into enemy territory when there are signs of URNC troop activity everywhere... Atena should be just up ahead!=Не могу поверить, что они зашли так глубоко на территорию врага, когда повсюду есть признаки активности войск URNC... Атена должна быть прямо впереди!
+I'll double check Atena's status.=Я еще раз проверю статус Атены.
+Mendo, are you guys nearby?=Мендо, вы рядом?
+<color\=#92b1ff>We're not far from the coordinates we received earlier. Are you still at the same coordinates?</color>=<color\=#92b1ff>Мы недалеко от координат, которые получили ранее. Ты все еще на тех же координатах?</color>
+Yeah, I just cleared a batch of enemies, but reinforcements are closing in, so it doesn't look so optimistic here.=Да, я только что разобралась с группой врагов, но подкрепление уже приближается, так что ситуация здесь не слишком оптимистичная.
+<color\=#92b1ff>Understood. Hang in there, we'll be there soon!</color>=<color\=#92b1ff>Понял. Держись, мы скоро будем!</color>
+Alright! Be careful.=Хорошо! Будьте осторожны.
+It's confirmed. She's just below this slope ahead.=Подтверждено. Она прямо под этим склоном впереди.
+Yeah, the URNC troop uniforms' ability to resist Collapse radiation <color\=#ff6060>is very limited in patches of Collapse Epiphyllums</color>, so we need to seize the opportunity and settle things quickly.=Да, способность униформы войск URNC сопротивляться радиации Коллапса <color\=#ff6060>очень ограничена в зонах с Эпифиллумами</color>, так что нам нужно воспользоваться возможностью и разобраться с ними быстро.
+We spotted the white-haired target! Let's go! Take them all down!=Мы заметили цель с белыми волосами! Вперед! Уничтожить их всех!
 Atena, are you okay?=Атена, ты в порядке?
 Yeah, you came right on time.=Да, вы пришли вовремя.
-I thought you'd left me behind.=Я думала, ты оставил меня позади.
+I thought you'd left me behind.=Я думала, вы оставили меня позади.
 I was planning to.=Я так и планировала.
 But the Reverse-Collapse relay station is still with you.=Но ретрансляционная станция обратного коллапса все еще с вами.
 Are you hurt?=Тебе больно?
@@ -11781,20 +11781,20 @@ You just have to know that it's an enemy who has Jefuty's incredible self-regene
 It's not just the self-regeneration... But there's no time for me to explain.=Это не просто самовосстановление... Но у меня нет времени объяснять.
 More and more troublesome bastards...=Все больше и больше надоедливых ублюдков...
 Looks like TASA's old nemesis, the <keyword\=18>Werewolf Commando Team</keyword>, are also in the vicinity according to the intercepted intel.=Похоже, что старый враг TASA, <keyword\=18>"Команда коммандос-оборотней"</keyword>, также находится где-то поблизости, согласно перехваченной информации.
-Those bastards are much more formidable than the local garrison. It's really hard to shake them off once they have their eyes on you.=Эти ублюдки гораздо опаснее местного гарнизона. Очень трудно отделаться от них, когда они следят за тобой.
+Those bastards are much more formidable than the local garrison. It's really hard to shake them off once they have their eyes on you.=Эти ублюдки намного более опасны, чем местный гарнизон. Очень трудно от них избавиться, как только они нацелятся на тебя.
 That's right... That drone! I knew that looked familiar...=Это верно... Этот беспилотник! Я так и знал, что это выглядит знакомо...
 Why would those special forces be here?=Зачем этим спецназовцам быть здесь?
-Are they a big deal or something?=Они имеют большое значение или что-то в этом роде?
-The Werewolves are the crème de la crème in the URNC army. Both their skills and gear are top-notch.=Оборотни - лучшие из лучших в армии URNC. И их навыки, и снаряжение на высшем уровне.
+Are they a big deal or something?=Они что, такие важные или что?
+The Werewolves are the crème de la crème in the URNC army. Both their skills and gear are top-notch.=Оборотни — это элита армии URNC. И их навыки, и снаряжение на высшем уровне.
 She's broadcasting on all frequencies?=Она вещает на всех частотах?
 Who's that?!=Кто это?!
-<color\=#92b1ff>Our encounter is written in the stars, fully-immune individual~</color>=<color\=#92b1ff>Наша встреча записана в звездах, индивидуум с полным иммунитетом.~</color>
+<color\=#92b1ff>Our encounter is written in the stars, fully-immune individual~</color>=<color\=#92b1ff>Наша встреча предначертана звездами, полностью-невосприимчивый индивид~</color>
 <color\=#92b1ff>I'm afraid that's not possible.</color>=<color\=#92b1ff>Боюсь, это невозможно.</color>
 I hope we don't run into them.=Я надеюсь, мы с ними не столкнемся.
-...They do sound like bad news.=... Они действительно звучат как плохие новости.
-On top of that, they're equipped with thermoptic camouflage. It's extremely hard to detect them.=Вдобавок ко всему, они оснащены тепловизионным камуфляжем. Обнаружить их крайне сложно.
-<color\=#92b1ff>Good, it seems that you can hear us.</color>=<color\=#92b1ff>Хорошо, кажется, вы нас слышите.</color>
-<color\=#92b1ff>I'm the Vice-Captain of the fearsome 3rd Detachment of the Werewolf Commando Team, here on orders to capture you~</color>=<color\=#92b1ff>Я вице-капитан грозного 3-го отряда "Команды коммандос-оборотней", я здесь по приказу захватить вас ~</color>
+...They do sound like bad news.=...Они действительно звучат как серьезная угроза.
+On top of that, they're equipped with thermoptic camouflage. It's extremely hard to detect them.=К тому же, они оснащены термоптическим камуфляжем. Их крайне трудно обнаружить.
+<color\=#92b1ff>Good, it seems that you can hear us.</color>=<color\=#92b1ff>Хорошо, похоже, вы меня слышите.</color>
+<color\=#92b1ff>I'm the Vice-Captain of the fearsome 3rd Detachment of the Werewolf Commando Team, here on orders to capture you~</color>=<color\=#92b1ff>Я вице-капитан грозного 3-го отряда "Команды коммандос-оборотней", я здесь по приказу захватить тебя~</color>
 <color\=#92b1ff>Lift your heads, and you'll see me~</color>=<color\=#92b1ff>Поднимите головы, и вы увидите меня ~</color>
 I can barely see the figure.=Я едва вижу фигуру.
 What should we do? Should we attack?=Что нам следует делать? Следует ли нам атаковать?
@@ -11802,61 +11802,61 @@ Don't jump the gun. Keep observing.=Не торопите события. Про
 There may be commandos using thermoptic camouflage lurking nearby.=Поблизости могут скрываться спецназовцы, использующие тепловизионный камуфляж.
 Agreed.=Согласна.
 <color\=#92b1ff>Ah, it's been such an amusing day, today.</color>=<color\=#92b1ff>Ах, сегодня был такой забавный день.</color>
-<color\=#92b1ff>Didn't expect you to take down so many of the incompetent imbeciles with just the three of you. I've finally found some Antarctican rats that have some skills.</color>=<color\=#92b1ff>Не ожидала, что вы втроем справитесь с таким количеством некомпетентных имбецилов. Я наконец-то нашла антарктических крыс, у которых есть кое-какие навыки.</color>
-<color\=#92b1ff>Ehehe... However, it's un~for~tu~nate~ that your good luck has run out.</color>=<color\=#92b1ff>Эх-хе-хе... Однако, жаль, что удача отвернулась от вас.</color>
+<color\=#92b1ff>Didn't expect you to take down so many of the incompetent imbeciles with just the three of you. I've finally found some Antarctican rats that have some skills.</color>=<color\=#92b1ff>Не ожидала, что вы втроем сможете справиться с таким количеством этих беспомощных идиотов. Наконец-то я нашла пару антарктических крыс, у которых есть хоть какие-то навыки.</color>
+<color\=#92b1ff>Ehehe... However, it's un~for~tu~nate~ that your good luck has run out.</color>=<color\=#92b1ff>Эхехе... Однако, к со~жа~ле~нию, удача отвернулась от вас.</color>
 <color\=#92b1ff>It's your great misfortune to have run into me. None of my prey has ever escaped from me~</color>=<color\=#92b1ff>Вам очень не повезло, что вы наткнулись на меня. Ни одна из моих жертв никогда не убегала от меня~</color>
-<color\=#92b1ff>But don't worry. I don't plan on wasting my effort on killing you. I'll leave this menial task to this adorable little puppet.</color>=<color\=#92b1ff>Но не волнуйтесь. Я не собираюсь тратить силы на то, чтобы убивать вас. Я оставлю эту черную работу этой очаровательной маленькой кукле.</color>
-<color\=#92b1ff>Tadaa~ That's your cue, Miss Puppet.</color>=<color\=#92b1ff>Тадааа~ Это ваша реплика, мисс Куколка.</color>
-<color\=#92b1ff>Just to warn you, she is quite a nasty piece of work in every sense of the word, so try your best to kill her~</color>=<color\=#92b1ff>Просто хочу предупредить вас, что она довольно неприятная штучка во всех смыслах этого слова, так что сделайте все возможное, чтобы убить ее ~</color>
+<color\=#92b1ff>But don't worry. I don't plan on wasting my effort on killing you. I'll leave this menial task to this adorable little puppet.</color>=<color\=#92b1ff>Но не переживайте. Я не собираюсь тратить свои усилия на вашу гибель. Я оставлю эту жалкую задачу этой очаровательной маленькой марионетке.</color>
+<color\=#92b1ff>Tadaa~ That's your cue, Miss Puppet.</color>=<color\=#92b1ff>Тадаа~ Это твой выход, мисс Марионетка.</color>
+<color\=#92b1ff>Just to warn you, she is quite a nasty piece of work in every sense of the word, so try your best to kill her~</color>=<color\=#92b1ff>Просто предупреждаю, она настоящая угроза во всех смыслах этого слова, так что постарайтесь изо всех сил убить её~</color>
 Lige?!=Лидж?!
 No... I can't establish a connection with her consciousness for now, but I know she is Lige!=Нет... Пока я не могу установить связь с ее сознанием, но я знаю, что она - Лидж!
 She's your little sister?=Она твоя младшая сестра?
 But she looks completely different from the girl in the photo!=Но она выглядит совершенно иначе от девушки на фото!
-All of that monster's mitotic specimens are formed of Shrike cells. Their physical appearance is merely a mimic of their consciousness.=Все митотические образцы этого монстра образуются из клеток Shrike. Их внешний вид - это просто имитация их сознания.
-The Progenitor has consumed Lige's consciousness and assimilated her body.=Предшественник поглотил сознание Лидж и ассимилировала ее тело.
-I knew it... The neural inhibitor isn't on her head...=Я знала это ... Нейронный ингибитор не на ее голове ...
+All of that monster's mitotic specimens are formed of Shrike cells. Their physical appearance is merely a mimic of their consciousness.=Все митотические образцы этого монстра состоят из клеток Шрайк. Их физическое воплощение — всего лишь подражание их сознанию.
+The Progenitor has consumed Lige's consciousness and assimilated her body.=Предшественник поглотил сознание Лидж и ассимилировал ее тело.
+I knew it... The neural inhibitor isn't on her head...=Я так и знала... Нейронного ингибитора у нее на голове нет...
 Without the neural inhibitor, Lige's psyche cannot remain on the surface level of consciousness. Right now, Lige is no more than a mitotic specimen.=Без нейронного ингибитора психика Лидж не может оставаться на поверхностном уровне сознания. Прямо сейчас Лидж не более чем митотический образец.
 Where is that neural inhibitor?=Где этот нейронный ингибитор?
 Wait, Shrike cells?=Подожди, клетки Шрайк?
 The same Shrike that devastated half of Warszawa?=Тот самый Шрайк, который опустошил половину Варшавы?
 Your sister is made of that thing?!=Твоя сестра сделана из этой вещи?!
 Don't tell me you're also...=Не говори мне, что ты тоже ...
-No, I will never accept Shrike cells. There's no one in the world that hates it more than I do.=Нет, я никогда не приму клетки Шрайк. В мире нет никого, кто ненавидит это больше, чем я.
-Don't worry about Lige. She won't be a threat as long as her mind is freed from the Progenitor's control.=Не беспокойся о Лидж. Она не будет угрозой, пока ее разум освободится от контроля предшественника.
+No, I will never accept Shrike cells. There's no one in the world that hates it more than I do.=Нет, я никогда не приму клетки Шрайк. В мире нет никого, кто ненавидел бы их больше, чем я.
+Don't worry about Lige. She won't be a threat as long as her mind is freed from the Progenitor's control.=Не переживай за Лидж. Она не будет угрозой, пока её разум освобожден от контроля Предшественника.
 Tsk... I can't believe we went through the flames of hell just to rescue a Shrike.=Тск... Не могу поверить, что мы прошли через адское пламя только для того, чтобы спасти Шрайка.
 Your sister... she exudes an aura that makes my blood run cold, even from a distance.=Твоя сестра... она излучает ауру, от которой у меня кровь стынет в жилах даже на расстоянии.
 Why is she just standing there?=Почему она просто стоит там?
-The Progenitor is calculating every possibility. Once the calculations are complete, she'll move at lightning speed.=Предшественник рассчитывает каждую возможность. Как только расчеты будут завершены, она будет двигаться со скоростью молнии.
-As a Shrike, Lige is extremely dangerous. Ordinary humans are no match for her reflexes.=Как Шрайк, Лидж чрезвычайно опасна. Обычные люди не подходят для ее рефлексов.
-We must first blast off her limbs to immobilize her. Otherwise, none of us are going to come out of this alive.=Мы должны сначала взорвать ее конечности, чтобы обездвижить ее. В противном случае никто из нас не выйдет из этого живого.
+The Progenitor is calculating every possibility. Once the calculations are complete, she'll move at lightning speed.=Предшественник вычисляет все возможные варианты. Как только расчёты будут завершены, она будет действовать с молниеносной скоростью.
+As a Shrike, Lige is extremely dangerous. Ordinary humans are no match for her reflexes.=Как Шрайк, Лидж крайне опасна. Обычные люди не могут сравниться с её рефлексами.
+We must first blast off her limbs to immobilize her. Otherwise, none of us are going to come out of this alive.=Нам нужно сначала уничтожить её конечности, чтобы обездвижить её. Иначе никто из нас не выйдет живым.
 But she's your sister!=Но она твоя сестра!
 Of course I know that she's my sister!=Конечно, я знаю, что она моя сестра!
 But if we don't do that, she will tear us to pieces!=Но если мы этого не сделаем, она разорвет нас на куски!
 Shrike cells are sensitive to high temperatures. Flamethrowers were a necessity in the lab.=Клетки Шрайк чувствительны к высоким температурам. Огнеметы были необходимостью в лаборатории.
-But the weapons we have on hand won't reach such high temperatures. We need a different approach.=Но оружие, которое у нас есть под рукой, не достигнет таких высоких температур. Нам нужен другой подход.
-<color\=#ff6060>Draw her to a bed of Epiphyllums and throw an incendiary grenade at her</color> before opening fire!=<color\=#ff6060>Заманите ее на клумбу с эпифиллумами и бросьте в нее зажигательную гранату,</color> прежде чем открывать огонь!
-The burning Epiphyllums will release a large amount of radiation. Shrike cells exposed to such intense Collapse radiation will rapidly silicify.=Горящие эпифиллы выпустят большое количество радиации. Клетки Шрайк, подвергшиеся воздействию такого интенсивного обрушения, будут быстро силицировать.
-After silicification, the Shrike cells' regeneration rate slows down. It's at this point that shooting at her will cause damage.=После силикации скорость регенерации клеток Шрайк замедляется. Именно в этот момент стрельба в нее нанесет ущерб.
-As long as the damage is significant enough, the Shrike's regeneration capabilities will be limited for a short period of time. This is the only way to immobilize her.=Пока ущерб достаточно значитель, возможности регенерации Шрайк будут ограничены в течение короткого периода времени. Это единственный способ обездвижения ее.
+But the weapons we have on hand won't reach such high temperatures. We need a different approach.=Но оружие, которое у нас есть, не достигнет таких высоких температур. Нам нужно найти другой подход.
+<color\=#ff6060>Draw her to a bed of Epiphyllums and throw an incendiary grenade at her</color> before opening fire!=<color\=#ff6060>Заманите ее на поле Эпифиллумов и бросьте в нее зажигательную гранату</color>, прежде чем открыть огонь!
+The burning Epiphyllums will release a large amount of radiation. Shrike cells exposed to such intense Collapse radiation will rapidly silicify.=Горящие Эпифиллумы выделят большое количество радиации. Клетки Шрайк, подвергшиеся такому интенсивному радиационному воздействию Коллапса, быстро засиживаются.
+After silicification, the Shrike cells' regeneration rate slows down. It's at this point that shooting at her will cause damage.=После силикации скорость регенерации клеток Шрайк замедляется. Именно в этот момент выстрелы начнут наносить ей урон.
+As long as the damage is significant enough, the Shrike's regeneration capabilities will be limited for a short period of time. This is the only way to immobilize her.=Если урон будет достаточно значительным, способности регенерации Шрайк будут ограничены на короткий период времени. Это единственный способ её обездвижить.
 If we can immobilize her quickly, I'll be able to sustain Lige's consciousness!=Если мы сможем быстро ее обездвижить, я смогу поддерживать сознание Лидж!
 Are you certain... about doing this to Lige?=Ты уверена ... в том, чтобы сделать это с Лидж?
 I'm certain!=Я уверена!
-Have you forgotten what I told you before?=Вы забыли, что я говорила вам раньше?
-Mitotic specimens can't be easily killed using conventional methods. Our weapons will barely make a scratch.=Митотические образцы не могут быть легко убиты с использованием обычных методов. Наше оружие едва сделает царапину.
-As I said, we have to completely incapacitate her. If we can take her body away, destroying her cells at regular intervals will render her powerless...=Как я уже сказала, мы должны полностью вывести ее из строя. Если мы сможем забрать ее тело, уничтожение ее клеток через регулярные промежутки времени сделает ее бессильными ...
+Have you forgotten what I told you before?=Ты забыл, что я говорила вам раньше?
+Mitotic specimens can't be easily killed using conventional methods. Our weapons will barely make a scratch.=Митотические образцы трудно уничтожить с помощью обычных методов. Наше оружие едва ли оставит царапину.
+As I said, we have to completely incapacitate her. If we can take her body away, destroying her cells at regular intervals will render her powerless...=Как я уже сказала, нам нужно полностью её обездвижить. Если мы сможем забрать её тело, уничтожение её клеток с регулярными интервалами лишит её сил...
 Give me some time. I definitely will reawaken Lige's consciousness!=Дайте мне немного времени. Я попробую разбудить сознание Лидж!
-Lige... I'm sorry... Hang in there for just a bit longer!=Лидж ... Прости ... Держись там немного дольше!
-Hang in there a bit longer and it'll be okay...!=Держись немного дольше, и все будет хорошо ...!
+Lige... I'm sorry... Hang in there for just a bit longer!=Лидж... Прости меня... Потерпи ещё немного!
+Hang in there a bit longer and it'll be okay...!=Держись немного дольше, и все будет хорошо...!
 Attack calculations completed.=Расчеты атаки завершены.
 Commencing capture.=Начало захвата.
 Are you finally ready to move?=Ты наконец готова двигаться?
 Go, tear them to pieces.=Иди, разорви их на куски.
-Oh, remember to leave the fully-immune individual's body intact. Oh, no, just the head will do.=О, не забудь оставить тело полностью иммунного человека нетронутым. О, нет, только голова подойдет.
+Oh, remember to leave the fully-immune individual's body intact. Oh, no, just the head will do.=О, не забудь оставить тело полностью иммунного индивида целым. О, нет, достаточно будет только головы.
 After all, you monsters can just regrow your bodies, hahaha!=В конце концов, вы, монстры, можете просто отрастить ваши тела, хахаха!
-She's coming! Focus on the fight!=Она идет! Сосредоточьтесь на борьбе!
+She's coming! Focus on the fight!=Она идет! Сосредоточьтесь на бою!
 Mendo, take my hand!=Мендо, возьми меня за руку!
-Cough... We can finally get out of the water.=Кашель ... мы наконец можем выйти из воды.
-...Keep an eye on your body temperature and watch out for any symptoms of hypothermia.=... Следи за температурой своего тела и следите за любыми симптомами переохлаждения.
+Cough... We can finally get out of the water.=Кхм... Наконец-то можем выбраться из воды.
+...Keep an eye on your body temperature and watch out for any symptoms of hypothermia.=... Следи за температурой своего тела и следи за любыми симптомами переохлаждения.
 I'm... okay. It was much colder when I was training in Lake Pedro.=Я ... в порядке. Было намного холоднее, когда я тренировался в озере Педро.
 Where's Jefuty?!=Где Джефути?!
 I've already dragged her out of the water.=Я уже вытащила ее из воды.
@@ -11864,14 +11864,14 @@ But there's a really bad wound on her abdomen and she's currently unconscious.=�
 Oh no, she got stabbed by the tail of that female Werewolf soldier while trying to save me.=О нет, она была ранена хвостом той женщины-солдата-оборотня, когда пыталась спасти меня.
 Why did you do that...?=Почему ты это сделала ...?
 How many times will I owe you my life like this?=Сколько еще раз я буду вот так обязан тебе жизнью?
-I never thought she'd sacrifice herself to save you.=Я никогда не думал, что она пожертвует собой, чтобы спасти тебя.
+I never thought she'd sacrifice herself to save you.=Я никогда не думала, что она пожертвует собой, чтобы спасти тебя.
 Ugh... Arghhh!=Тьфу ... Аргхх!
 Something's wrong with her!=Что-то не так с ней!
 Pin her down!=Прижми ее!
 This is bad. Her pupils are contracting—the venom is starting to take effect.=Это плохо. Ее зрачки сужаются — яд начинает действовать.
 What's happening to her?=Что с ней происходит?
-The Werewolf who attacked Jefuty is the vice-captain of the Werewolf Commando Team, codename "Sugar".=Оборотень, напавший на Джефути, является вице-капитаном "Команды коммандос-оборотней" под кодовым именем "Шугар".
-Our forces have crossed paths with her many times before... She's extremely cunning.=Наши силы пересекались пути с ней много раз раньше ... она чрезвычайно хитра.
+The Werewolf who attacked Jefuty is the vice-captain of the Werewolf Commando Team, codename "Sugar".=Оборотень, напавший на Джефути, является вице-капитаном "Команды коммандос-оборотней" под кодовым именем "Сахар".
+Our forces have crossed paths with her many times before... She's extremely cunning.=Наши силы уже не раз пересекались с ней... Она крайне хитрая.
 Her tail contains a very strong neurotoxin. She tortured and poisoned many of our comrades. I barely escaped by using a shield to protect my body.=В ее хвосте содержится очень сильный нейротоксин. Она пытала и отравляла многих наших товарищей. Я едва спаслась, прикрывшись щитом.
 And Jefuty got stung by that...?=И Джефути была уязвлена им...?
 But... she'll be fine, right? Her physiology is different from an ordinary human's!=Но... с ней все будет в порядке, верно? Ее физиология отличается от физиологии обычного человека!
@@ -11895,7 +11895,7 @@ All I know is that since she worked on the same research project together with m
 I've got to save her—I owe her my life, and I know it's what my parents would've wanted me to do.=Я должен спасти ее — я обязан ей жизнью, и я знаю, что мои родители хотели бы, чтобы я так поступил.
 If she really is a product of the GAVIRUL Project, it's hard to imagine a child as young as her being subjected to such immense pressure.=Если она действительно является продуктом проекта Гавирула, то трудно представить, что такой маленький ребенок, как она, был порвергнут такому огромному давлению.
 I'm afraid she won't ever be able to shed her responsibilities and live life as an ordinary girl.=Боюсь, она никогда не сможет сбросить свои обязанности и жить как обычная девушка.
-I... I'll try to negotiate on her behalf.=Я ... постараюсь договориться от ее имени.\n(Переводчик: я хз что это)
+I... I'll try to negotiate on her behalf.=Я... постараюсь договориться от её имени.
 When we're back in the Antarctic, she will definitely be able to live a quiet life like an ordinary girl.=Когда мы вернемся в Антарктику, она определенно сможет жить спокойной жизнью, как обычная девушка.
 Even if we do get back to the Antarctic, I doubt the brass would let her...=Даже если мы вернемся в Антарктику, я сомневаюсь, что начальство позволит ей это сделать...
 Have you come to?=Ты пришла в себя?
@@ -11907,9 +11907,9 @@ Mendo... Mendo...?=Мендо ... Мендо ...?
 I... won't... die... so easily...=Я... не... умру... так легко...
 If you're dead, who's going to find your sister?=Если ты умрешь, кто найдет твою сестру?
 You're barely strong enough to even talk! Don't even think about it!=Ты едва ли достаточно сильна, чтобы просто говорить! Даже не думай об этом!
-No... not yet... Lige... is still...=Нет ... пока нет ... Лидж ... все еще ...
-You've been poisoned with neurotoxin and require immediate medical treatment at a suitable facility.=Ты были отравлена нейротоксином и необходимо немедленное медицинского лечение в подходящем учреждении.
-We were washed out of the contamination zone by the underground river. We're now taking you to the extraction point.=Мы были вымыты из зоны загрязнения подземной рекой. Сейчас мы сейчас направлемся к месту эвакуации.
+No... not yet... Lige... is still...=Нет... пока нет... Лидж... все еще ...
+You've been poisoned with neurotoxin and require immediate medical treatment at a suitable facility.=Ты была отравлена нейротоксином и нуждаешься в немедленном медицинском обслуживании в подходящем учреждении.
+We were washed out of the contamination zone by the underground river. We're now taking you to the extraction point.=Нас вымыло из зоны заражения подземной рекой. Сейчас мы направляемся с тобой к точке эвакуации.
 Where... am I...?=Где... я...?
 Jefuty?!=Джефути?!
 Your wound is massive! We can't cut out that much stuff!=У тебя обширная рана! Мы не можем вырезать так много тканей!
@@ -11922,7 +11922,7 @@ Tranquilizer... is ineffective on me anyway... Just... do it directly...=Тра�
 No matter how fast you can regenerate, you might still die from the procedure!=Независимо от того, насколько быстро ты сможешь восстановиться, ты все равно можешь умереть от этой процедуры!
 If we can't... rescue Lige... I'd rather... die here...=Если мы не сможем... спасти Лидж... Я бы предпочла... умереть здесь...
 B... but...=Н... но...
-Excise... the poisoned tissues... so that I can... regenerate... a new body... This is the... quickest way...=Вырежьте... отравленные ткани... чтобы я могла... регенерировать... новое тело... Это... самый быстрый способ...
+Excise... the poisoned tissues... so that I can... regenerate... a new body... This is the... quickest way...=Вырежьте... отравленные ткани... чтобы я могла... регенерировать... новые ткани... Это... самый быстрый способ...
 Lige... is still waiting... for me... I can't... give up... just yet...=Лидж ...все еще ждет... меня... я не могу... сдаться... раньше времени...
 Mendo... I beg you...=Мендо... Прошу тебя...
 Jefuty, let me do it. I have more professional experience in medicine. I'll make this less painful for you.=Джефути, позволь мне это сделать. У меня больше профессионального опыта в медицине. Я сделаю это менее болезненным для тебя.
@@ -11935,7 +11935,7 @@ Take out everything from the medkit and set them up.=Достань все из 
 Jefuty, this is going to hurt a lot. Hang in there.=Джефути, это будет очень больно. Держись.
 Yes... I understand...=Да ... я понимаю ...
 I'm here.=Я здесь.
-Don't... do something... so reckless next time...=Не делай ... что-то ... так безрассудно в следующий раз ...
+Don't... do something... so reckless next time...=Не делай... что-либо... так безрассудно в следующий раз...
 If she'd... got you... you would've... been dead by now...=Если бы она ... попала в тебя ... ты бы ... уже был мертв ...
 Are you... stupid?=Ты ... глупый?
 Who knows... Maybe I am stupid.=Кто знает ... может быть, я глупый.
@@ -11971,15 +11971,15 @@ Hang in there!=Держись!
 Jefuty, this is the last step!=Джефути, это последний шаг!
 Try to slow her heartbeat and blood flow!=Попробуй замедлить ее сердцебиение и кровоток!
 I'm about to cauterize her wound—apply pressure to her chest!=Я собираюсь прижечь ее рану — надави ей на грудь!
-On it!=Сейчас! \n(Переводчик: я хз что это)
+On it!=Сделаю!
 I'm getting the heated knife now!=Сейчас я достану раскаленный нож!
 Soak that up with the bandages!=Обмочи это бинтами! 
 Leave it!=Брось её!
 The cloth fell out of her mouth!=Ткань выпала изо рта!
 ARGHHHHHH!!=АРГХХХХХХ !!
 Sorry about this, Jefuty!=Извини за это, Джефути!
-Didn't you say you would lend me your strength when we saw the sea of flowers?=Разве ты не говорил, что придашь мне сил, когда мы увидели море цветов?
-No, I want to see you all healed up first. What if your wound dehisces during the rough journey?=Нет, я хочу сначала увидеть, как ты поправишьс. Что, если твоя рана затянется во время тяжелого путешествия?
+Didn't you say you would lend me your strength when we saw the sea of flowers?=Разве ты не сказал, что поможешь мне, когда мы увидим море цветов?
+No, I want to see you all healed up first. What if your wound dehisces during the rough journey?=Нет, я хочу увидеть тебя полностью исцеленной. А что если твоя рана раскроется во время тяжёлого пути?
 I think I'll recover by the time we reach the base.=Думаю, я восстановлюсь к тому времени, когда мы достигнем базы.
 Mendo, please keep carrying me for a while.=Мендо, пожалуйста, продолжай нести меня еще какое-то время.
 Don't worry about the problem with Lige. My body will recover soon enough. If we let this drag on for too long, we'll lose the cover of night.=Не беспокойся о проблеме с Лидж. Мое тело достаточно скоро восстановится. Если мы позволим этому продолжаться слишком долго, то потеряем покровы ночи.
@@ -11993,7 +11993,7 @@ I have another way of subduing her...=У меня есть другой спос
 She's a mitotic specimen made of Shrike cells!=Она митотический образец из клеток Шрайк!
 Tsk. Even if you don't keel over, do you think we can beat her again in our current condition if we run into your sister again?=Тск. Даже если ты не упадешь в обморок, как ты думаешь, сможем ли мы снова победить ее в нашем нынешнем состоянии, если снова столкнемся с твоей сестрой?
 I know I can keep going.=Я знаю, что могу продолжать идти.
-I didn't perform the surgery on you just so you can crawl your way to certain death! Your body is at its limit, and you know that!=Я сделал тебе операцию не для того, чтобы ты ползла навстречу верной смерти! Твой организм на пределе, и ты это знаешь!
+I didn't perform the surgery on you just so you can crawl your way to certain death! Your body is at its limit, and you know that!=Я сделала тебе операцию не для того, чтобы ты ползла навстречу верной смерти! Твой организм на пределе, и ты это знаешь!
 We can't let all our effort go to waste.=Мы не можем допустить, чтобы все наши усилия пропали даром.
 They must've brought her back to the base.=Они, наверное, вернули ее на базу.
 We've severely injured Lige.=Мы серьезно ранили Лидж.
@@ -12008,21 +12008,21 @@ How is it out there?=Как там у тебя?
 Then I can relax.=Тогда я могу расслабиться.
 The wound has started healing. A full recovery should be expected soon.=Рана начала заживать. Скоро следует ожидать полного выздоровления.
 Jefuty, are you awake?!=Джефути, ты не спишь?!
-Why, thank you.=Что ж, спасибо вам.
+Why, thank you.=Что ж, спасибо тогда.
 Well, thanks to her, you're not so unbearable anymore.=Что ж, благодаря ей ты больше не такая невыносимая.
 ...It sickens me!=...Меня от этого тошнит!
 And now she's treating your sister like a toy.=А теперь она обращается с твоей сестрой как с игрушкой.
 The things she did to my sister... I will never forgive her!=То, что она сделала с моей сестрой... Я никогда не прощу ей!
 ...No wonder you lost your cool back then.=... Неудивительно, что ты тогда потеряла самообладание.
-...Was it Sugar?=... это была Шугар?
+...Was it Sugar?=... это была Сахар?
 I, too, had a little sister once.=Однажды у меня была маленькая сестра.
 Looks like you bear a grudge against her.=Похоже, ты затаила на нее злобу.
 ...We've crossed swords with her many times.=... Мы много раз скрещивали с ней мечи.
-You seem to have a history with this Sugar?=Кажется, у тебя есть история с Шугар?
+You seem to have a history with this Sugar?=Кажется, у тебя есть история с Сахар?
 I had no reason to stand by and watch you suffer.=У меня не было причин стоять в стороне и смотреть, как ты страдаешь.
 You saved us from Sugar.=Ты спасла нас от сахара.
 I knew I was asking a lot, but you still went ahead and performed the surgery on me.=Я знала, что прошу слишком многого, но вы все равно сделали мне операцию.
-That's two words I never thought I'd hear from you.=Я никогда не думал, что услышу от тебя эти два слова.
+That's two words I never thought I'd hear from you.=Это два слова, которые я никогда не думала, что услышу от тебя.
 The bleeding has stopped. I've dressed your wound. Don't move around or you'll tear it.=Кровотечение остановилось. Я перевязала твою рану. Не двигайся, а то порвешь ее.
 ...How is my condition?=... как мое состояние?
 Mendo has gone to scout out an escape route. We can retreat once he's back.=Мендо отправился на разведку, чтобы найти путь к отступлению. Мы сможем отступить, как только он вернется.
@@ -12032,9 +12032,9 @@ These clothes aren't yours, are they?=Эта одежда не твоя, не т
 It fits you nicely.=Оно хорошо подходит тебе.
 This is a beautiful coat.=Это красивое пальто.
 Th... thank you...=С... спасибо ...
-You just lost a lot of blood. You have to keep warm.=Ты только что потерял много крови. Тебе нужно согреться.
+You just lost a lot of blood. You have to keep warm.=Ты только что потеряла много крови. Тебе нужно сохранять тепло.
 I have a clean set of clothes here, I'll put it on for you.=У меня здесь есть чистый комплект одежды, я оставлю его для тебя.
-We'd better get you something else to wear before we set off. I've cut your clothes into tatters.=Нам лучше купить тебе что-нибудь другое, прежде чем мы отправимся в путь. Я изрезала твою одежду в клочья.
+We'd better get you something else to wear before we set off. I've cut your clothes into tatters.=Нам лучше найти тебе что-то другое для носки, прежде чем мы отправимся. Я порезал твою одежду на клочья.
 Oh, right.=О, верно.
 Alright, but I'll be fine.=Хорошо, но со мной все будет в порядке.
 But if anything happens to you on the way, I'll stop immediately. That's my only condition.=Но если с тобой что-нибудь случится по дороге, я немедленно остановлюсь. Это мое единственное условие.
@@ -12044,11 +12044,11 @@ This is someone who would rather chop off a part of her body than give up. How d
 How come even Atena is saying this...=Почему даже Атена говорит это ...
 She won't give in until she's got her sister.=Она не сдастся, пока не получит свою сестру.
 ...Don't bother, Mendo. You can't talk her out of it.=... Не беспокойся, Мендо. Ты не сможешь ее отговорить.
-How about it? That's a bargain for you.=Как насчет этого? Это выгода для вас.
+How about it? That's a bargain for you.=Как тебе? Это выгодная сделка для тебя.
 Right now I need you to take one of those lives I've saved to carry me to the base.=Прямо сейчас мне нужно, чтобы ты забрал одну из тех жизней, которые я спасла, и доставил меня на базу.
 You also said you owed me your life many times now. I heard everything.=А еще ты много раз говорил, что обязан мне жизнью. Я все слышала.
-I help you find Atena, and you help me rescue Lige—that was our deal.=Я помогаю вам найти Атену, и ты помогаешь мне спасти Лидж - это была наша сделка.
-I'll scout ahead and send you the coordinates once I make sure it's safe.=Я проведу разведку и пришлю вам координаты, как только удостоверюсь, что это безопасно.
+I help you find Atena, and you help me rescue Lige—that was our deal.=Я помогаю тебе найти Атену, и ты помогаешь мне спасти Лидж - это была наша сделка.
+I'll scout ahead and send you the coordinates once I make sure it's safe.=Я проведу разведку и пришлю вам координаты, как только удостоверюсь, что всё безопасно.
 Just follow the plotted route while carrying Jefuty, Mendo.=Просто следуй по намеченному маршруту, неся с собой Джефути Мендо.
 Jefuty, if you don't feel well, make sure you tell me right away.=Джефути, если ты почувствуешь себя нехорошо, обязательно скажи мне сразу же.
 Okay, I will.=Хорошо, я так и сделаю.
@@ -12582,20 +12582,20 @@ He didn't come with you?=Он не пошел с вами?
 Professor William gave us full authority to handle this operation. He will come when the time is right.=Профессор Уильям дал нам все полномочия для проведения этой операции. Он приедет, когда придет время.
 I see. My adjutant, Kirill, has arranged an area for the Werewolf Commando Team to rest and regroup before the meeting.=Я понимаю. Мой адъютант Кирилл подготовил для "Команды коммандос-оборотней" место для отдыха и перегруппировки сил перед встречей.
 I appreciate your kindness, Colonel Beria, but Professor William has requested that I apprehend the test subject as soon as I arrive.=Я ценю вашу доброту, полковник Берия, но профессор Уильям попросил меня задержать подопытного, как только я прибуду.
-This is my vice-captain, codename "Sugar".=Это мой вице-капитан, кодовое имя "Шугар".
+This is my vice-captain, codename "Sugar".=Это мой вице-капитан, кодовое имя "Сахар".
 She's the best soldier I have, and she'll be leading the Werewolf Commando Team.=Она лучший солдат, который у меня есть, и она возглавит "Команду коммандос-оборотней".
 Is this the commander of this base?=Это командир этой базы?
 Looks short and fat.=Выглядит невысоким и толстым.
-Sugar, be polite.=Шугар, будь вежливой.
+Sugar, be polite.=Сахар, будь вежливой.
 Hahaha, what a personality.=Ха-ха-ха, что за личность.
 Are all your men so feeble and listless?=Все ли ваши люди такие слабые и вялые?
 Can't even catch a fully-immune individual. Such disgrace.=Даже не может поймать полностью иммунного человека. Такой позор.
-That's enough, Sugar.=Этого достаточно, Шугар.
+That's enough, Sugar.=Этого достаточно, Сахар.
 Fine. I'll stop.=Отлично. Я остановлюсь.
 Colonel Beria, I want us to move as quickly as possible. Please show us to your command room.=Полковник Берия, я хочу, чтобы мы действовали как можно быстрее. Пожалуйста, покажите нам вашу командную рубку.
  Quarantine Zone K-{{A}}'s amusement park= Карантинная зона K-{{A}} парк развлечений
 Certainly. Since the Captain has said so, I must humbly oblige.=Конечно. Раз капитан так сказал, я должен покорно подчиниться.
-Sugar, follow me to the command room. The rest of the commandos will stay put and prepare for battle.=Шугар, следуй за мной в командный пункт. Остальным коммандос оставаться на местах и готовиться к бою.
+Sugar, follow me to the command room. The rest of the commandos will stay put and prepare for battle.=Сахар, следуй за мной в командный пункт. Остальным коммандос оставаться на местах и готовиться к бою.
 Got it. Everyone is itching for a good fight with the Antarctican bastards.=Поняла. Всем не терпится хорошенько подраться с антарктическими ублюдками.
 Right, sorry for holding you up, Commander Beria.=Ладно, извините, что задержал вас, командир Берия.
 Now, let's go to the command room.=А теперь давайте пройдем в командный пункт.
@@ -12630,7 +12630,7 @@ Are you willing to take responsibility if your leadership ends up interfering wi
 If I am responsible, then I will gladly bear the consequences.=Если я несу ответственность, то с радостью возьму на себя последствия.
 Oh? And what if taking responsibility warrants a summary execution?=Ой? А что, если взятие на себя ответственности приведет к казни без суда и следствия?
 As I said, if it is indeed my mistake, you may punish me as you see fit.=Как я уже сказал, если это действительно моя ошибка, вы можете наказать меня так, как сочтете нужным.
-Sugar, you're way out of line.=Шугар, ты переходишь все границы.
+Sugar, you're way out of line.=Сахар, ты переходишь все границы.
 Commander Beria, do forgive my subordinate's indiscretion. She will be reprimanded.=Командир Берия, прошу простить мою подчиненную за бестактность. Она получит выговор.
 Tsk—=Тск-
 Then I shall leave commanding the garrison troops to you. However, I'm sure you know how much the lieutenant general values the success of this mission. There is no room for even the slightest mistake.=Тогда я оставлю командование войсками гарнизона на вас. Однако, я уверен, вы знаете, как высоко генерал-лейтенант ценит успех этой миссии. Здесь нет места даже малейшей ошибке.
@@ -12648,7 +12648,7 @@ Colonel Beria, please.=Полковник Берия, пожалуйста.
 You made a promise. It's time to keep it.=Ты дал обещание. Пришло время сдержать его.
 Very well, I'll make the arrangements for it immediately.=Хорошо, я немедленно приму меры.
 William hasn't come.=Уильям не пришел.
-Have you scouted the location that Sugar reported on?=Вы уже разведали местоположение, о котором сообщила Шугар?
+Have you scouted the location that Sugar reported on?=Вы уже разведали местоположение, о котором сообщила Сахар?
 Our scouts are in the vicinity. There are definite signs of Antarctican activity.=Наши разведчики находятся поблизости. Есть явные признаки антарктической активности.
 I guess that bitch knew what she was talking about.=Я думаю, эта сучка знала, о чем говорила.
 Hell, she was even able to pinpoint the test subject's location.=Дерьмо, она даже смогла точно определить местоположение испытуемого.
@@ -13057,8 +13057,8 @@ I see Atena.=Я вижу Атену.
 You're late. Just the two of you?=Вы опоздали. Вы вдвоем?
 You didn't find her?=Вы не нашли ее?
 I did, but I couldn't save her.=Да, но я не смог ее спасти.
-Sugar probably sent her back to the lab already.=Шугар, вероятно, уже отправил ее обратно в лабораторию.
-Do you mean Sugar of the Werewolf Commando Team?!=Вы имеете в виду Шугар из "Команды коммандос-оборотней"?!
+Sugar probably sent her back to the lab already.=Сахар, вероятно, уже отправил ее обратно в лабораторию.
+Do you mean Sugar of the Werewolf Commando Team?!=Вы имеете в виду Сахар из "Команды коммандос-оборотней"?!
 Your old enemy and the Werewolf Commando Team are preparing to kill us in the quarantine zone.=Ваш старый враг и "Команда коммандос-оборотней" готовятся убить нас в карантинной зоне.
 Yeah, I didn't have the chance to talk to you about it.=Да, у меня не было возможности поговорить с тобой об этом.
 She's here?!=Она здесь?!
@@ -13093,8 +13093,8 @@ Another fully-immune individual in the <keyword\=64>GAVIRUL Project</keyword>, N
 Unlike the AU, the URNC sealed off Noylu completely and then used Shrike cells to create numerous mitotic specimens for testing.=В отличие от AU, URNC полностью изолировали Нойлу, а затем использовали клетки Шрайк для создания многочисленных митотических образцов для тестирования.
 Lige was originally one of Noylu's mitotic specimens. But she was different from the others in that she has her own consciousness.=Лидж изначально была одним из митотических образцов Нойлу, но отличалась от остальных тем, что обладала собственным сознанием.
 Most importantly, she is able to establish a shared consciousness with me and even communicate with beings from higher dimensions.=Самое главное, она способна установить со мной общее сознание и даже общаться с существами из высших измерений.
-A different me in another dimension has already experienced the battle, so I know where Sugar will appear and can prepare an ambush.=Другой я в другом измерении уже пережил эту битву, поэтому я знаю, где появится Шугар, и могу подготовить засаду.
-In that dimension, you personally spoke about your sister, stating that she was killed by Sugar while saving you. You told me that you were proud of her.=В том измерении вы лично рассказали о своей сестре, заявив, что ее убил Шугар, когда спасал вас. Вы сказали, что гордитесь ею.
+A different me in another dimension has already experienced the battle, so I know where Sugar will appear and can prepare an ambush.=Другой я в другом измерении уже пережил эту битву, поэтому я знаю, где появится Сахар, и могу подготовить засаду.
+In that dimension, you personally spoke about your sister, stating that she was killed by Sugar while saving you. You told me that you were proud of her.=В том измерении вы лично рассказали о своей сестре, заявив, что ее убил Сахар, когда спасал вас. Вы сказали, что гордитесь ею.
 ...I was going to ask what on earth you were talking about.=...Я хотел спросить, о чем вы говорите.
 But... I never told anyone about my sister.=Но... Я никому не рассказывал о своей сестре.
 Carl and Mendo don't even know.=Карл и Мендо даже не знают.
@@ -13182,7 +13182,7 @@ Now that we have the howitzers at the checkpoint, they should be easier to deal 
 Let's try to avoid a direct confrontation.=Давайте постараемся избежать прямой конфронтации.
 It looks like Sugar doesn't really care about us escaping. They've set up an encirclement...=Похоже, Сахар не очень-то заботится о нашем побеге. Они устроили окружение...
 Considering the URNC, Werewolf Commando Team, and Assault Artillery, it seems we're in a tough spot.=Учитывая наличие URNC, "Команду коммандос-оборотней" и штурмовой артиллерии, кажется, что мы в трудном положении.
-Sugar's just the vice-captain. I think I know who the spec op team's commander is.=Шугар - всего лишь вице-капитан. Думаю, я знаю, кто командир группы спецопераций.
+Sugar's just the vice-captain. I think I know who the spec op team's commander is.=Сахар - всего лишь вице-капитан. Думаю, я знаю, кто командир группы спецопераций.
 Considering his unabashed frontal strategy and ability to keep Sugar in line, it can only be Captain Oleg.=Учитывая его бессовестную лобовую стратегию и умение держать Шугара в узде, это может быть только капитан Олег.
 The special operations commander Jevon fought against in France?=Командир спецназа, с которым Джевон сражался во Франции?
 Is it him?=Это он?
@@ -13205,7 +13205,7 @@ The system here is too old to remotely control all the checkpoints, so we'll hav
 Having armed support like this is an unexpected surprise. Let's familiarize ourselves with how to gain access and control privileges over them.=Наличие такой вооруженной поддержки - неожиданный сюрприз. Давайте ознакомимся с тем, как получить к ним доступ и управлять привилегиями.
 The deployment diagram of the nearby area has been synchronized to your terminal. After the data analysis is done, let's continue to move in the direction of the gate.=Схема развертывания близлежащей территории была синхронизирована с вашим терминалом. После того как анализ данных будет завершен, продолжим движение в направлении ворот.
  Inner Caucasus theater base command room= Командный пункт базы Внутреннего Кавказского театра
-Sugar, what's your location?=Шугар, где вы находитесь?
+Sugar, what's your location?=Сахар, где вы находитесь?
 <color\=#92b1ff>Reporting in, Captain. We're two klicks from the exit.</color>=<color\=#92b1ff>Докладываю, капитан. Мы в двух километрах от выхода.</color>
 <color\=#92b1ff>Everything's going according to plan. The team is about to encircle the exit. The lockdown will be complete in about 15 minutes.</color>=<color\=#92b1ff>Все идет по плану. Команда вот-вот окружит выход. Блокировка будет завершена примерно через 15 минут.</color>
 What the targets' status?=Каков статус целей?
@@ -13220,7 +13220,7 @@ These AU agents managed to slip through our hands several times. This means they
 According to our intel, TASA is backing them up, so we need to do this quickly.=По нашим сведениям, ТАСА поддерживает их, поэтому нам нужно сделать это быстро.
 <color\=#92b1ff>The only reason they got away last time was because the troops here were so incompetent.</color>=<color\=#92b1ff>В прошлый раз им удалось уйти только потому, что здешние войска были настолько некомпетентны.</color>
 They're always late, and just now they allowed a small opening for those pests to escape.=Они всегда опаздывают, и только сейчас они дали небольшое отверстие, чтобы эти вредители могли сбежать.
-Don't let me down, Sugar.=Не подведи меня, Шугар.
+Don't let me down, Sugar.=Не подведи меня, Сахар.
 You've never made excuses before.=Вы никогда раньше не оправдывались.
 <color\=#92b1ff>Captain, have I ever let you down before?</color>=<color\=#92b1ff>Капитан, я вас когда-нибудь подводил?</color>
 Not before, and hopefully not in the future.=Не раньше, и, надеюсь, не в будущем.
@@ -13313,7 +13313,7 @@ System Voice=Голос системы
 Don't ruin it for me!=Не порти мне настроение!
 That was close. I didn't expect the big bastard would still have so much fight left in him.=Это было близко. Я не ожидал, что у этого здоровенного ублюдка еще осталось столько сил.
 It's lucky you warned me in time.=Хорошо, что вы вовремя предупредили меня.
-Let's get out of here while Sugar and gang are tangled up with the ELIDs.=Давайте убираться отсюда, пока Шугар и банда не запутались в ЭЛИДах.
+Let's get out of here while Sugar and gang are tangled up with the ELIDs.=Давайте убираться отсюда, пока Сахар и банда не запутались в ЭЛИДах.
 There's a voice coming from behind...=Сзади раздается голос...
 Who's there?!=Кто там?!
 Don't shoot! It's me!=Не стреляйте! Это я!
@@ -13611,7 +13611,7 @@ Oh, thank goodness. The system hasn't abandoned me yet.=Слава богу, с�
 Don't be so gloomy.=Не будьте таким мрачным.
 Let's get the wounded some help.=Давайте окажем раненым помощь.
 Thank you very much.=Большое спасибо.
-{{A}} a.m.  base command room={{A}} a.m.  Командный пункт базы
+{{A}} a.m.  base command room={{A}} a.m.  командный пункт базы
 We've almost wiped out all the nearby enemies. Why aren't Jevon and others here yet?=Мы почти уничтожили всех ближайших врагов. Почему Джевон и другие еще не здесь?
 It's past the scheduled time. I'm afraid they're having some trouble.=Уже прошло назначенное время. Боюсь, у них какие-то проблемы.
 Sorry I'm late!=Извините за опоздание!
@@ -14175,26 +14175,26 @@ Why did you suddenly stop?=Почему вы вдруг остановились
 Lige sensed a threat...=Лидж почувствовала угрозу...
 Let's go around!=Давайте обойдем!
 With all the tall mountains, this is the fastest route to the extraction point.=Благодаря высоким горам это самый быстрый путь к точке добычи.
-If I'm right... Sugar is lying in wait to ambush us ahead. It's too dangerous to fight Sugar in these circumstances!=Если я права... Шугар затаилась в засаде и ждет нас впереди. В таких обстоятельствах сражаться с Шугар слишком опасно!
+If I'm right... Sugar is lying in wait to ambush us ahead. It's too dangerous to fight Sugar in these circumstances!=Если я права... Сахар затаилась в засаде и ждет нас впереди. В таких обстоятельствах сражаться с Сахар слишком опасно!
 Sugar?=Сахар?
 Did she catch up with the Werewolf troops?=Догнала ли она войска оборотней?
 The battle with Oleg should have crippled the main force of Werewolves. Even if Sugar catches up, the threat they pose is limited.=Битва с Олегом должна была покалечить основные силы Оборотней. Даже если Сахар догонит их, угроза будет невелика.
-No, you don't need to worry about the Werewolf troops. It's Sugar herself.=Нет, вам не стоит беспокоиться о войсках оборотней. Это сама Шугар.
-What can Sugar do on her own?=Что может сделать Шугар сама?
+No, you don't need to worry about the Werewolf troops. It's Sugar herself.=Нет, вам не стоит беспокоиться о войсках оборотней. Это сама Сахар.
+What can Sugar do on her own?=Что может сделать Сахар сама?
 What if she's a Shrike? And no ordinary Shrike at that?=Что, если она Шрайк? И не обычный Шрайк?
-Exactly what I said. Not only can Sugar control the mitotic specimen, but she is also tracking Lige's location. There's definitely a connection between her and the Shrikes.=Шугар не только может управлять Шрайками, но и способна отслеживать местоположение Лидж. Между ней и Шрайками определенно есть связь.
+Exactly what I said. Not only can Sugar control the mitotic specimen, but she is also tracking Lige's location. There's definitely a connection between her and the Shrikes.=Сахар не только может управлять Шрайками, но и способна отслеживать местоположение Лидж. Между ней и Шрайками определенно есть связь.
 So far, she has not shown her full strength. If I'm correct, her fighting ability is far superior to that of the average mitotic specimen.=Пока что она не показала всей своей силы. Если я права, ее боевые способности намного выше, чем у обычных митотических особей.
 Then... that makes things difficult.=Тогда... это все усложняет.
 Will your blood also work on her?=Ваша кровь также подействует на нее?
 It will, but I don't know how much blood it will take to wipe her out.=Так и будет, но я не знаю, сколько крови потребуется, чтобы уничтожить ее.
-Is Sugar that much of a monster?=Неужели Шугар настолько чудовищна?
+Is Sugar that much of a monster?=Неужели Сахар настолько чудовищна?
 No wonder we couldn't kill her on the previous missions...!=Неудивительно, что мы не смогли убить ее во время предыдущих миссий...!
-Now that Jefuty's aware that Sugar is nearby, we should be cautious.=Теперь, когда Джефути знает, что Шугар поблизости, нам следует быть осторожными.
+Now that Jefuty's aware that Sugar is nearby, we should be cautious.=Теперь, когда Джефути знает, что Сахар поблизости, нам следует быть осторожными.
 We're approaching the evacuation point. We can't take any risks.=Мы приближаемся к точке эвакуации. Мы не можем рисковать.
 At a time like this, there is no room for error. We must change course and try to avoid a fight with Sugar.=В такой момент нет места для ошибок. Мы должны изменить курс и постараться избежать драки с Сахаром.
 Mendo, I need you to see if there's a safer route out there.=Мендо, мне нужно, чтобы ты посмотрел, есть ли там более безопасный путь.
 <color\=#92b1ff>You're no fun. You discovered my ambush.</color>=<color\=#92b1ff>С вами неинтересно. Вы обнаружили мою засаду.</color>
-That's Sugar's voice!=Это голос Шугар!
+That's Sugar's voice!=Это голос Сахар!
 She chose to show herself...!=Она решила показать себя...!
 <color\=#92b1ff>Fully-immune individual~ I don't know how you know who I am, but you probably understand your situation~</color>=<color\=#92b1ff>Полностью иммунный человек ~ Я не знаю, как ты знаешь, кто я, но ты, вероятно, понимаешь свою ситуацию ~</color>
 <color\=#92b1ff>I advise you not to resist. Come with me. I can promise to leave all your new friends intact.</color>=<color\=#92b1ff>Я советую тебе не сопротивляться. Иди со мной. Я обещаю оставить всех твоих новых друзей в целости и сохранности.</color>
@@ -14214,7 +14214,7 @@ Does the URNC still have heavy armor?!=У URNC все еще есть тяжел
 <color\=#92b1ff>Is that Beria's lapdog?</color>=<color\=#92b1ff>Это собака Берии?</color>
 <color\=#92b1ff>What? Did you find your master missing and start biting people like mad?</color>=<color\=#92b1ff>Что? Ты обнаружил пропажу своего хозяина и начал кусать людей как бешеный?</color>
 <color\=#92b1ff>Hmph! So what if I'm a mad dog? I'll be your undertaker today!</color>=<color\=#92b1ff>Что с того, что я бешеная собака? Сегодня я буду твоим гробовщиком!</color>
-<color\=#92b1ff>Sugar, I know what you're doing in secret!</color>=<color\=#92b1ff>Шугар, я знаю, что ты делаешь в тайне!</color>
+<color\=#92b1ff>Sugar, I know what you're doing in secret!</color>=<color\=#92b1ff>Сахар, я знаю, что ты делаешь в тайне!</color>
 <color\=#92b1ff>In secret?</color>=<color\=#92b1ff>В тайне?</color>
 <color\=#92b1ff>I never sneak around. I always do things aboveboard~</color>=<color\=#92b1ff>Я никогда не крадусь. Я всегда поступаю по правилам.</color>
 <color\=#92b1ff>I know all about your murder of Colonel Beria!</color>=<color\=#92b1ff>Я знаю все о твоем убийстве Полковника Берии!</color>
@@ -14232,7 +14232,7 @@ Does the URNC still have heavy armor?!=У URNC все еще есть тяжел
 <color\=#92b1ff>Let me send you to see Beria!</color>=<color\=#92b1ff>Позволь мне отправить тебя к Берии!</color>
 Is the URNC insane?=Неужели URNC сошли с ума?
 They're saying this stuff on a public channel?=Они говорят об этом на общем канале?
-Sugar killed the base commander?=Шугар убила командира базы?
+Sugar killed the base commander?=Сахар убила командира базы?
 I can't believe this happened while we were being chased.=Я не могу поверить, что это произошло, когда за нами гнались.
 It sounds like they're both up to something. There's internal conflict in the URNC.=Похоже, они оба что-то замышляют. В URNC назревает внутренний конфликт.
 ...Yeah, let's go.=...Да, пойдем.
@@ -14251,10 +14251,10 @@ Consume all current AP (<color\=#ff8d48>cannot exceed 150% of Max AP</color>) an
 <color\=#89f0ff>Increase accuracy by 15.</color> When attacking the same target, <color\=#89f0ff>increase damage by 30%</color> for 1 turn.=<color\=#89f0ff>Повышение точности на 15.</color> При атаке одной и той же цели, <color\=#89f0ff>увеличивает урон на 30%</color> на 1 ход.
 <color\=#ff8d48>Increase accuracy by 20.</color> When attacking the same target, <color\=#ff8d48>increase damage by 40%</color> for 1 turn.=<color\=#ff8d48>Повышение точности на 20.</color> При атаке одной и той же цели, <color\=#ff8d48>увеличивает урон на 40%</color> на 1 ход.
 Exhausted: take damage equal to {{A}}% of Max HP at the end of the action. Take damage equal to {{B}}% of Max HP if the current HP is at {{C}}%.=Исчерпан: получает урон, равный {{A}}% от максимального HP в конце действия. Получает урон, равный {{B}}% от максимального HP, если текущий HP находится на уровне {{C}}%.
-　　Between having to deal with the threat of the Werewolf Commandos and being wary of Kirill's heavy bombardments, the evacuation route along the mountain is fraught with danger. Caught between two enemies, perhaps hiding your tracks might give you the chance to finish off whichever of the two comes out on top. Meanwhile, quickly regrouping with your scattered teammates might be the key to winning the battle with Sugar.=　　Эвакуационный путь по горам сопряжен с опасностью, поскольку приходится бороться с угрозой "Командос Оборотней" и опасаться мощных бомбардировок Кирилла. Оказавшись между двумя врагами, вы сможете скрыть свои следы и прикончить того из них, кто окажется на высоте. Тем временем быстрая перегруппировка с разрозненными товарищами может стать ключом к победе в битве с Шугар.
+　　Between having to deal with the threat of the Werewolf Commandos and being wary of Kirill's heavy bombardments, the evacuation route along the mountain is fraught with danger. Caught between two enemies, perhaps hiding your tracks might give you the chance to finish off whichever of the two comes out on top. Meanwhile, quickly regrouping with your scattered teammates might be the key to winning the battle with Sugar.=　　Эвакуационный путь по горам сопряжен с опасностью, поскольку приходится бороться с угрозой "Командос Оборотней" и опасаться мощных бомбардировок Кирилла. Оказавшись между двумя врагами, вы сможете скрыть свои следы и прикончить того из них, кто окажется на высоте. Тем временем быстрая перегруппировка с разрозненными товарищами может стать ключом к победе в битве с Сахар.
 This unit deploys long-range incendiary missiles that ignite a vast area, leaving fiery trails that severely burn any enemy foolish enough to pass through. Its massive-caliber main gun unleashes incredible destructive power, crushing any target within its linear path. Protected by a force field powered by energy, this mechanical leviathan demands cunning tactics and strategic resource management to overcome its formidable defenses.\n<color\=#ff7373>Attack priority</color>: terminal HP, lowest HP=Эта боевая единица использует дальнобойные зажигательные ракеты, которые воспламеняют огромную территорию, оставляя за собой огненные следы, сильно испепеляющие любого врага, имеющего глупость пройти сквозь них. Массивное орудие главного калибра высвобождает невероятную разрушительную силу, сокрушая любую цель на своем пути. Защищенный силовым полем, питаемым энергией, этот механический левиафан требует хитрой тактики и стратегического управления ресурсами, чтобы преодолеть его грозную оборону.\n<color\=#ff7373>Приоритет атаки</color>: терминал HP, наименьшее количество HP
 When triggered, it inflicts high damage to targets within the blast radius, and can only be detected by scanning devices.\n=При срабатывании он наносит большой урон целям в радиусе взрыва и может быть обнаружен только сканирующими устройствами.\n
-As a field commander, Sugar prioritizes observing the battlefield situation and conjures realistic holographic clones to assist in combat. She is a master of versatility, employing both firearms and tail attacks to induce targets into an "Infection" state using neurotoxins. Any actions can trigger the onset of toxicity, causing damage.\n<color\=#ff7373>Attack priority</color>: terminal HP, highest SP=Как полевой командир, Шугар уделяет первостепенное внимание наблюдению за ситуацией на поле боя и создает реалистичных голографических клонов для помощи в бою. Она - мастер универсальности, использует как огнестрельное оружие, так и атаки хвостом, чтобы ввести цель в состояние "заражения" с помощью нейротоксинов. Любые действия могут спровоцировать начало токсичности, нанося урон.\n<color\=#ff7373>Приоритет атаки</color>: терминал HP, максимальное количество SP
+As a field commander, Sugar prioritizes observing the battlefield situation and conjures realistic holographic clones to assist in combat. She is a master of versatility, employing both firearms and tail attacks to induce targets into an "Infection" state using neurotoxins. Any actions can trigger the onset of toxicity, causing damage.\n<color\=#ff7373>Attack priority</color>: terminal HP, highest SP=Как полевой командир, Сахар уделяет первостепенное внимание наблюдению за ситуацией на поле боя и создает реалистичных голографических клонов для помощи в бою. Она - мастер универсальности, использует как огнестрельное оружие, так и атаки хвостом, чтобы ввести цель в состояние "заражения" с помощью нейротоксинов. Любые действия могут спровоцировать начало токсичности, нанося урон.\n<color\=#ff7373>Приоритет атаки</color>: терминал HP, максимальное количество SP
 His excellent observation of the battlefield allows him to anticipate and adjust his position accordingly after an attack. Under his outstanding command, troops are inspired to fight with unwavering dedication and unleash their full combat potential. Furthermore, his arsenal boasts specialized grenades that can hinder enemy movement by making the ground impassable, throwing enemy maneuvers into disarray.\n<color\=#ff7373>Attack priority</color>: terminal HP, highest attack=Его отличное наблюдение за полем боя позволяет ему предугадывать и корректировать своё положение после атаки. Под его выдающимся командованием войска вдохновлены сражаться с непреклонной преданностью и раскрывать свой полный боевой потенциал. Кроме того, его арсенал включает специализированные гранаты, которые могут затруднить движение врага, делая землю непроходимой, что приводит к дезорганизации вражеских манёвров.\n<color\=#ff7373>Приоритет атаки</color>: критическое здоровье, наивысшая атака.
 Compared to other members of the Special Forces, their superior strength sets them apart. Break's presense bolsters morale, allowing them to sustain peak performance even under intense pressure.\n<color\=#ff7373>Attack priority</color>: terminal HP, highest SP=По сравнению с другими членами спецназа, их превосходящая сила выделяет их на фоне остальных. Присутствие Брейка укрепляет боевой дух, позволяя им сохранять максимальную работоспособность даже под сильным давлением.\n<color\=#ff7373>Приоритет атаки</color>: терминал HP, максимальное количество SP
 Eugene=Юджин
@@ -14279,7 +14279,7 @@ Data Compilation=Компиляция данных
 Neural Invasion=Нейронная инвазия
 Special Protective Suit=<size\=20>Специальный защитный костюм</size>
 Two-Colored Hologram=Двухцветная голограмма
-If Sugar (Blue Hologram) is on the battlefield, damage taken is reduced by {{A}}%.=Если на поле боя находится Шугар (голубая голограмма), получаемый урон уменьшается на {{A}}%.
+If Sugar (Blue Hologram) is on the battlefield, damage taken is reduced by {{A}}%.=Если на поле боя находится Сахар (голубая голограмма), получаемый урон уменьшается на {{A}}%.
 If there are 4 enemy units adjacent at the start of the action, deal 200 damage and inflict <color\=#d7abff>"Infection"</color> to the targets for 1 turn. \n<color\=#d7abff>Infection</color>: Take damage equal to AP cost x10 after each action.=Если в начале действия рядом находятся ЗМДЗ вражеских отрядов, нанесите ЗМДЗ урона и нанесите "Заражение <color\=#d7abff>"Заражение"</color> цели на ход 1. \n<color\=#d7abff>Заражение</color>: Получает урон, равный стоимости AP x10, после каждого действия.
 Deal damage equal to 130% of own attack and inflict <color\=#d7abff>"Infection"</color> for 1 turn. \n<color\=#d7abff>Infection</color>: Take damage equal to AP cost x10 after each action.=Наносит урон, равный 130% от собственной атаки, и накладывает <color\=#d7abff>"Заражение"</color> Для 1 Turn. \n<color\=#d7abff>Заражение</color>: Получает урон, равный стоимости AP x10, после каждого действия.
 Venom Sting=Ядовитый укус
@@ -14442,7 +14442,7 @@ Take damage equal to AP cost x{{A}} after each action.=Получает урон
 Intel Collection=Коллекция Intel
 Gain 2 stacks of <color\=#d7abff>"Counterattack"</color> at the start of allied turn. \n<color\=#d7abff>Counterattack</color>: Counterattack when targeted by an enemy unit's normal attack within range.=Получить 2 <color\=#d7abff>"Контратака"</color> в начале хода союзников. \n<color\=#d7abff>Контратаковать</color>: Контратака, когда цель обычной атаки вражеского юнита находится в радиусе действия.
 If the unit is present on the battlefield, damage taken by Sugar's real body is reduced by {{A}}%.=Если эта единица присутствует на поле боя, урон, получаемый реальным телом Шугара, уменьшается на {{A}}%.
-With Sugar being trapped in the quarantine zone, the assembled AU team managed to rescue Lige from the clutches of the URNC.=Когда Шугар оказалась в карантинной зоне, команде AU удалось спасти Лидж из лап URNC.
+With Sugar being trapped in the quarantine zone, the assembled AU team managed to rescue Lige from the clutches of the URNC.=Когда Сахар оказалась в карантинной зоне, команде AU удалось спасти Лидж из лап URNC.
 Failing to locate the neural inhibitor, Jefuty could only stabilize her sister's consciousness by purifying the virtual cognition image. With the help of Mendo and Lige, the Shrike's consciousness was defeated, and the garden returned to tranquility once again.=Не найдя нейронного ингибитора, Джефути смогла стабилизировать сознание сестры, очистив виртуальный образ познания. С помощью Мендо и Лидж сознание Шрайка было побеждено, и в саду снова воцарилось спокойствие.
 The victorious AU used cruise missiles to destroy the URNC's military base. They began moving towards the final extraction point, but the URNC quickly reorganized and intercepted the fully-immune individual, sparking another battle between the two sides along the way.=Победившие AU использовали крылатые ракеты, чтобы уничтожить военную базу URNC. Они начали двигаться к последней точке эвакуации, но URNC быстро реорганизовались и перехватили полностью иммунного человека, что вызвало еще одну битву между двумя сторонами по пути.
 In the midst of the intense battle, Carl and his team were surrounded by Oleg's forces. Lige managed to withstand the Shrike's erosion. With boosted morale, the team's combined efforts successfully defeated the enemy, securing a safe breakout.=В разгар напряженной битвы Карл и его команда были окружены силами Олега. Лидж удалось выстоять под ударами "Шрайка". Подняв боевой дух, команда совместными усилиями успешно одолела врага, обеспечив себе безопасный отход.
@@ -14653,9 +14653,9 @@ This deep dive into the base is risky enough. Even though this device is importa
 Honestly, that's not enough information to make a deal with him.=Честно говоря, этой информации недостаточно, чтобы заключить с ним сделку.
 So I need a little help from Atena.=Поэтому мне нужна небольшая помощь Атены.
 <color\=#92b1ff>Me? What can I do?</color>=<color\=#92b1ff>Я? Что я могу сделать?</color>
-Find a way to steal the security footage from the URNC lab. Try to find a clip that can prove that something is wrong with Sugar.=Найдите способ украсть запись с камер наблюдения в лаборатории URNC. Попробуйте найти ролик, который докажет, что с Шугар что-то не так.
-...You mean Sugar has something to do with Shrikes?=...Вы хотите сказать, что Шугар имеет отношение к Шрайкам?
-Sugar is a Shrike. In fact, She's a β Shrike that can manipulate mitotic specimens. She was most likely sent directly by William.=Шугар - это Шрайк. На самом деле, она β-Шрайк, которая может манипулировать митотическими образцами. Скорее всего, ее прислал непосредственно Уильям.
+Find a way to steal the security footage from the URNC lab. Try to find a clip that can prove that something is wrong with Sugar.=Найдите способ украсть запись с камер наблюдения в лаборатории URNC. Попробуйте найти ролик, который докажет, что с Сахар что-то не так.
+...You mean Sugar has something to do with Shrikes?=...Вы хотите сказать, что Сахар имеет отношение к Шрайкам?
+Sugar is a Shrike. In fact, She's a β Shrike that can manipulate mitotic specimens. She was most likely sent directly by William.=Сахар - это Шрайк. На самом деле, она β-Шрайк, которая может манипулировать митотическими образцами. Скорее всего, ее прислал непосредственно Уильям.
 I understand. And if we can prove it to Beria...=Я понимаю. И если мы сможем доказать это Берии...
 Atena, you should help Jefuty with this.=Атена, ты должна помочь Джефути с этим.
 <color\=#92b1ff>I'll try to get into the lab surveillance program first.</color>=<color\=#92b1ff>Сначала я попытаюсь попасть в программу наблюдения за лабораторией.</color>
@@ -14965,8 +14965,8 @@ Jefuty is Exposed=Кефута, обнаженная
 Jefuty reaches the Elevator Shaft within {{A}} turns=Кефутат достигает вала лифта в поворотах {{A}}
 Achieve the victory objective(s) within {{A}} turns=Достичь объективной (ы) победы в рамках {{A}}
 In this battle, Jefuty can <color\=#ff8d48>disguise</color> as a cardboard box, evading enemy Visual Range and infrared detection.\n\n Jefuty in disguise will <color\=#ff8d48>not be detected</color> even when entering the Anti-Stealth Visual Range of enemy units. \n\n*Moving will immediately cancel the disguise.=В этой битве Джефути может <color\=#ff8d48>маскировка</color> Как картонная коробка, уклоняется от визуального диапазона врага и инфракрасного обнаружения.\n\nЗамаскированная кефута <color\=#ff8d48>не быть обнаружено</color> Даже при входе в визуальный диапазон противни-звенец вражеских подразделений.\n\n*Переезд немедленно отменит маскировку.
-Achieve the victory objective(s) within {{A}} turns		Remaining Turns: {{B}}=Достичь объектива (ы) победы в пределах {{A}} поворачивающихся поворотов: {{B}}
-Jefuty reaches the Elevator Shaft within {{A}} turns		Remaining Turns: {{B}}=Кефутат достигает вала лифта в пределах {{A}} поворачивается по поворотам: {{B}}
+Achieve the victory objective(s) within {{A}} turns		Remaining Turns: {{B}}=Достигнуть цели(ей) победы в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
+Jefuty reaches the Elevator Shaft within {{A}} turns		Remaining Turns: {{B}}=Джефути достигает шахты лифта в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 No, I thought I saw movement in the hallway. I should stay and observe!=Нет, я думал, что видел движение в коридоре. Я должен остаться и наблюдать!
 Hmm? Are you still goofing off here?!=Хм? Ты все еще удивляешься здесь?!
 I told you to take the files to Building {{A}} an hour ago, and you haven't even left yet! I'll take care of things here. Get going!=Я сказал вам взять файлы в построение {{A}} час назад, и вы еще даже не ушли! Я позабочусь о вещах здесь. Начнись!
@@ -15113,7 +15113,7 @@ Treacherous Road=Предательская дорога
 　　The roads in the Tuca Mountains are rough and difficult to navigate, and the harsh weather further increases the difficulty of our advance. The URNC's mechanized forces are hot on our tail. In addition to the formidable elite squads, it seems that some secret weapons have been deployed on the battlefield. Stay vigilant of enemies hiding in the shadows and proceed steadily.=　　Дороги в горах Тука грубые и трудно ориентироваться, и суровая погода еще больше увеличивает сложность нашего продвижения. Механизированные силы URNC горячо на нашем хвосте. В дополнение к грозным элитным отрядам, кажется, что на поле битвы было развернуто какое -то секретное оружие. Оставайтесь бдительными от врагов, скрывающихся в тени, и продолжайте постоянно.
 Surveillance Records=Записи наблюдения
 　　Полковник Берия, я попробовал кафе, которую вы рекомендовали ... [{{A}}] Вы звучите недовольным, мой друг. [{{B}}] Нет, полковник. Я полон решимости подчиняться приказам. [{{C}}] У нас с тобой нет таких отношений. Расскажи мне, что ты действительно чувствуешь. [{{D}}] Сэр ... [{{E}}] прекрасно. Я не доверяю этим муравьям ... этими официантами. У них есть скрытые мотивы для пребывания здесь. [{{F}}] Я знаю. Я тоже им не доверяю. [{{G}}] О? [{{H}}] Товарищ Кирилл, почему мы все это сделали? [{{I}}] Очевидно, чтобы убить ... чтобы заставить его заплатить. [{{J}}] Это верно, товарищ. Так что не думайте, что мы собираемся работать с этими неуклюжими официантами. [{{K}}] ... сэр, что вы имеете в виду? [{{L}}] Кофе в конечном итоге лучше, когда вы варите его сами. Пусть эти шарики отвлекают у нас внимание. Это бобы, которые действительно имеют значение. [{{M}}] ... получил это. [{{N}}] Иди заканчивай свою работу, товарищ. [{{O}}] на нем. [{{P}}] Помните, мы варсовианцы. [{{Q}}] Да, сэр! [{{R}}]\r\n\r\n\r\n\r\n=　　Полковик, я, я, я, коатро -доджон ... [{{A}}]. [{{B}}] НЕТ, ПОЛКОВНИК. Яполон рреимосоцкий [{{C}}] Уопс. Rasckaжimne, чtoTOTSHTHOTHYTELGONOU [{{D}}] sэr ... [{{E}}] prekrasno. Я должен быть нахожусь в турнирной айры. В.Е. [{{F}}] я зnaю. Я. [{{G}}] о? [{{H}}] towariщ kiroll, pohehemhy mы vse эto -sdelali? [{{I}}] О. [{{J}}] эtot -werno, totovariщ. Так, что, то, что, то, что я сэбиража [{{K}}] ... С., В.В. [{{L}}] Кофей -коненайно -яито, кожудж, ты. Пьеса иарики О.О. Эoto obobы, котора, де -neйphytelno ymeют. [{{M}}] ... Poluhylol. [{{N}}] Иди -анаканшиваа -м. [{{O}}] na nem. [{{P}}] pomniote, mы vorsovianцы. [{{Q}}] da, cэr! [{{R}}]\r\n\r\n\r\n\r\n
-　After obtaining vital intelligence about Sugar and Crane, Jefuty arranges a meeting with Crane in an empty warehouse to explore the possibility of cooperation. The true identity of Crane is Beria, the commander of this base, and his lesser-known side is finally exposed to everyone. The outcome of Jefuty's negotiations with Beria will determine whether they can retrieve the neural inhibitor from his hands.=　После получения важной информации о Шугар и Крейне, Джефути устраивает встречу с Крейном на пустом складе, чтобы обсудить возможность сотрудничества. Истинная личность Крейна - Берия, командир этой базы, и его малоизвестная сторона, наконец, становится известна всем. От исхода переговоров Джефути с Берией зависит, смогут ли они забрать нейронный ингибитор из его рук.
+　After obtaining vital intelligence about Sugar and Crane, Jefuty arranges a meeting with Crane in an empty warehouse to explore the possibility of cooperation. The true identity of Crane is Beria, the commander of this base, and his lesser-known side is finally exposed to everyone. The outcome of Jefuty's negotiations with Beria will determine whether they can retrieve the neural inhibitor from his hands.=　После получения важной информации о Сахар и Крейне, Джефути устраивает встречу с Крейном на пустом складе, чтобы обсудить возможность сотрудничества. Истинная личность Крейна - Берия, командир этой базы, и его малоизвестная сторона, наконец, становится известна всем. От исхода переговоров Джефути с Берией зависит, смогут ли они забрать нейронный ингибитор из его рук.
 　Based on the intel provided by Beria, Carl retrieves Lige's neural inhibitor. Jefuty immediately sets out to infiltrate the lab building. With the help of Atena, Jefuty clears the path to the underground laboratory.=　Основываясь на информации, полученной от Берии, Карл забирает нейронный ингибитор Лидж. Джефути немедленно отправляется на разведку в здание лаборатории. С помощью Атены Джефути расчищает путь к подземной лаборатории.
 　With the help of Atena and Mendo, Jefuty returns to the base again. With full knowledge of the enemy's deployment, she leads everyone to evade the base's patrolling defenders. Jefuty successfully enters the laboratory where Lige is located, but unfortunately, it was too late—Lige's body is already completely under the control of the Shrike...=　С помощью Атены и Мендо Джефути снова возвращается на базу. С полным знанием развертывания врага она заставляет всех уклониться от патрулирующих защитников базы. Джефути успешно входит в лабораторию, где находится Лидж, но, к сожалению, было слишком поздно - тело Лидж уже полностью под контролем Шрайк ...
 　During the evacuation, the AU team, unable to shake off the relentless pursuit of the URNC, engages in a firefight with the enemy forces in the small town of Zeuk. The Werewolf Commando Team, led by Oleg, leverages their formidable combat capabilities and extensive battlefield experience to pose a significant threat to Jefuty and the others. The continuous erosion of the Shrike also put Lige at risk of losing control again. Fortunately, Lige successfully suppresses the Shrike, and Carl leads the group in a collaborative effort to repel Oleg and find an opportunity to escape the battlefield.=　Во время эвакуации команда AU, неспособная избавиться от неустанного стремления к URNC, участвует в перестрелке с вражескими силами в маленьком городке Зеук. Команда коммандос оборотня, возглавляемая Олегом, использует их грозные боевые возможности и обширный опыт боя, чтобы представить значительную угрозу Джефути и остальных. Непрерывная эрозия Shrike также подвергает лиге риск потерять контроль. К счастью, Лидж успешно подавляет Шрайк, и Карл возглавляет группу в совместной попытке отразить Олега и найти возможность избежать поля битвы.
@@ -15223,7 +15223,7 @@ Thank you... I salute Beria.=Спасибо ... Я приветствую Бер
 <color\=#92b1ff>It was Beria's... Last wish...</color>=<color\=#92b1ff>Это был Берия ... Последнее желание ...</color>
 <color\=#92b1ff>...To kill those monsters!</color>=<color\=#92b1ff>... Убить этих монстров!</color>
 We'll do everything we can to get rid of them.=Мы сделаем все возможное, чтобы избавиться от них.
-{{A}} a.m.  near Mount Kushtau={{A}} a.m. возле горы Куштау
+{{A}} a.m.  near Mount Kushtau={{A}} a.m.  возле горы Куштау
 <color\=#92b1ff>Damn it... The monsters are coming back...!</color>=<color\=#92b1ff>Дерьмо ... монстры возвращаются ...!</color>
 <color\=#92b1ff>I'll get rid of them. See you in Larne!</color>=<color\=#92b1ff>Я избаюсь от них. Увидимся в Ларне!</color>
 Hey! Kirill!!=Привет! Кирилл !!
@@ -15257,7 +15257,7 @@ And the good news? I hope it cheers me up.=А хорошие новости? Н�
 The good news is that we picked up the seriously wounded URNC officer as the captain instructed. Our medic gave him urgent treatment.=Хорошей новостью является то, что мы подняли серьезно раненых офицера URNC, как указал капитан. Наш медик дал ему срочное лечение.
 That's good news?=Это хорошие новости?
 He said he had access to one of the URNC's heavy armored units, but he wouldn't give it to us until he saw Captain Carl.=Он сказал, что у него был доступ к одному из тяжелых бронированных подразделений URNC, но он не даст его нам, пока не увидит капитана Карла.
-{{A}} p.m.  Larne={{A}} P.M.  Ларн
+{{A}} p.m.  Larne={{A}} p.m.  Ларн
 Kirill, right? How's he doing now?=Кирилл, верно? Как у него сейчас дела?
 He's badly hurt. It's serious, and our medical resources are limited. He's just barely clinging to life.=Он сильно ранен. Это серьезно, и наши медицинские ресурсы ограничены. Он едва цепляется за жизнь.
 I want to see him.=Я хочу его увидеть.
@@ -15736,7 +15736,7 @@ Jefuty struck a deal with Beria by leveraging Beria's hatred for Shrikes. They b
 Beria, armed with blood weapons, engaged in a deadly struggle with Sugar. He ultimately perished, and the gravely injured Kirill arrived at the town of Larne to meet Carl. Before his death, he entrusted the Battle Fortress to the AU.=Берия, вооруженный кровавым оружием, вступил в смертельную схватку с Сахар. В конце концов он погиб, а тяжелораненый Кирилл прибыл в город Ларн, чтобы встретить Карла. Перед смертью он доверил Боевую крепость АС.
 The location of the extraction point had been compromised due to the remnants of Shrike cells on Kirill. Carl immediately organized the team to fortify defenses both inside and outside the town.=Расположение точки эвакуации было под угрозой из-за остатков ячеек Шрайка на Кирилле. Карл немедленно организовал команду для укрепления обороны как внутри, так и снаружи города.
 Shortly thereafter, the URNC's massive army, led by the Werewolf Commando Team, arrived. The AU utilized multiple defense lines to steadily diminish the enemy's strength. In the end, they dealt a significant blow to the main UNRC force by detonating the Battle Fortress and pre-planted bombs within the town.=Вскоре после этого прибыла огромная армия URNC, возглавляемая отрядом коммандос "Оборотень". AU использовали многочисленные линии обороны, чтобы неуклонно сокращать силы противника. В конце концов они нанесли значительный удар по основным силам УНРК, взорвав Боевую крепость и заранее заложенные в городе бомбы.
-However, Carl learned from Kämpfe that there was still some time before the transport aircraft would land. Despite this, Sugar leveraged the powerful regenerative abilities of the Shrike and gradually begun to recover. The final battle was about to begin.=Однако Карл узнал от Кемпфе, что до приземления транспортного самолета еще есть некоторое время. Несмотря на это, Шугар использовала мощные регенеративные способности "Шрайка" и постепенно начал восстанавливаться. Финальная битва вот-вот должна была начаться.
+However, Carl learned from Kämpfe that there was still some time before the transport aircraft would land. Despite this, Sugar leveraged the powerful regenerative abilities of the Shrike and gradually begun to recover. The final battle was about to begin.=Однако Карл узнал от Кемпфе, что до приземления транспортного самолета еще есть некоторое время. Несмотря на это, Сахар использовала мощные регенеративные способности "Шрайка" и постепенно начал восстанавливаться. Финальная битва вот-вот должна была начаться.
 Don't you think it fits the mood?=Вам не кажется, что это соответствует настроению?
 Because this is Operation Bakery.=Потому что это операция «Пекарня»".
 Fine, it wasn't that funny.=Ладно, это было не так уж и смешно.
@@ -15846,7 +15846,7 @@ Ichor Burst=Ichor Burst
 Sanguine Pulse=Пульс сангвиника
 Bloody Shield=Кровавый щит
 Embodiment of Fear=Воплощение страха
-How dare Sugar trap people with such methods!=Как смеет Шугар заманивать людей в ловушку такими методами!
+How dare Sugar trap people with such methods!=Как смеет Сахар заманивать людей в ловушку такими методами!
 We have to break through the blood cocoon as soon as possible and save them!=Мы должны как можно скорее прорваться сквозь кровавый кокон и спасти их!
 <color\=#ff6060>Nearby Shrike units and these blood cocoons will leave a toxic blood mist nearby when they are broken.</color>=<color\=#ff6060>При разрушении близлежащих отрядов шрайков и этих кровавых коконов поблизости будет образовываться ядовитый кровавый туман.</color>
 Avoid those areas if you don't want to be eroded by the Shrike!=Избегайте этих мест, если не хотите, чтобы вас размыло шрайком!
@@ -16067,7 +16067,7 @@ Some ELIDs have appeared in the southwest. We can have them join the battle if n
 Tsk, the watchtower is still operational, so the game isn't over yet.=Сторожевая башня все еще работает, так что игра еще не закончена.
 Werewolves, kill them all.=Оборотни, убейте их всех.
 Don't worry. Soon they won't be able to pull any more clever tricks.=Не волнуйтесь. Скоро они больше не смогут придумывать хитроумные трюки.
-Sugar and most of the Werewolf Commandos are already here.=Шугар и большинство Командос Оборотней уже здесь.
+Sugar and most of the Werewolf Commandos are already here.=Сахар и большинство Командос Оборотней уже здесь.
 Now's not the time to fight them. Use the ELIDs to draw their fire if you can.=Сейчас не время сражаться с ними. Используйте ELID, чтобы отвлечь их огонь, если сможете.
 Hang in there. The checkpoint that can attack the gate is close.=Держитесь. Контрольная точка, с которой можно атаковать ворота, уже близко.
 Wait, the monitor is showing abnormal signals to the north...=Подождите, монитор показывает аномальные сигналы на севере...
@@ -16219,7 +16219,7 @@ No need for more words. Eliminate these roadblocks in front of us as quickly as 
 The Central Army is also on the way. Everyone, stay sharp. We can't afford to throw away the face of the local garrison!=Центральная армия тоже на подходе. Всем быть начеку. Мы не можем позволить себе потерять лицо местного гарнизона!
 Reduce Lige?'s HP to below {{A}} within {{B}} turns=Уменьшите HP Лидж? до уровня ниже {{A}} в течение {{B}} ходов
 Defeat Lige?=Победить Лидж?
-Reduce Lige?'s HP to below {{A}} within {{B}} turns		Remaining Turns: {{C}}=Снизить HP Лидж до уровня ниже {{A}} в течение {{B}} ходов Оставшиеся ходы: {{C}}
+Reduce Lige?'s HP to below {{A}} within {{B}} turns		Remaining Turns: {{C}}=Уменьшите здоровье Лидж? до {{A}} в пределах {{B}} шагов		\nОставшиеся шаги: {{C}}
 <color\=#d09dff>Reverse Blood</color>: <color\=#ff7373>Increase damage taken by 200%</color>.=<color\=#d09dff>Обратная кровь</color>: <color\=#ff7373>Увеличивает получаемый урон на 200%.</color>.
 Deal <color\=#ff7373>150 true damage</color> that ignores damage reduction to enemy ELID and Shrike units within the area of effect.\nIf the target is a Shrike unit, inflicts <color\=#d09dff>"Reverse Blood"</color> for 1 turn. \nIf the target is a "Shrike Mitotic Specimen", additionally inflicts <color\=#d09dff>"Impure Blood"</color> for 2 turns.\n=Наносит <color\=#ff7373>150 истинного урона</color> Это игнорирует уменьшение урона для вражеских подразделений Элида и Шрайк в области эффекта. Если целью является подразделение Shrike, наносит <color\=#d09dff>"Обратная кровь"</color> Для 1 Turn. Если цель - это «Shrike Mitotic Pextimen», дополнительно наносит <color\=#d09dff>"Нечистая кровь"</color> на 2 ходов.\n
 Consume <color\=#fffd90>1000 Parts</color> and <color\=#ff8d48>4 Fragmentation Grenade</color>、<color\=#ff8d48>4 Explosive Kit</color> to synthesize <color\=#ff8d48>4 of RC Bomb</color>?=Израсходовать <color\=#fffd90>Запчасти 1000</color> и <color\=#ff8d48>4 фрагментация граната</color>、<color\=#ff8d48>Взрывной набор 4</color> синтезировать <color\=#ff8d48>4 RC Bomb</color>?
@@ -16236,34 +16236,35 @@ Evade all damage. \n<color\=#d7abff>Special Condition</color>: If attacked by in
 Gains 1 stack of <color\=#d09dff>"Unyielding"</color>.=Получает 1 Stack <color\=#d09dff>"Непреклонность"</color>.
 <color\=#d09dff>Unyielding</color>: the next attack taken inflicts only 1 damage.=<color\=#d09dff>Unyielding</color>: следующая атака наносит только 1 урона.
 ...What?!=...Что?!
-As expected... attacks at this level won't bring her down!=Как и ожидалось... атаки такого уровня не смогут сбить ее с ног!
-<color\=#ff6060>Watch out for her charging attacks</color>. Her attacks become stronger after regeneration.=<color\=#ff6060>Остерегайтесь ее заряженных атак.</color>Ее атаки становятся сильнее после регенерации.
-The rate of cell regeneration will gradually weaken if we just stick to the strategy and concentrate our firepower!=Скорость регенерации клеток будет постепенно ослабевать, если мы будем придерживаться стратегии и концентрировать нашу огневую мощь!
-This thing... is not immobilized yet!=Эта штука... еще не обездвижена!
+As expected... attacks at this level won't bring her down!=Как и ожидалось... атаки такого уровня не смогут её повалить!
+<color\=#ff6060>Watch out for her charging attacks</color>. Her attacks become stronger after regeneration.=<color\=#ff6060>Остерегайтесь ее заряженных атак</color>. Её атаки становятся сильнее после регенерации.
+The rate of cell regeneration will gradually weaken if we just stick to the strategy and concentrate our firepower!=Скорость регенерации клеток постепенно ослабнет, если мы продолжим следовать стратегии и сосредоточим огневую мощь!
+This thing... is not immobilized yet!=Эта штука... ещё не обездвижена!
 Goddammit! Has the Shrike evolved over the years?!=Проклятье! Неужели Шрайк эволюционировал за эти годы?!
 She's still regenerating even though she's literally on fire!=Она продолжает регенерировать, хотя буквально горит!
-But her regeneration rate is much slower. The attacks are having an effect!=Но скорость ее регенерации гораздо медленнее. Атаки дают эффект!
-Jefuty, it's probably difficult to successfully subdue her with our current means. We should retreat while she's still regenerating!=Джефути, скорее всего, нам не удастся успешно покорить ее нынешними средствами. Нам следует отступить, пока она еще не восстановилась!
+But her regeneration rate is much slower. The attacks are having an effect!=Но её скорость регенерации значительно замедлилась. Атаки начинают давать результат!
+Jefuty, it's probably difficult to successfully subdue her with our current means. We should retreat while she's still regenerating!=Джефути, с нашими текущими средствами, вероятно, трудно будет успешно подчинить её. Нам стоит отступить, пока она ещё регенерирует!
 Not yet!=Еще нет!
 Keep attacking!=Продолжайте атаковать!
 Even the regeneration ability of Shrike cells has its limits!=Даже способность клеток Шрайка к регенерации имеет свои пределы!
 We may be able to completely immobilize her after a few more bursts!=Возможно, нам удастся полностью обездвижить ее еще несколькими очередями!
 Then we'll have a chance to take Lige with us!=Тогда у нас будет возможность взять Лидж с собой!
-Miss Puppet's regeneration rate has diminished. Is her body succumbing so quickly?=Скорость регенерации мисс Марионетки уменьшилась. Неужели ее тело так быстро погибает?
-The companions of the fully-immune individual aren't that impressive after all.=В конце концов, спутники человека с полным иммунитетом не так уж впечатляют.Still, this clash of monsters is absolutely spectacular, first-rate entertainment.=Тем не менее, это столкновение монстров - абсолютно зрелищное, первоклассное развлечение.
+Miss Puppet's regeneration rate has diminished. Is her body succumbing so quickly?=Скорость регенерации мисс Марионетки снизилась. Её тело так быстро сдаётся?
+The companions of the fully-immune individual aren't that impressive after all.=Сопровождающие полностью-невосприимчивого индивида всё-таки не такие впечатляющие.
+Still, this clash of monsters is absolutely spectacular, first-rate entertainment.=Тем не менее, это столкновение монстров — настоящее зрелище, развлечение высшего класса.
 Sadly, I'm starting to grow tired of it.=К сожалению, я начинаю уставать от этого.
-Time to roll the credits. Let me send you on your way.=Пора ставить титры. Позвольте мне отправить вас в путь.
-URNC forces incoming!=Силы URNC прибывают!
-Jefuty, cool your head!=Джефути, остуди свою голову!
+Time to roll the credits. Let me send you on your way.=Время прокрутить титры. Позволь мне отправить тебя в путь.
+URNC forces incoming!=Приближаются войска URNC!
+Jefuty, cool your head!=Джефути, остынь!
 The three of us can't handle all these enemies on our own!=Втроем нам не справиться со всеми этими врагами!
-If we get surrounded, we won't make it out alive even if we get your sister!=Если нас окружат, мы не выберемся живыми, даже если схватим твою сестру!
+If we get surrounded, we won't make it out alive even if we get your sister!=Если нас окружат, мы не выберемся живыми, даже если заберём твою сестру!
 Fuck!=Черт!
 Lige's right there in front of me!=Лидж прямо передо мной!
 The enemies are approaching fast! Fight or flight?=Враги быстро приближаются! Сражаться или бежать?
 ...We run!=...Мы бежим!
-Do you have an escape route?=У тебя есть путь к отступлению?
-There's an underground river leading out of the contamination zone behind this mountain. I initially planned to leave from there, but we got ambushed.=За этой горой есть подземная река, ведущая из зоны заражения. Сначала я планировала уйти туда, но попала в засаду.
-Now that the ambush has been eliminated, there should be no one stationed there. We can leave the contamination zone through the underground river.=Теперь, когда засада ликвидирована, там никого не наверное. Мы можем покинуть зону заражения через подземную реку.
+Do you have an escape route?=У вас есть путь к отступлению?
+There's an underground river leading out of the contamination zone behind this mountain. I initially planned to leave from there, but we got ambushed.=Позади этой горы есть подземная река, ведущая из зоны заражения. Изначально я планировал уйти через неё, но нас устроили засаду.
+Now that the ambush has been eliminated, there should be no one stationed there. We can leave the contamination zone through the underground river.=Теперь, когда засаду ликвидировали, там не должно быть никого на посту. Мы можем покинуть зону заражения через подземную реку.
 Good, let's get going!=Хорошо, давайте начнем!
 Trying to leave already?=Уже пытаетесь уйти?
 Dream on.=Мечтайте.
@@ -16271,7 +16272,7 @@ Atena! Behind you!=Атена! За тобой!
 Is that... Sugar?!=Это... Сахар?!
 Oh? Why, if it isn't Atena!=О? Неужели это Атена!
 Did you not go to hell along with your sister?=Разве ты не отправилась в ад вместе со своей сестрой?
-Doesn't matter. I'll reluctantly do you a favor by sending you off to join her~=Не имеет значения. Я, скрепя сердце, окажу тебе услугу, отправив тебя к ней~
+Doesn't matter. I'll reluctantly do you a favor by sending you off to join her~=Не имеет значения. Я с неохотой сделаю тебе одолжение и отправлю тебя к ней~
 You bitch...!=Ты, сука...!
 Jefuty, fall back!=Джефути, отступай!
 They jumped into the underground river!=Они прыгнули в подземную реку!
@@ -16282,14 +16283,14 @@ HAHAHAHA!=ХАХАХА!
 I'm having so much fun! It's been such a long time since I last encountered such interesting prey!=Мне так весело! Прошло так много времени с тех пор, как я в последний раз встречала такую интересную добычу!
 Leave the rest to Oleg. We're returning to base.=Остальное предоставьте Олегу. Мы возвращаемся на базу.
 But... we haven't captured the fully-immune individual yet...=Но... мы еще не поймали полностью иммунного человека...
-Where's the fun in killing your prey just like that?=Что интересного в том, чтобы убивать свою добычу просто так?
-Don't worry, the one named Jefuty was jabbed by my tail.=Не волнуйтесь, того, кого звали Джефути, я задела хвостом.
+Where's the fun in killing your prey just like that?=Где тут веселье, если убивать свою добычу так просто?
+Don't worry, the one named Jefuty was jabbed by my tail.=Не волнуйтесь, ту, кого звали Джефути, я задела хвостом.
 Even a fully-immune individual can't recover from my powerful neurotoxin so quickly.=Даже человек с полным иммунитетом не может так быстро оправиться от моего мощного нейротоксина.
-She will definitely be convulsing, foaming at the mouth, and tearing off all her hair in a while. Don't worry, she won't get very far.=Через некоторое время у нее точно начнутся конвульсии, изо рта пойдет пена, и она начнет рвать на себе волосы. Не волнуйтесь, далеко она не уйдет.
-Update the other teams of our progress. We'll let our great Captain Oleg take the credit for capturing the fully-immune individual.=Сообщите другим командам о наших успехах. Мы позволим нашему великому капитану Олегу взять на себя заслугу по захвату полностью иммунного человека.
-And what should we do about the test subject that came with us?=И что нам делать с подопытным, который пришел с нами?
+She will definitely be convulsing, foaming at the mouth, and tearing off all her hair in a while. Don't worry, she won't get very far.=Она определённо начнёт судорожно дергаться, пускать пену изо рта и вырывать все волосы через некоторое время. Не переживай, далеко она не уйдёт.
+Update the other teams of our progress. We'll let our great Captain Oleg take the credit for capturing the fully-immune individual.=Сообщите другим командам о наших успехах. Пусть наш великий капитан Олег заберёт себе заслугу за захват полностью иммунного человека.
+And what should we do about the test subject that came with us?=А что нам делать с подопытным, который пришёл с нами?
 Oh, her.=О, она.
-She's still alive even after getting burned to a crisp. Ew, she looks absolutely disgusting. I don't want to touch her.=Она все еще жива, даже после того, как сгорела дотла. Фу, она выглядит совершенно отвратительно. Я не хочу к ней прикасаться.
+She's still alive even after getting burned to a crisp. Ew, she looks absolutely disgusting. I don't want to touch her.=Она всё ещё жива, несмотря на то, что её сожгло до костей. Фу, выглядит она отвратительно. Не хочу даже прикасаться к ней.
 However, we mustn't lose her.=Однако мы не должны ее потерять.
 Hmm... You'll have to figure out how to transport that pile of charred meat back to base.=Хм... Придется придумать, как доставить эту груду обугленного мяса на базу.
 Uh, yes, ma'am!=Да, мэм!
@@ -16498,7 +16499,7 @@ I need to check where I was last. Let's check the <color\=#ff6060>cafeteria</col
 <color\=#92b1ff>All units are to remain calm and continue with your patrols!</color>=<color\=#92b1ff>Всем подразделениям следует сохранять спокойствие и продолжать патрулирование!</color>
 Finally fixed the glitch! Time for a break!=Наконец-то исправлена ошибка! Пора сделать перерыв!
 After accessing the memories from Nirvana, Jefuty revised the rescue plan. She entered the quarantine zone with Mendo ahead of time. The two successfully navigated the crisis in the amusement park and began preparations for the capture plan.=Получив доступ к воспоминаниям Нирваны, Джефути пересмотрела план спасения. Вместе с Мендо она заблаговременно вошла в карантинную зону. Вдвоем они успешно преодолели кризис в парке развлечений и начали подготовку к плану захвата.
-However, instead of encountering a single Shrike mitotic specimen, Jefuty found several hostile Shrike mitotic specimens in the sea of flowers. Realizing the change in circumstances, she led Mendo to swiftly break through the encirclement. However, they were intercepted by Sugar and Lige just as they were about to escape.=Однако вместо одной особи митоза Шрайка Джефути обнаружила в море цветов несколько враждебных особей митоза Шрайка. Осознав изменение обстоятельств, она повела Мендо за собой, чтобы быстро прорвать окружение. Однако их перехватили Шугар и Лидж, как раз когда они собирались бежать.
+However, instead of encountering a single Shrike mitotic specimen, Jefuty found several hostile Shrike mitotic specimens in the sea of flowers. Realizing the change in circumstances, she led Mendo to swiftly break through the encirclement. However, they were intercepted by Sugar and Lige just as they were about to escape.=Однако вместо одной особи митоза Шрайка Джефути обнаружила в море цветов несколько враждебных особей митоза Шрайка. Осознав изменение обстоятельств, она повела Мендо за собой, чтобы быстро прорвать окружение. Однако их перехватили Сахар и Лидж, как раз когда они собирались бежать.
 Under the Shrike's control, Lige prepared to attack Jefuty, but the unexpected intervention of the ELIDs instantly restored her consciousness. After helping Jefuty out of her predicament, Lige temporarily lost her ability to move under the assault of the ELIDs.=Под контролем Шрайка Лидж приготовилась напасть на Джефути, но неожиданное вмешательство ЭЛИДов мгновенно вернуло ей сознание. Помогая Джефути выбраться из затруднительного положения, Лидж временно потеряла способность двигаться под натиском ЭЛИДов.
 Load the <color\=#ff8d48>Saved Game 10</color> and resume the game?=Загрузить <color\=#ff8d48>Сохранена игра 10</color> и возобновить игру?
 <color\=#92b1ff>Got it.</color>=<color\=#92b1ff>Понятно.</color>
@@ -16572,7 +16573,7 @@ All allied units reach the specified position on the bottom-right side of the ma
 All allied units reach the specified position on the top-right side of the map within {{A}} turns=Все союзные отряды достигают указанной позиции в правом верхнем углу карты в течение {{A}} ходов
 All allied units reach the specified position on the bottom-right side of the map=Все союзные войска достигают указанной позиции в правом нижнем углу карты
 All allied units reach the specified position on the top-right side of the map within {{A}} turns=Все союзные отряды достигают указанной позиции в правом верхнем углу карты в течение {{A}} ходов
-All allied units reach the specified position on the top-right side of the map within {{A}} turns		Remaining Turns: {{B}}=Все союзные отряды достигают указанной позиции в правом верхнем углу карты в течение {{A}} ходов Оставшиеся ходы: {{B}}
+All allied units reach the specified position on the top-right side of the map within {{A}} turns		Remaining Turns: {{B}}=Все союзные отряды достигают указанной позиции в правом верхнем углу карты в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 DLPL Dual Laser Sightx{{A}}=Лазерный прицел DLPL Dual Laser Sightx{{A}}
 DLPL Dual Laser Sight=Двойной лазерный прицел DLPL
 Team {{A}} in position!=Команда {{A}} на месте!
@@ -16725,7 +16726,7 @@ It is said to be a very popular small dinosaur backpack, and the same model has 
 {{A}}mm Heavy Barrel={{A}}mm Тяжелый ствол
 Have you not captured them yet?!=Вы еще не запечатлели их?!
 Those two really are tough nuts to crack. We'll have to request reinforcements from the base.=Эти двое действительно крепкие орешки. Придется запросить подкрепление на базе.
-Defeat "Svarog" Heavy Tank within {{A}} turns		Remaining Turns: {{B}}=Победите тяжелый танк "Сварог" в течение {{A}} ходов Оставшиеся ходы: {{B}}
+Defeat "Svarog" Heavy Tank within {{A}} turns		Remaining Turns: {{B}}=Победите тяжелый танк "Сварог" в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Target locked...=Цель заблокирована...
 What the...?=Что за...?
 They're here already?!=Они уже здесь?!
@@ -16830,10 +16831,10 @@ Infection=Инфекция
 Disruption=Срыв
 Cellular Decay=Клеточный распад
 Blood Erosion=Эрозия крови
-Jefuty obtained crucial evidence from the URNC surveillance footage that Sugar was an advanced Shrike. Leveraging this fact, she successfully traded a blood weapon for her sister's neural inhibitor with Beria.=Используя этот факт, Джефути получила важные доказательства из записей наблюдения URNC, что Шугар была продвинутым Шрайком. Используя этот факт, она успешно обменяла оружие крови на нейронный ингибитор своей сестры с Берией.
+Jefuty obtained crucial evidence from the URNC surveillance footage that Sugar was an advanced Shrike. Leveraging this fact, she successfully traded a blood weapon for her sister's neural inhibitor with Beria.=Используя этот факт, Джефути получила важные доказательства из записей наблюдения URNC, что Сахар была продвинутым Шрайком. Используя этот факт, она успешно обменяла оружие крови на нейронный ингибитор своей сестры с Берией.
 After Lige stabilized her consciousness by putting on the neural inhibitor again, the URNC troops continued to pursue them relentlessly. To better respond to the imminent attacks, the AU eventually used the extraction point provided by Beria.=После того как Лидж стабилизировала свое сознание, снова включив нейроингибитор, войска URNC продолжили их преследовать. Чтобы лучше отразить надвигающиеся атаки, АС в конце концов воспользовались точкой эвакуации, предоставленной Берией.
 Arriving at the town of Larne, the group encountered Kirill, who had been gravely injured by Sugar. He entrusted the Battle Fortress to Carl before departing from the world.=Прибыв в город Ларн, группа столкнулась с Кириллом, который был тяжело ранен Шугаром. Перед тем как покинуть этот мир, он доверил Боевую крепость Карлу.
-Lige found remnants of Shrike cells on Kirill's body, informing the group that Sugar could use this to discover their hiding place and that the URNC troops would soon arrive.=Лидж обнаружил на теле Кирилла остатки клеток Шрайка и сообщил группе, что Шугар может использовать это, чтобы обнаружить их убежище, и что скоро прибудут войска URNC.
+Lige found remnants of Shrike cells on Kirill's body, informing the group that Sugar could use this to discover their hiding place and that the URNC troops would soon arrive.=Лидж обнаружил на теле Кирилла остатки клеток Шрайка и сообщил группе, что Сахар может использовать это, чтобы обнаружить их убежище, и что скоро прибудут войска URNC.
 Carl immediately ordered the group to start fortifying the defenses. A new battle was on the horizon.=Карл немедленно приказал группе начать укреплять оборону. На горизонте замаячила новая битва.
 Backpack <color\=#56B8C0>4/</color>4 Storage7=Рюкзак <color\=#56B8C0>4/</color>4 Хранилище 7
 Backpack <color\=#56B8C0>3/</color>3 Storage1=Рюкзак <color\=#56B8C0>3/</color>3 Хранилище 1
@@ -17341,7 +17342,7 @@ Laboratory Building Keycard=Ключ-карта от лабораторного 
 This way the keycard has been obtained. Let's get to the lab building.=Таким образом, ключ-карта была получена. Давайте пройдем в лабораторный корпус.
 Chapter {{A}}, Act {{B}}: Base Infiltration=Глава {{A}}, акт {{B}}: Проникновение на базу
 4400x<color\=#ff9600>1,4</color>\=<color\=#ff9600>6160</color>=4400x<color\=#ff9600>1,4</color>"\="<color\=#ff9600>6160</color>
-{{A}} a.m.  corridor of the base laboratory={{A}} a.m. коридор базовой лаборатории
+{{A}} a.m.  corridor of the base laboratory={{A}} a.m.  коридор базовой лаборатории
 New Training Simulation: Breakthrough.=Новый обучающий симулятор: Прорыв.
 New Training Simulation: Breakthrough.=Новый обучающий симулятор: Прорыв.
 Jefuty obtains a new weapon: Petrel.=Джефути получает новое оружие: Буревестник.
@@ -17444,7 +17445,7 @@ You're too modest.=Вы слишком скромны.
 How's the food in the cafeteria these days?=Как нынче обстоят дела с едой в столовой?
 It's been really cold lately. It would be great if the cafeteria had more hot soups.=В последнее время было очень холодно. Было бы здорово, если бы в кафетерии было больше горячих супов.
 That makes sense. I'll go give feedback to the cafeteria tomorrow.=В этом есть смысл. Я пойду завтра в кафетерий и дам отзывы.
-{{A}} a.m.  base laboratory={{A}} a.m. Базовая лаборатория
+{{A}} a.m.  base laboratory={{A}} a.m.  Базовая лаборатория
 Looks like everyone made it out.=Похоже, все выбрались.
 Keep these special medications until you need them.=Храните эти специальные лекарства до тех пор, пока они вам не понадобятся.
 Mottled Red Spider Lily=Пестрая красная паучья лилия
@@ -17463,7 +17464,7 @@ Increase attack by {{A}}%, accuracy by {{B}}, visual range by {{C}} and gain det
 AP +{{A}}, ACC +{{B}}, Evasion +{{C}}, Crit Rate +{{D}}%, Crit Damage +{{E}}%, Range +{{F}} (Max Movement AP Cost for each space is {{G}}).=AP +{{A}}, ACC +{{B}}, Evasion +{{C}}, Crit Rate +{{D}}%, Crit Damage +{{E}}%, Range +{{F}} (Max Movement AP Cost for each space is {{G}}).
 <color\=#7fffdc>Bloodline Awakening</color>=<color\=#7fffdc>Пробуждение кровной линии</color>
 Mendo! The evacuation route has been cleared. Evacuate with us!=Мендо! Маршрут эвакуации расчищен. Эвакуируйтесь с нами!
-No, Sugar's still summoning puppets. These monsters are going to come after you. I'll try to hold them off a little longer.=Нет, Шугар все еще вызывает марионеток. Эти монстры придут за тобой. Я постараюсь задержать их еще немного.
+No, Sugar's still summoning puppets. These monsters are going to come after you. I'll try to hold them off a little longer.=Нет, Сахар все еще вызывает марионеток. Эти монстры придут за тобой. Я постараюсь задержать их еще немного.
 You evacuate with Lige. I'll meet you at the LZ!=Вы эвакуируетесь вместе с Лидж. Встретимся на ЛЗ!
 Alright, I'll make sure Lige's safe. Get out as soon as you can. Don't confront Sugar head on!=Хорошо, я прослежу, чтобы Лидж была в безопасности. Уходите как можно скорее. Не сталкивайтесь с Шугаром лицом к лицу!
 I'll meet you at the extraction point!=Встретимся в точке эвакуации!
@@ -17512,7 +17513,7 @@ Have you forgotten what you've been working for?!=Вы забыли, ради ч
 I can't do it...=Я не могу этого сделать...
 Take Lige and go, Jefuty.=Возьми Лидж и уходи, Джефути.
 I'll help you end this...=Я помогу тебе покончить с этим...
-Go to hell, Sugar!=Иди к черту, Шугар!
+Go to hell, Sugar!=Иди к черту, Сахар!
 Wretch!=Ужас!
 Sister... Hold on, the aircraft is on its way.=Сестра... Подождите, самолет уже в пути.
 But... everyone...=Но... все...
@@ -17639,10 +17640,10 @@ But he doesn't know the whole truth yet. If a common enemy appears, his position
 So I need one more favor.=Так что мне нужна еще одна услуга.
 At this point, what's one more thing?=Что еще нужно?
 I know you're good at hacking. Lige is recovering from her wounds in the basement of the lab building. I need your help to steal the security footage from there.=Я знаю, что ты хорошо разбираешься во взломах. Лидж оправляется от ран в подвале лабораторного корпуса. Мне нужна твоя помощь, чтобы выкрасть оттуда записи с камер наблюдения.
-The Werewolf Commando Team has a vice-captain named Sugar. She has a long mechanical tail. Just try to find a clip of her making contact with Lige.=В команде Werewolf Commando Team есть вице-капитан по имени Шугар. У нее длинный механический хвост. Попробуйте найти ролик, где она вступает в контакт с Лидж.
+The Werewolf Commando Team has a vice-captain named Sugar. She has a long mechanical tail. Just try to find a clip of her making contact with Lige.=В команде Werewolf Commando Team есть вице-капитан по имени Сахар. У нее длинный механический хвост. Попробуйте найти ролик, где она вступает в контакт с Лидж.
 With this footage, I'm sure Beria will cooperate with us.=С этими кадрами, я уверен, Берия будет сотрудничать с нами.
-{{A}} p.m.  Northern Base Warehouse=ЗМЦЗ п.м. Северный базовый склад
-This Sugar that you mentioned... What's wrong with her?=Эта Шугар, о которой вы говорили... Что с ней не так?
+{{A}} p.m.  Northern Base Warehouse={{A}} p.m.  Северный базовый склад
+This Sugar that you mentioned... What's wrong with her?=Эта Сахар, о которой вы говорили... Что с ней не так?
 Mendo, locate the nearest signal tower in the area and go there to assist me. Once you implant this chip, I can intervene remotely. Then you can pull up the footage that Jefuty needs.=Мендо, найди ближайшую сигнальную вышку в этом районе и отправляйся туда, чтобы помочь мне. Как только ты вживишь этот чип, я смогу вмешаться удаленно. Затем ты сможешь достать записи, которые нужны Джефути.
 Data parsing is underway.=Ведется работа по разбору данных.
 It's the fastest way to repair the mitotic specimen. I'm not sure if she'll choose to repair Lige that way, but I'm taking a chance.=Это самый быстрый способ восстановить митотический образец. Я не уверен, что она решит восстановить Лиджа таким образом, но я рискну.
@@ -17692,18 +17693,18 @@ From the moment you agreed to meet us, your balance shifted away from the center
 It's okay. Even after hearing what I have to say, you can say no. But I'm sure you won't.=Ничего страшного. Даже выслушав меня, вы можете отказаться. Но я уверен, что вы этого не сделаете.
 Oh? Well, that piques my interest.=О? Что ж, это меня заинтересовало.
 The whole plan assumes two things.=Весь план предполагает две вещи.
-First, it is necessary to separate Sugar from Lige. Once Sugar controls Lige, Lige will also become part of the Shrike fighting force, which will be difficult to handle given our current ability.=Во-первых, необходимо отделить Шугара от Лиджа. Как только Шугар возьмет под контроль Лиджа, Лидж тоже станет частью боевых сил Шрайка, с которыми будет сложно справиться, учитывая наши нынешние возможности.
+First, it is necessary to separate Sugar from Lige. Once Sugar controls Lige, Lige will also become part of the Shrike fighting force, which will be difficult to handle given our current ability.=Во-первых, необходимо отделить Шугара от Лиджа. Как только Сахар возьмет под контроль Лиджа, Лидж тоже станет частью боевых сил Шрайка, с которыми будет сложно справиться, учитывая наши нынешние возможности.
 Second, Lige is still in a stasis tank, so the best time to take her is right after she's recovered and before her consciousness has been completely consumed by the Shrike. The best time is midnight tonight.=Во-вторых, Лидж все еще находится в стазис-танке, поэтому лучше всего забрать ее сразу после того, как она придет в себя и пока ее сознание не было полностью поглощено Шрайком. Лучшее время - полночь сегодня вечером.
-So, the plan is to find a way to lure Sugar to the contamination zone before the repair is complete and use the surroundings there to trap her.=Итак, план состоит в том, чтобы найти способ заманить Шугар в зону заражения до завершения ремонта и использовать окружающую обстановку, чтобы поймать ее в ловушку.
+So, the plan is to find a way to lure Sugar to the contamination zone before the repair is complete and use the surroundings there to trap her.=Итак, план состоит в том, чтобы найти способ заманить Сахар в зону заражения до завершения ремонта и использовать окружающую обстановку, чтобы поймать ее в ловушку.
 Then we'll set up an ambush near the base and reveal my true location, which will draw Lige and the mitotic specimens to the other side.=Затем мы устроим засаду возле базы и раскроем мое истинное местоположение, что привлечет Лиджа и митотических особей на другую сторону.
 We'll get to Lige before Sugar gets here, put the neural inhibitor on Lige, and get out of here in one piece.=Мы доберемся до Лиджа до прихода Шугара, поставим на Лиджа нейроингибитор и выберемся отсюда целыми и невредимыми.
 Why do we need to trap Sugar in the contamination zone? Because of the ELIDs?=Почему мы должны отлавливать сахар в зоне загрязнения? Из-за ELIDs?
 The ELIDs can be a real problem for Shrikes. Carl can provide you with the tools to attract the ELIDs.=Карл может предоставить вам инструменты для привлечения птиц.
-But more importantly, if Sugar is subjected to strong Collapse radiation, her cells will be rapidly silicify since she's a Shrike. The rate of cell regeneration after silicification will slow greatly, which will weaken her fighting ability.=Но самое главное, если Шугар подвергнется сильному излучению Коллапса, ее клетки быстро засиликонятся, ведь она - Шрайк. Скорость регенерации клеток после засиликонивания сильно замедлится, что ослабит ее боевые способности.
-But more importantly, if Sugar is subjected to strong Collapse radiation, her cells will be rapidly silicify since she's a Shrike. The rate of cell regeneration after silicification will slow greatly, which will weaken her fighting ability.=Но самое главное, если Шугар подвергнется сильному излучению Коллапса, ее клетки быстро засиликонятся, ведь она - Шрайк. Скорость регенерации клеток после засиликонивания сильно замедлится, что ослабит ее боевые способности.
-But how can you be sure that Sugar is going to fall for the ambush?=Но как вы можете быть уверены, что Шугар попадет в засаду?
-Sugar's after me. I need you to help me stage a performance for her to see. I want her to believe that you're on my trail, leaving me no choice but to flee into the quarantine zone to evade pursuit.=Шугар охотится за мной. Мне нужно, чтобы вы помогли мне устроить представление, которое она увидит. Я хочу, чтобы она поверила, что вы идете по моему следу, и мне не оставалось ничего другого, как бежать в карантинную зону, чтобы скрыться от преследования.
-And since Lige is still incapacitated, Sugar will come capture me herself.=А поскольку Лидж все еще не в состоянии, Шугар сама придет меня схватить.
+But more importantly, if Sugar is subjected to strong Collapse radiation, her cells will be rapidly silicify since she's a Shrike. The rate of cell regeneration after silicification will slow greatly, which will weaken her fighting ability.=Но самое главное, если Сахар подвергнется сильному излучению Коллапса, ее клетки быстро засиликонятся, ведь она - Шрайк. Скорость регенерации клеток после засиликонивания сильно замедлится, что ослабит ее боевые способности.
+But more importantly, if Sugar is subjected to strong Collapse radiation, her cells will be rapidly silicify since she's a Shrike. The rate of cell regeneration after silicification will slow greatly, which will weaken her fighting ability.=Но самое главное, если Сахар подвергнется сильному излучению Коллапса, ее клетки быстро засиликонятся, ведь она - Шрайк. Скорость регенерации клеток после засиликонивания сильно замедлится, что ослабит ее боевые способности.
+But how can you be sure that Sugar is going to fall for the ambush?=Но как вы можете быть уверены, что Сахар попадет в засаду?
+Sugar's after me. I need you to help me stage a performance for her to see. I want her to believe that you're on my trail, leaving me no choice but to flee into the quarantine zone to evade pursuit.=Сахар охотится за мной. Мне нужно, чтобы вы помогли мне устроить представление, которое она увидит. Я хочу, чтобы она поверила, что вы идете по моему следу, и мне не оставалось ничего другого, как бежать в карантинную зону, чтобы скрыться от преследования.
+And since Lige is still incapacitated, Sugar will come capture me herself.=А поскольку Лидж все еще не в состоянии, Сахар сама придет меня схватить.
 When my true location is revealed, Sugar's forces will be further dispersed, and you can use the opportunity to personally destroy your sworn enemy with blood bullets.=Когда мое истинное местоположение будет раскрыто, силы Шугара еще больше рассредоточатся, и вы сможете воспользоваться возможностью лично уничтожить своего заклятого врага кровавыми пулями.
 This will allow you to get rid of Sugar without going head-to-head, and it will help me buy time while I try to save Lige.=Это позволит вам избавиться от Шугара, не встречаясь с ним лицом к лицу, а мне поможет выиграть время, пока я буду пытаться спасти Лиджа.
 It's a win-win solution for both of us.=Это беспроигрышное решение для нас обоих.
@@ -17755,7 +17756,7 @@ Beria! Well?=Берия! Ну?
 <color\=#92b1ff>You should... hurry...</color>=<color\=#92b1ff>Вам следует... поторопиться...</color>
 Beria!=Берия!
 Hello?!=Алло?!
-Sugar took the bait. He doesn't have much time.=Шугар проглотил наживку. У него мало времени.
+Sugar took the bait. He doesn't have much time.=Сахар проглотил наживку. У него мало времени.
 Get the blood bullets and hypnotic traps ready!=Приготовьте кровавые пули и гипнотические ловушки!
 Get Lige as soon as possible!=Вызовите Лиджа как можно скорее!
 Midnight Stratagem=Полуночная стратагема
@@ -17779,7 +17780,7 @@ Chapter {{A}}: Midnight Stratagem=Глава {{A}}: Полуночная ст
 December {{A}}th, {{B}} a.m. Moderate Snow\nLake Belo=Декабрь {{A}}th, {{B}} a.m. Умеренное снежное озеро Бело
 The URNC mobilized a lot of patrol teams in the surrounding area to participate in the capture.=URNC мобилизовал множество патрульных групп в окрестностях для участия в захвате.
 We need to be careful and cover our tracks. <color\=#ff6060>Once our presence is known, it'll be very difficult to get away with Lige</color>.=Мы должны быть осторожны и заметать следы. <color\=#ff6060>Как только о нашем присутствии станет известно, Лидж будет очень трудно уйти.</color>.
-Just be discreet. As long as Sugar doesn't appear, everything is under control.=Просто будьте осторожны. Пока Шугар не появляется, все под контролем.
+Just be discreet. As long as Sugar doesn't appear, everything is under control.=Просто будьте осторожны. Пока Сахар не появляется, все под контролем.
 Get ready. I feel the Shrikes approaching.=Приготовьтесь. Я чувствую приближение Шрайков.
 Is your sister among them?=Ваша сестра среди них?
 I temporarily cut off my connection with Lige so as not to reveal our exact coordinates.=Я временно прервал связь с Лидж, чтобы не раскрывать наши точные координаты.
@@ -18110,7 +18111,7 @@ Open {{A}} cell doors=Открыть двери камеры {{A}}
 Defeat Tangieu within {{A}} turns=Победите Тангье за несколько ходов {{A}}
 Defeat Tangieu and his elite squad=Победите Тангье и его элитный отряд
 Open {{A}} cell doors		{{B}}=Открыть двери ячеек {{A}} {{B}}
-Defeat Tangieu within {{A}} turns		Remaining Turns: {{B}}=Победите Тангье в течение {{A}} ходов Оставшиеся ходы: {{B}}
+Defeat Tangieu within {{A}} turns		Remaining Turns: {{B}}=Победите Тангье в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Defeat Tangieu and his elite squad		{{A}}=Победите Тангье и его элитный отряд {{A}}
 I'm a lucky man. I can't believe I got my hands on this on my way out of prison. I'll blow them to pieces!=Я счастливчик. Не могу поверить, что это попало мне в руки по дороге из тюрьмы. Я разнесу их в клочья!
 Chareyev=Чареев
@@ -18306,7 +18307,7 @@ Let's prepare to evacuate!=Давайте готовиться к эвакуац
 <color\=#92b1ff>Fully-immune individual, you're mine~</color>=<color\=#92b1ff>Полностью иммунный человек, ты мой~</color>
 <color\=#92b1ff>Do you think I'd let you escape from the base again?</color>=<color\=#92b1ff>Думаешь, я позволю тебе снова сбежать с базы?</color>
 ...What's going on?!=...Что происходит?!
-Is that... Sugar on the radio?=Это... Шугар по радио?
+Is that... Sugar on the radio?=Это... Сахар по радио?
 There's no sign of her. Has she regenerated?!=Никаких следов. Она регенерировала?!
 We can't wait any longer. Let's get out of here!=Мы не можем больше ждать. Давайте убираться отсюда!
 Stop being so lazy!=Хватит лениться!
@@ -18347,7 +18348,7 @@ Source: Caged Bird=Источник: Птица в клетке
 Red Black Feather=Красное черное перо
 Complete Battle "Caged Bird".=Завершите битву "Птица в клетке".
 On January 6, 2088, a significant mishap occurred during the transport of a hazardous biochemical material, <keyword\=56>"Cp57"</keyword>, from the Mazowiecki Laboratory of the Legionowo Special Military Medical Center. A transportation accident on National Road 63 led to a catastrophic leakage of the material. \nThe special response team, <keyword\=18>"Werewolves"</keyword>, arrived within 3 hours of the incident. By that time, thousands had been contaminated by the material, with tens of thousands more within the danger zone. The "Werewolves" team decided to immediately evacuate and destroy bridges on Expressway S610 and National Road 850, effectively sealing off the affected triangular area to prevent further spread of the contamination. \nThe <keyword\=7>URNC</keyword> European Emergency Response Division deployed a squadron of bomber planes. Within 12 hours of the incident, all buildings within the affected area had been levelled by thermobaric weaponry. \nAt the time of the bombardment, about 20% of the residents in that city zone were in critical condition, while 40% had been contaminated by the material. \nThe Warszawa Incident resulted in the deaths of approximately 18,000 civilians.=6 января 2088 года произошел значительный инцидент при транспортировке опасного биохимического вещества <keyword\=56>"Cp57"</keyword> из Лаборатории Мазовецкого при Легионовском Специальном Военно-Медицинском Центре. Авария на Национальной дороге 63 привела к катастрофической утечке вещества.  \n\nСпециальная команда реагирования <keyword\=18>"Команда коммандос-оборотней"</keyword> прибыла на место происшествия через 3 часа. К тому времени тысячи людей были заражены веществом, а десятки тысяч находились в зоне опасности. "Команда коммандос-оборотней" приняла решение немедленно эвакуировать и уничтожить мосты на Трассе S610 и Национальной дороге 850, эффективно закрыв треугольную зону заражения, чтобы предотвратить дальнейшее распространение загрязнения.  \n\nЕвропейское подразделение экстренного реагирования <keyword\=7>URNC</keyword> направило эскадрилью бомбардировщиков. В течение 12 часов с момента инцидента все здания в пострадавшей зоне были уничтожены термобарическим оружием.  \n\nНа момент бомбардировки около 20% жителей зоны города находились в критическом состоянии, а 40% были заражены веществом.  \n\nИнцидент в Варшаве привел к гибели около 18 000 гражданских лиц.
-　Jefuty fails to convince Crane to cooperate with her. Seeing that the situation is turning unfavorable, Beria triggers an alarm. The team is forced to deal with the base defenders, while Sugar and Lige, who transformed into β Shrike, launch an attack on Jefuty. Although Mendo manages to activate the bombs they set before to defuse the immediate crisis, the group soon finds themselves surrounded by Shrike puppets...=　Джефути не удается убедить Крейна сотрудничать с ней. Видя, что ситуация становится неблагоприятной, Берия поднимает тревогу. Команде приходится разбираться с защитниками базы, а Шугар и Лидж, превратившиеся в β-Шрайка, начинают атаку на Джефути. Хотя Мендо удается активировать бомбы, установленные ранее, чтобы разрядить обстановку, группа вскоре оказывается в окружении марионеток Шрайка...
+　Jefuty fails to convince Crane to cooperate with her. Seeing that the situation is turning unfavorable, Beria triggers an alarm. The team is forced to deal with the base defenders, while Sugar and Lige, who transformed into β Shrike, launch an attack on Jefuty. Although Mendo manages to activate the bombs they set before to defuse the immediate crisis, the group soon finds themselves surrounded by Shrike puppets...=　Джефути не удается убедить Крейна сотрудничать с ней. Видя, что ситуация становится неблагоприятной, Берия поднимает тревогу. Команде приходится разбираться с защитниками базы, а Сахар и Лидж, превратившиеся в β-Шрайка, начинают атаку на Джефути. Хотя Мендо удается активировать бомбы, установленные ранее, чтобы разрядить обстановку, группа вскоре оказывается в окружении марионеток Шрайка...
 　Carl leads the group in a continuous relocation and finally regroups with TASA at an abandoned military factory on the west side of Mount Kushtau. Facing the URNC soldiers stationed in the area, Jefuty and the others follow Beria's suggestion and launch a surprise attack using the facilities within the military factory. The enemy crumbles under the impact of the rail car. After getting a chance to breathe, the group heads towards the final extraction point.=　Карл ведет группу в непрерывном перемещении и в конце концов перегруппировывается с TASA на заброшенном военном заводе на западной стороне горы Куштау. Столкнувшись с солдатами URNC, размещенными в этом районе, Джефути и остальные следуют предложению Берии и проводят внезапную атаку, используя сооружения на территории военного завода. Враг рушится под ударами вагонетки. Получив возможность отдышаться, группа направляется к последней точке эвакуации.
 　With Beria's support, Carl and his team immediately begin preparations for a trap as soon as they confirm that Sugar has been lured to the quarantine zone. They set up an intricate network of traps around Lake Belo. The Shrike mitotic specimens attracted by Jefuty are ensnared in the traps and enter a dormant state, while the controlled body of Lige arrives as expected. In a situation where the effectiveness of the traps is limited, Jefuty is forced to shoot at Lige, restricting her movement and forcefully using the neural inhibitor to help regain her consciousness. Under the protection of the team, Lige gradually recovers from her injuries, and together with everyone else, manages to shake off the URNC's pursuit.=　При поддержке Берии Карл и его команда сразу же начинают подготовку к ловушке, как только они подтверждают, что сахар был заман в карантинную зону. Они создали сложную сеть ловушек вокруг озера Бело. Образцы митотических митотических средств, привлеченные к Джезотике, зафиксированы в ловушках и попадают в бездействие, в то время как контролируемое тело Лидж прибывает, как и ожидалось. В ситуации, когда эффективность ловушек ограничена, Джефутина вынуждена стрелять в Лидж, ограничивая ее движение и насильно используя нейронный ингибитор, чтобы помочь восстановить ее сознание. Под защитой команды Лидж постепенно восстанавливается после травм, и вместе со всеми остальными удается избавиться от преследования Урнка.
 　Beria has no intention of cooperating with the AU, and under Jefuty's pressure, he angrily triggers an alarm. The URNC defenders swarm into the base. Carl leads everyone in a breakout, and attempts to collaborate with escaping prisoners to divert the URNC's attention. Just as the opportunity to escape finally appears, Oleg, along with the Werewolf Commando Team, joins the battle. The situation takes a drastic turn, and Mendo and the others mount a desperate struggle amid the overwhelming siege of the URNC troops...=　Берия не намерен сотрудничать с АС, и под давлением Джефути он в ярости поднимает тревогу. Защитники URNC врываются на базу. Карл ведет всех на прорыв и пытается сотрудничать с бежавшими заключенными, чтобы отвлечь внимание URNC. Как только возможность сбежать наконец появляется, Олег вместе с командой "Оборотней" вступает в бой. Ситуация принимает крутой оборот, и Мендо и остальные начинают отчаянную борьбу в условиях непреодолимой осады со стороны войск URNC...
@@ -18474,7 +18475,7 @@ Severed Cable=Оборванный кабель
 A big black cable with a very smooth cut. When people don't know what to do with a machine, cutting off power is always the best solution.=Большой черный кабель с очень ровным срезом. Когда люди не знают, что делать с машиной, отключение питания - всегда лучшее решение.
 AA-{{A}}-B{{B}}W Automech=AA-{{A}}-B{{B}}W Автомех
 Severed Cable=Оборванный кабель
-Jefuty does not reach the Elevator Shaft within {{A}} turns		Remaining Turns: {{B}}=Джефути не достигает шахты лифта в течение {{A}} ходов Оставшиеся ходы: {{B}}
+Jefuty does not reach the Elevator Shaft within {{A}} turns		Remaining Turns: {{B}}=Джефути не достигает шахты лифта в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Mecha Comic=Меха-комикс
 Annotated version of "Metal Suit". The pages of the book are filled with various notes, reflections, diaries, complaints, and even mech designs—everything abruptly stops after a certain page.=Аннотированная версия "Металлического костюма". Страницы книги заполнены различными заметками, размышлениями, дневниками, жалобами и даже проектами мехов - все резко прекращается после определенной страницы.
 Mecha Comic=Меха-комикс
@@ -18657,8 +18658,8 @@ Consume all current AP (cannot exceed 100% of Max AP) and fire a powerful shot a
 The first time an enemy unit is defeated each turn, increase normal attack damage by 10% and <color\=#ff8d48>accuracy by 10</color> for 1 turn.=В первый раз, когда вражеский юнит повержен каждый ход, увеличьте урон обычной атаки на 10% и <color\=#ff8d48>Точность 10</color> на 1 ход.
 Consume <color\=#fffd90>50 Parts</color> and <color\=#ff8d48>1 Radar Antenna</color> to synthesize <color\=#ff8d48>1 of Scanner</color>?=Израсходовать <color\=#fffd90>Запчасти 50</color> и <color\=#ff8d48>Антенна для радара 1</color> синтезировать <color\=#ff8d48>1 сканера</color>?
 Chosen One=Избранный
-{{A}} p.m.  outside the safe house at Point β=В {{A}} часов вечера возле конспиративной квартиры в точке β
-{{A}} p.m.  inside the safe house at Point β=В {{A}} часов вечера на конспиративной квартире в точке β
+{{A}} p.m.  outside the safe house at Point β={{A}} p.m.  возле конспиративной квартиры в точке β
+{{A}} p.m.  inside the safe house at Point β={{A}} p.m  в конспиративной квартире в точке β
 Are you really going to infiltrate the base alone?=Ты действительно собираешься проникнуть на базу в одиночку?
 I swear to you that this material shuttle will never fall into the URNC's hands.=Я клянусь тебе, что этот транспортер материалов никогда не попадет в руки URNC.
 You can come with me to the backup safe house first. We'll get moving after we contact Jevon.=Сначала ты можешь пойти со мной на запасную конспиративную квартиру. Мы начнем действовать после того, как свяжемся с Джевоном.
@@ -18918,7 +18919,7 @@ Reduce <color\=#ff7373>attack by 50% and accuracy by 15</color> to human and Shr
 Deal <color\=#ff7373>64 damage</color> to enemies within the area of effect and inflict <color\=#d09dff>"Scorched"</color> to the target for 1 turn.=Наносит <color\=#ff7373>64 урон</color> врагов в области эффекта и нанесения <color\=#d09dff>"Снижен"</color> цели на 1 ход.
 Consume <color\=#fffd90>100 Parts</color> and <color\=#ff8d48>2 Simple Turret</color>、<color\=#ff8d48>1 Dual-Barrel Modification Components</color> to synthesize <color\=#ff8d48>1 of Standard Turret</color>?=Израсходовать <color\=#fffd90>100 детали</color> и <color\=#ff8d48>2 Простая турель</color>、<color\=#ff8d48>Компоненты модификации 1 с двумя стволами</color> синтезировать <color\=#ff8d48>1 стандартной турели</color>?
 Full Package=Полный пакет
-{{A}} a.m.  near the Inner Caucasus theater base={{A}} в районе базы Внутреннего Кавказского театра
+{{A}} a.m.  near the Inner Caucasus theater base={{A}}  в районе базы Внутреннего Кавказского театра
 New outfit Carl unlocked=Разблокирована новая экипировка для Карла
 Capture all the supplies in the area in "Camouflage".=Захватите все припасы в зоне "Камуфляж".
 Full Package=Полный пакет
@@ -19008,8 +19009,8 @@ I... I... I...=Я... Я... Я...
 Forget it.=Забудь об этом.
 Lime Cordial=Лаймовый коктейль
 Oh? This seems to be a limited edition imported beverage. I'll put it away for now and enjoy it with everyone once the mission is completed.=Похоже, это лимитированный импортный напиток. Я пока отложу его и буду наслаждаться вместе со всеми, когда миссия будет выполнена.
-{{A}} a.m.  outskirts of the Inner Caucasus theater base={{A}} a.m. Окраины военной базы театра военных действий во Внутреннем Кавказе.
-{{A}} a.m.  Krasnoyarsk Mountains={{A}} a.m. Красноярские горы
+{{A}} a.m.  outskirts of the Inner Caucasus theater base={{A}} a.m.  Окраины военной базы театра военных действий во Внутреннем Кавказе.
+{{A}} a.m.  Krasnoyarsk Mountains={{A}} a.m.  Красноярские горы
 <color\=#b26322>3~3</color>=<color\=#b26322>3~3</color>
 <color\=#b26322>1~6</color>=<color\=#b26322>1~6</color>
 <color\=#ff7272>-60%</color>=<color\=#ff7272>-60%</color>
@@ -19074,7 +19075,7 @@ Nature Lover=Любитель природы
 The device in this room looks very similar to the mechanism Jevon mentioned before!=Устройство в этой комнате очень похоже на механизм, о котором упоминал Джевон!
 ...It seems like it can't be activated... Did I remember it incorrectly?=...Кажется, его нельзя активировать... Я неправильно запомнил?
 Вердикт\r\n\r\n　　Провалы в разведывательной деятельности MID и влияние отдельных политических целей привели к поспешным военным решениям, в результате чего команда TASA {{A}} выполнила «Операцию Пекарня» без достаточной разведывательной информации, с ограниченной поддержкой и без чёткого понимания цели миссии.  \r\n\r\n　　Центральная цель операции, VIP под кодовым именем «Пекарня», вовсе не существовала; по сути, это была уловка, созданная URNC, чтобы ввести в заблуждение нашу разведку. В результате спецподразделение TASA оказалось на поле боя, подготовленном противником, выполняя действия, которых от него ожидали, и цели операции были полностью известны врагу. Будучи вынуждены действовать в столь невыгодных условиях, силы TASA понесли серьёзные потери. Необходимо тщательно проанализировать причины столь позорного провала.  \r\n\r\n　　Я считаю, что MID должен изменить свою ошибочную политику, допускающую влияние политических целей на сбор разведывательной информации и формирование задач для профессиональных военных операций, а также понести ответственность за этот провал.  \r\n\r\nГенерал-майор Вооружённых сил Антарктического Союза,\r\n\r\nНачальник штаба Оперативного командования TASA\r\nКэмпф\r\n\r\n\r\n\r\n=Вердикт\r\n\r\n　　Провалы в разведывательной деятельности MID и влияние отдельных политических целей привели к поспешным военным решениям, в результате чего команда TASA {{A}} выполнила «Операцию Пекарня» без достаточной разведывательной информации, с ограниченной поддержкой и без чёткого понимания цели миссии.  \r\n\r\n　　Центральная цель операции, VIP под кодовым именем «Пекарня», вовсе не существовала; по сути, это была уловка, созданная URNC, чтобы ввести в заблуждение нашу разведку. В результате спецподразделение TASA оказалось на поле боя, подготовленном противником, выполняя действия, которых от него ожидали, и цели операции были полностью известны врагу. Будучи вынуждены действовать в столь невыгодных условиях, силы TASA понесли серьёзные потери. Необходимо тщательно проанализировать причины столь позорного провала.  \r\n\r\n　　Я считаю, что MID должен изменить свою ошибочную политику, допускающую влияние политических целей на сбор разведывательной информации и формирование задач для профессиональных военных операций, а также понести ответственность за этот провал.  \r\n\r\nГенерал-майор Вооружённых сил Антарктического Союза,\r\n\r\nНачальник штаба Оперативного командования TASA\r\nКэмпф\r\n\r\n\r\n\r\n
-{{A}} p.m.  safe house at Point β={{A}} p.m. конспиративная квартира в Point β
+{{A}} p.m.  safe house at Point β={{A}} p.m.  конспиративная квартира в Point β
 Medkitx{{A}}=Medkitx{{A}}
 Consume <color\=#fffd90>800 Parts</color> and <color\=#ff8d48>16 Medicine</color> to synthesize <color\=#ff8d48>16 of Soporific Dart</color>?=Израсходовать <color\=#fffd90>Запчасти 800</color> и <color\=#ff8d48>16 Medicine</color> синтезировать <color\=#ff8d48>16 из Сопорификационного дротика</color>?
 Backpack <color\=#56B8C0>4/</color>4 Storage50=Рюкзак <color\=#56B8C0>4/</color>4 storage50
