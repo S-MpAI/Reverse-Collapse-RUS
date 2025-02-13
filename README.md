@@ -1,6 +1,16 @@
 # Reverse-Collapse-RUS
 ![Alt](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg "Repobeats analytics image")
 ---
+# Версия v.2.8.0
+
+> [НЕТ СООБЩЕНИЯ]
+
+## Что изменилось:
+
+- Переведен 8 Акт 2 Главы;
+- Переведен перерыв 9 Акта 2 Главы;
+
+---
 # Версия v.2.7.0
 
 > [НЕТ СООБЩЕНИЯ]
