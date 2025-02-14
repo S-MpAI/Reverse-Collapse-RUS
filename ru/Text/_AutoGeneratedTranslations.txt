@@ -6912,8 +6912,8 @@ Vegetable=Овощной
 Vegetables (0/15)=Овощи (0/15)
 Vehicle=Транспортное средство
 Venomous Crystal=Ядовитый кристалл
-Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.2.8.0
-Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.2.8.0</size>
+Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.2.9.0
+Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.2.9.0</size>
 Very Fast=<size\=19>Очень быстро</size>
 Very High=Очень высоко
 Very Low=Очень низко
