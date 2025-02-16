@@ -6912,8 +6912,8 @@ Vegetable=Овощной
 Vegetables (0/15)=Овощи (0/15)
 Vehicle=Транспортное средство
 Venomous Crystal=Ядовитый кристалл
-Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.2.9.0-alpha
-Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.2.9.0-alpha</size>
+Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.2.9.0-betta
+Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.2.9.0-betta</size>
 Very Fast=<size\=19>Очень быстро</size>
 Very High=Очень высоко
 Very Low=Очень низко
@@ -11424,8 +11424,8 @@ Upon taking lethal damage, does not enter "Critical Condition", but instead reco
 Upon taking lethal damage, does not enter <color\=#d7abff>"Critical Condition"</color>, but instead recovers to full HP, gains 40 evasion, and reduces all damage taken by 50% for 1 turn (can only trigger once per battle).=При получении смертельного урона не переходит в <color\=#d7abff> "Критическое состояние"</color>, но вместо этого восстанавливается до полного HP, приобретает уклонение от 40 и уменьшает все ущерб, нанесенные 50% для поворота 1 (может вызвать только один раз на битву).
 Consume <color\=#ADB7FF>20</color> <color\=#ADB7FF>Potential Keys</color> to enhance <color\=#ff9600>Extreme Distance</color> to level <color\=#ff9600>2</color>?=Израсходовать <color\=#ADB7FF>20</color> <color\=#ADB7FF>Потенциальные ключи</color> Чтобы улучшить <color\=#ff9600>Экстремальное расстояние</color> до уровня <color\=#ff9600>2</color>?
 Extreme Distance Enhanced to level {{A}}!=Экстремальное расстояние улучшено до {{A}}-го уровня!
-Increase item effective range by 1, increase the visual range of self-deployed detector-type items by 2 and <color\=#ff8d48>reduce the AP cost of self-deployed items by 1.</color>=Increase item effective range by 1, increase the visual range of self-deployed detector-type items by 2 and <color\=#ff8d48>reduce the AP cost of self-deployed items by 1.</color>==Увеличть визуальный радиус применения предматов на 1, увеличить визуальный радиус саморазвёртываемых детекторных предметов на 2 и <color\=#ff8d48>reduce the AP cost of self-deployed items by 1.</color>=<color\=#ff8d48>уменьшить стоимость AP на использование предметов на себя на 1.</color>
-Increase item effective range by {{A}} and increase the visual range of self-deployed detector-type items by {{B}}.=Увеличьте эффективный диапазон элемента по {{A}} и увеличить визуальный диапазон самоуверенных элементов типа детектора с помощью {{B}}.
+Increase item effective range by 1, increase the visual range of self-deployed detector-type items by 2 and <color\=#ff8d48>reduce the AP cost of self-deployed items by 1.</color>=Increase item effective range by 1, increase the visual range of self-deployed detector-type items by 2 and <color\=#ff8d48>reduce the AP cost of self-deployed items by 1.</color>=Увеличивает эффективную дальность предметов на 1, увеличивает дальность обзора самостоятельно размещаемых предметов-детекторов на 2 и <color\=#ff8d48>уменьшает стоимость AP для самостоятельно размещаемых предметов на 1.</color>
+Increase item effective range by {{A}} and increase the visual range of self-deployed detector-type items by {{B}}.=Увеличивает эффективную дальность предметов на {{A}} и дальность обзора самостоятельно размещаемых предметов-детекторов на {{B}}.
 <color\=#ff9600>Total Consumption</color>=<color\=#ff9600>Общее потребление</color>
 FANG Suppressor=Клык подавитель
 <color\=#89f0ff>Increase damage by 30%</color> when making normal attacks against enemy units along a straight line.=<color\=#89f0ff>Увеличить ущерб 30%</color> При совершении нормальных атак против вражеских подразделений вдоль прямой.
@@ -19085,26 +19085,26 @@ Dinner Suit=Вечерний костюм
 Evening Jacket=Вечерний пиджак
 Mirror Self=Зеркальное «Я»
 A lovely dress made from Shrike cells mimicking fabric. It is as wicked and wanton as a Shrike itself.=Прекрасное платье, созданное из клеток Шрайка, имитирующих ткань. Оно так же коварно и порочно, как сам Шрайк.
-Chapter {{A}}: Mirror Infiltration=Глава {{A}}: Зеркальная инфильтрация
-Reload saved game to start a new playthrough?=Перезагрузить сохраненную игру, чтобы начать новое прохождение?
-Reload Game=Игра "Перезагрузка
-Chapter {{A}}, Act {{B}}: The Grateful Dead=Глава {{A}}, акт {{B}}: The Grateful Dead
+Chapter {{A}}: Mirror Infiltration=Глава {{A}}: Зеркальное проникновение
+Reload saved game to start a new playthrough?=Перезагрузить сохранённую игру, чтобы начать новое прохождение?
+Reload Game=Перезагрузить игру
+Chapter {{A}}, Act {{B}}: The Grateful Dead=Глава {{A}}, акт {{B}}: Благодарные мертвецы
 Enable Advanced Challenge Mode?=Включить расширенный режим вызова?
-In <color\=#ff8d48>Casual²</color> mode, gameplay difficulty remains the same. \nGain additional healing items "Pill" every mission.\nIn battles, allied units will be healed 50% of their Max HP at the start of each turn. \n (excluding certain special missions)=В <color\=#ff8d48>История²</color> В режиме "Casual²" сложность игры остается прежней. Получайте дополнительные лечебные предметы "Таблетки" в каждой миссии. В сражениях союзники получают 50% от их максимального HP в начале каждого хода (за исключением некоторых специальных миссий).
-Enable Casual² Mode?=Включить режим Casual²?
+In <color\=#ff8d48>Casual²</color> mode, gameplay difficulty remains the same. \nGain additional healing items "Pill" every mission.\nIn battles, allied units will be healed 50% of their Max HP at the start of each turn. \n (excluding certain special missions)=В режиме <color\=#ff8d48>История²</color> сложность игры остаётся неизменной. \nПолучайте дополнительные лечебные предметы «Таблетка» в каждой миссии. \nВ боях союзные юниты восстанавливают 50% от своего максимального запаса HP в начале каждого хода.\n(за исключением некоторых специальных миссий)
+Enable Casual² Mode?=Включить режим История²?
 Achieve S ratings in all battles.=Добейтесь рейтинга S во всех сражениях.
 Master Strategist=Мастер-стратег
 Staff Officer=Штатный сотрудник
 Clearance=Очистка
 Achieve victory by defeating at least {{A}} enemy units in "Deep in the Tiger's Den".=Добейтесь победы, разгромив не менее {{A}} вражеских подразделений в игре "Deep in the Tiger's Den".
 SOS=SOS
-Achieve victory with Lijuo surviving in "The Grateful Dead".=Добейтесь победы, оставив в живых Лижуо в игре "The Grateful Dead".
+Achieve victory with Lijuo surviving in "The Grateful Dead".=Добейтесь победы, оставив Лидж в живых в "Благодарные мертвецы".
 Empty Shell=Пустая оболочка
-In "Die Another Day", all allied units are not attacked by the Shrike Evolution.=В фильме "Die Another Day" все союзники не подвергаются атаке со стороны Эволюции Шрайка.
+In "Die Another Day", all allied units are not attacked by the Shrike Evolution.=В "Умри, но не сегодня" все союзные юниты не подвергаются атаке со стороны Эволюции Шрайка.
 Selfless Act=Самоотверженный поступок
 Have Mendo enter the critical condition after using the "Emergency Transfusion" skill.=Пусть Мендо войдет в критическое состояние после использования навыка "Экстренное переливание крови".
 How Rude=Как грубо
-Have {{A}} enemy units pass by Carl while he is in the "Camouflage" status.=Пусть вражеские отряды {{A}} пройдут мимо Карла, пока он находится в состоянии "Камуфляж".
+Have {{A}} enemy units pass by Carl while he is in the "Camouflage" status.=Пусть {{A}} вражеских юнитов пройдут мимо Карла, пока он находится в статусе «Камуфляж».
 Exquisite Cufflink=Изысканная запонка
 A delicate cufflink found next to the bouquet, seemed to be a commemoration of someone. After wiping away the dust on the nearby tombstone, there wasn't even a name on it.=Изящная запонка, найденная рядом с букетом, кажется, была чьим-то воспоминанием. Смахнув пыль с соседнего надгробия, он обнаружил, что на нем нет даже имени.
 Backup Battery=Резервная батарея
@@ -19119,18 +19119,18 @@ A limited edition Luffberry Chess, obtainable only through a special event at th
 Source: Master Strategist=Источник: Мастер-стратег
 A sand box miniature used by the URNC headquarters to simulate wars. The hexagonal token design makes the strategic simulation closer to the real battlefield. The exquisite shape makes people fall in love with it, so...=Миниатюрная песочница, используемая штабом УРНК для моделирования войн. Гексагональный дизайн жетонов делает стратегическую симуляцию более близкой к реальному полю боя. Изысканная форма заставляет людей влюбляться в нее, поэтому...
 Sand Box Miniature=Миниатюрный ящик для песка
-Chapter {{A}}, Act {{B}}: Suburban Defense=Глава {{A}}, акт {{B}}: Оборона пригородов
-Chapter {{A}}, Act {{B}}: Die Another Day=Глава {{A}}, акт {{B}}: Умереть в другой день
+Chapter {{A}}, Act {{B}}: Suburban Defense=Глава {{A}}, акт {{B}}: Оборона пригорода
+Chapter {{A}}, Act {{B}}: Die Another Day=Глава {{A}}, акт {{B}}: Умри, но не сегодня
 Suburbs Defense=Оборона пригородов
-The Grateful Dead=The Grateful Dead
-Wish Fulfilled=Исполненное желание
-Die Another Day=Другой день
+The Grateful Dead=Благодарные мертвецы
+Wish Fulfilled=Желание исполнено
+Die Another Day=Умри, но не сегодня
 Mineral Water City Old Airport=Город Минеральные Воды Старый аэропорт
-Die Another Day=Другой день
-　　The Shrikes and URNC reinforcements have already occupied the abandoned airport. The Progenitor will try to prevent Jefuty and the others from evacuating at any cost. The last moments of the evacuation are approaching. Do everything in our power to defeat the Shrike in order to evacuate safely!=　　Шрайки и подкрепление УРНК уже заняли заброшенный аэропорт. Прародитель попытается любой ценой помешать Джефути и остальным эвакуироваться. Приближаются последние минуты эвакуации. Сделайте все возможное, чтобы победить Шрайков и благополучно эвакуироваться!
+Die Another Day=Умри, но не сегодня
+　　The Shrikes and URNC reinforcements have already occupied the abandoned airport. The Progenitor will try to prevent Jefuty and the others from evacuating at any cost. The last moments of the evacuation are approaching. Do everything in our power to defeat the Shrike in order to evacuate safely!=　　Шрайки и подкрепления URNC уже заняли заброшенный аэропорт. Прототип постарается любыми способами помешать Джефути и остальным эвакуироваться. Последние моменты эвакуации приближаются. Сделайте всё, что в наших силах, чтобы победить Шрайка и обеспечить безопасную эвакуацию!
 Montonovka Town=Город Монтоновка
-Wish Fulfilled=Исполненное желание
-　　For the plan to be successful, we must fight the URNC until the last possible moment!=　　Чтобы план был успешным, мы должны бороться с URNC до последнего момента!
+Wish Fulfilled=Желание исполнено
+　　For the plan to be successful, we must fight the URNC until the last possible moment!=　　Чтобы план был успешным, мы должны сражаться с URNC до последнего возможного момента!
 Max Points:{{A}}=Максимальные очки:{{A}}
 Abrasion=Абразия
 SS-{{A}} Suppressor Choke Kit=Комплект чоков для подавителя SS-{{A}}
@@ -19153,7 +19153,7 @@ Increase attack by 30%, accuracy by 30, range by 1 and <color\=#ff8d48>armor by 
 Gain {{A}} stacks of Defensive Shot. \nDefensive Shot: During the enemy's turn, perform a normal attack on any enemy units that take an action within range.=Получить {{A}} Stacks оборонительного выстрела. Защитный выстрел: во время очереди врага выполняйте нормальную атаку на любые вражеские подразделения, которые предпринимают действие в пределах диапазона.
 Deselect=Отменить выбор
 After Gene Recombination, <color\=#ff8d48>Mendo</color> currently selected skills and attributes will change to <color\=#ff8d48>Level 1</color>, <color\=#ff6464>G Nucleobases</color> Ultimate Skills will <color\=#ff8d48>run out</color>, and the corresponding <color\=#ff8d48>70</color><color\=#adb7ff> Potential Keys</color> will be refunded. Use <color\=#ff8d48>1 Potential Keys</color> to perform this operation?=После рекомбинации генов, <color\=#ff8d48>Мендо</color> В настоящее время выбранные навыки и атрибуты будут изменены на <color\=#ff8d48>Уровень 1</color>, <color\=#ff6464>G Нуклеобазы</color> Ultimate Skills <color\=#ff8d48>закончится</color>и соответствующие <color\=#ff8d48>70</color><color\=#adb7ff> потенциальных ключей</color> будут возвращены. Используйте <color\=#ff8d48>1 Потенциальные ключи</color> для выполнения этой операции?
-Skill Bar Full!=Скилл Бар Полный!
+Skill Bar Full!=Шкала навыков заполнена!
 Mendo Genes have been successfully reset!=Гены Мендо были успешно сброшены!
 Unyielding Spirit Enhanced to level {{A}}!=Непреодолимый дух улучшен до уровня {{A}}!
 Damage taken within this turn is steadily reduced. The <color\=#89f0ff>initial reduction is 15%</color>, every successive instance of damage taken improves the damage reduction by 15% <color\=#89f0ff>(maximum of 60%)</color> and gives 1 current AP (can trigger up to 3 times).=Ущерб, нанесенный в рамках этого хода, неуклонно уменьшается. А <color\=#89f0ff>Первоначальное снижение - 15%</color>каждый последующий полученный урон уменьшает его на 15% <color\=#89f0ff>(максимум 60%)</color> и дает 1 текущих AP (может сработать до 3 раз).
@@ -19240,7 +19240,7 @@ When an enemy unit passes through the trigger area, deal 130 damage to the trigg
 Oil Tanker=Масляный танкер
 An abandoned oil tanker with a lot of gasoline inside. If destroyed, it inflicts substantial damage to surrounding enemy units.\n=Заброшенный нефтяной танкер с большим количеством бензина внутри. В случае уничтожения это наносит существенный ущерб окружающим вражеским подразделениям.\n
 Highway North of Lake Kvarka=Шоссе к северу от озера Кварка
-The Grateful Dead=Благодарные мертвые
+The Grateful Dead=Благодарные мертвецы
 　　With the assistance from the AU, Beria and Kirill finally have the opportunity to lead their men in a decisive battle against the Shrikes. The current location is the best position for an ambush! Nearby URNC troops in the vicinity will also join the battlefield. Carefully observe the characteristics of the enemy squads and send support teams to ambush them from the forest.=　　С помощью AU, Бериа и Кирилла, наконец, есть возможность возглавить своих людей в решающую битву против Шрики. Текущее местоположение является лучшей позицией для засады! Близлежащие войска URNC поблизости присоединятся к поле битвы. Тщательно соблюдайте характеристики вражеских отрядов и отправьте группы поддержки, чтобы засадить их из леса.
 Consume all current AP (cannot exceed {{A}}% of Max AP) and fire a powerful shot at the designated enemy unit. Each AP expended deals damage equal to {{B}}% of own attack and removes all buffs from the target.=Потребляйте все текущие AP (не может превышать {{A}}% от max ap) и выстрелить мощным выстрелом в назначенное вражеское подразделение. Каждый AP, потраченный на ущерб, ущерб, равный {{B}}% собственной атаки, и удаляет все баффы из цели.
 Deals damage that ignores armor equal to {{A}}% of own attack to the targeted enemy mechanical unit. Defeating a mechanical unit with Critical Armor Break will causes an explosion that deals damage equal to {{B}}% of the target's armor to enemy units within {{C}} tiles.=Наносит ущерб, который игнорирует броню, равную {{A}}% собственной атаки целевой вражеской механической единицы. Победить механическую единицу с критическим разрывом брони приведет к взрыву, который наносит ущерб, равный {{B}}% от брони цели вражеским подразделениям в пределах плиток {{C}}.
@@ -19260,7 +19260,7 @@ Sir! We've found the target!=Сэр! Мы нашли цель!
 The intel is reliable! The target is nearby!=Информация надежная! Цель рядом!
 Just one person?=Только один человек?
 It looks like it.=Похоже на это.
-Heh, it seems that the tactics we used just now worked; we scattered the target and the AU bastards!=Хех, кажется, что тактика, которую мы использовали только что, сработала; Мы разделили цель и ублюдков AU!
+Heh, it seems that the tactics we used just now worked; we scattered the target and the AU bastards!=Хех, похоже, что тактика, которую мы использовали, сработала; мы разогнали цель и этих ублюдков из AU!
 If we get her as soon as possible, we'll earn first-rate merits!=Если мы получим ее как можно скорее, мы заработаем награды!
 What wonderful timing!=Какое замечательное время!
 It's almost time. Let's start the final battle!=Почти пришло время. Давайте начнем финальную битву!
@@ -19268,16 +19268,16 @@ Survive as long as possible=Выжить как можно дольше
 Survive as long as possible=Выжить как можно дольше
 DF-{{A}} Gyroplane=DF-{{A}} Gyroplane
 Lerman=Лерман
-Advanced Training - Action=Усовершенствованное обучение-действие
+Advanced Training - Action=Продвинутое обучение — Действие
 Increase Max AP by {{A}}=Увеличьте MAX AP на {{A}}
-Call for Air Strike=Призовите воздушный удар
-Deal {{A}} damage to enemy units in the area at the end of the turn.=Сдеть у повреждения вражеских подразделений в этом районе в конце поворота.
+Call for Air Strike=Вызвать воздушный удар
+Deal {{A}} damage to enemy units in the area at the end of the turn.=Наносит {{A}} урона вражеским юнитам в области в конце хода.
 Select Traits=Выберите черты
 Dowie=Доуи
 After evading an attack, increase evasion by {{A}} (up to {{B}} evasion).=После уклонения атаки увеличить уклонение от {{A}} (до уклонения от {{B}}).
-Evasion Training=Уклонение от уклонения
+Evasion Training=Тренировка уклонения
 Gain <color\=#d7abff>"Dodge"</color> once at the start of the allied turn. \n<color\=#d7abff>Dodge</color>: Guaranteed to evade the next normal attack, regardless of the opponent's accuracy.=Прирост <color\=#d7abff>"Уклоняться"</color> Оказавшись в начале союзного поворота. \n<color\=#d7abff>Уклоняться</color>: Гарантированно уклониться от следующей обычной атаки, независимо от точности противника.
-Danger Awareness=Опасность осведомленности
+Danger Awareness=Осведомлённость об опасности
 Search [X]=Поиск [x]
 Deal {{A}} damage to enemy units within the area of effect at the end of the turn and inflict "Scorched" to the targets for {{B}} turn.=Нанести ущерб {{A}} вражеским подразделениям в области эффекта в конце поворота и нанесите «выжженные» цели для поворота {{B}}.
 Call for Firebombing=Призовите пожарную бомбардировку
@@ -19286,32 +19286,32 @@ Drive [Z]=Драйв [z]
 Pina=Пина
 Call for Firebombing=Призовите пожарную бомбардировку
 My dearest daughter, give up.=Моя дорогая дочь, сдавайся.
-Chapter {{A}} - Final Act: Wish Fulfilled=ГЛАВА {{A}} - Окончательный акт: желание выполнить
+Chapter {{A}} - Final Act: Wish Fulfilled=ГЛАВА {{A}} - Окончательный акт: Желание исполнено
 Difficulty: Challenge Points X{{A}}=Сложность: задание очки X{{A}}
 Back to Preparation=Вернемся к подготовке
 Points=Точки
-Complete Side Mission=Полная боковая миссия
-Turns Survived=Повороты выжили
-Items Left=Предметы остались
-Bosses Defeated=Боссы победили
-Elite Units Defeated=Элитные подразделения побеждены
-Normal Units Defeated=Нормальные единицы побеждены
+Complete Side Mission=Завершить побочную миссию
+Turns Survived=Количество выживших ходов
+Items Left=Оставшиеся предметы
+Bosses Defeated=Поверженные боссы
+Elite Units Defeated=Побежденные Элитные подразделения
+Normal Units Defeated=Побежденные Нормальные подразделения
 Chapter {{A}} - Final Stage=Глава {{A}}-Финальный этап
-Missions Completed=Миссии завершены
-Switch Confirmation=Переключение подтверждения
+Missions Completed=Миссий завершено
+Switch Confirmation=Подтверждение переключения
 After switching to Casual² mode, the difficulty cannot be changed. Continue?=После перехода в режим повседневного О² сложность не может быть изменена. Продолжать?
-<color\=#ff8d48>Wish Fulfilled</color> is a challenge battle. In this battle, Jefuty needs to survive as long as possible against endless enemy reinforcements. \n\nJefuty will enter the Preparation Phase of this battle with <color\=#ff8d48>default character configuration</color>.<color\=#ff8d48>Skills</color> and <color\=#ff8d48>weapon accessories</color> can be adjusted during the Preparation Phase. \nAfter Jefuty is defeated, <color\=#ff8d48>points</color> will be awarded based on performance. Keep challenging and try to get higher points.=<color\=#ff8d48>Исполненное желание</color> это вызов битва. В этой битве Джефути должна выжить как можно дольше против бесконечного подкрепления врага.\n\nДжефута войдет на этап подготовки к этой битве с <color\=#ff8d48>Конфигурация символа по умолчанию</color>.<color\=#ff8d48>Навыки</color> и <color\=#ff8d48>Оружие аксессуары</color> может быть скорректирован на этапе подготовки. После победы над Джефути <color\=#ff8d48>точки</color> будет присужден на основе производительности. Продолжайте сложные и старайтесь получить более высокие очки.
+<color\=#ff8d48>Wish Fulfilled</color> is a challenge battle. In this battle, Jefuty needs to survive as long as possible against endless enemy reinforcements. \n\nJefuty will enter the Preparation Phase of this battle with <color\=#ff8d48>default character configuration</color>.<color\=#ff8d48>Skills</color> and <color\=#ff8d48>weapon accessories</color> can be adjusted during the Preparation Phase. \nAfter Jefuty is defeated, <color\=#ff8d48>points</color> will be awarded based on performance. Keep challenging and try to get higher points.=<color\=#ff8d48>Желание исполнено</color> — это испытательный бой. В этом сражении Джефути должна продержаться как можно дольше против бесконечных подкреплений врага.  \n\nДжефути начнёт фазу подготовки к бою с <color\=#ff8d48>конфигурацией персонажа по умолчанию</color>.  \nВо время фазы подготовки можно настроить <color\=#ff8d48>навыки</color> и <color\=#ff8d48>аксессуары оружия</color>.  \n\nПосле поражения Джефути будут начислены <color\=#ff8d48>очки</color> в зависимости от результатов боя. Продолжайте испытания и стремитесь набрать как можно больше очков!
 Gain {{A}} attack and {{B}} accuracy after defeating an enemy unit with a normal attack. (up to a gain of {{C}} attack and {{D}} accuracy).=Получить атаку {{A}} и точность {{B}} после победы над вражеским подразделением с нормальной атакой. (До усиления атаки {{C}} и точности {{D}}).
 Target Training=Целевое обучение
 The first time using an item each turn costs {{A}} less AP. (min {{B}} AP)=В первый раз, используя элемент, каждый ход стоит {{A}} меньше AP. (min {{B}} ap)
 Target Training=Целевое обучение
 When performing a normal attack against an adjacent enemy unit, increase attack by {{A}}% and accuracy to {{B}}%.=При выполнении нормальной атаки против соседнего вражеского подразделения увеличивайте атаку {{A}}% и точность до {{B}}%.
 At the end of the allied turn, place {{A}} tracking mine on the nearest empty tile within {{B}} tiles.=В конце хода союзников поместите шахту {{A}} на ближайшую пустую плитку в плитках {{B}}.
-Landmine Specialist=Специалист по земле
-Obtain {{A}} fragmentation grenades at the start of the turn.=Получить гранаты фрагментации {{A}} в начале хода.
-Homemade Grenade=Домашняя граната
+Landmine Specialist=Специалист по минам
+Obtain {{A}} fragmentation grenades at the start of the turn.=Получите {{A}} осколочных гранат в начале хода.
+Homemade Grenade=Самодельная граната
 Increase attack by {{A}}% and accuracy by {{B}} to turrets within {{C}} tiles.=Увеличьте атаку {{A}}% и точность {{B}} на турели в плитках {{C}}.
-Landmine Specialist=Специалист по земле
+Landmine Specialist=Специалист по минам
 Logistician=Логистик
 Kelic=Келик
 Increase accuracy by {{A}}=Повысить точность с помощью {{A}}
@@ -19319,7 +19319,7 @@ Basic Training - Accuracy=Основное обучение-точность
 Call for Air Strike=Призовать воздушный удар
 Huh? We've got new information!=Хм? У нас есть новая информация!
 <color\=#ff6060>The AAX-05 is already in transit...</color>=<color\=#ff6060>AAX-05 уже находится в пути ...</color>
-It was repaired in time. Since the other party has kept their word, I'll maximize its value.=Это было отремонтировано вовремя. Поскольку другая сторона сохранила свое слово, я максимизирую его значение.
+It was repaired in time. Since the other party has kept their word, I'll maximize its value.=Он был отремонтирован вовремя. Поскольку другая сторона сдержала своё слово, я максимально использую его ценность.
 Kasey=Кейси
 Damage-type items used by self deal {{A}}% increased damage against enemy units.=Элементы типа ущерба, используемые Self Dale {{A}}%, увеличил ущерб против вражеских единиц.
 Basic Training - Action=Основное обучение-действие
@@ -19333,7 +19333,7 @@ Switch into firepower mode. The unit will switch to using a rocket launcher, arm
 Firepower Mode=Режим огневой мощи
 Firepower Mode=Режим огневой мощи
 Multi-Purpose Armor Piercing Cannon=Многоцелевая доспеха пирсинга
-Deal {{A}} damage from the inside out to enemy units.=Сдеть повреждение {{A}} изнутри на вражеские подразделения.
+Deal {{A}} damage from the inside out to enemy units.=Наносит {{A}} урона вражеским юнитам подразделениям.
 Rocket Barrage=Ракетная заграда
 Rocket Barrage=Ракетная заграда
 Regular Mode=Обычный режим
@@ -19366,4 +19366,4 @@ Fragile Stone Bridge=Хрупкий каменный мост
 Multi-Purpose Heavy Machine Gun=Многоцелевой тяжелый пулемет
 Advanced Training - Accuracy=Расширенное обучение-точность
 Homemade Grenade=Домашняя граната
-Jefuty Hologram=Голограмма Джефута
+Jefuty Hologram=Голограмма Джефути
