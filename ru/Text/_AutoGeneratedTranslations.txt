@@ -748,8 +748,8 @@ Auto Wait Time=Автоматическое время ожидания
 Automatic Recharge=Автоматическая перезарядка
 Automatically switch units=Автоматически переключать единицы
 Automatic Recharge=Автоматическаяㅤперезарядка
-Autonomous Recon Vehicle=Автономный реконструктивный автомобиль
-Autonomous Recon Vehicle=Автономный реконструктивный автомобиль
+Autonomous Recon Vehicle=Автономныйㅤреконструктивныйㅤавтомобиль
+Autonomous Recon Vehicle=Автономныйㅤреконструктивныйㅤавтомобиль
 Auto Sort Complete!=Автосортировка завершена!
 Available=Доступный
 Avalanche=Лавина
@@ -833,7 +833,7 @@ Battle of the Peak=Битва пика
 Battle tempo 100%=Боевой темп 100%
 Battle tempo 125%=Битва темпа 125%
 Battle tempo 150%=Битва темп 150%
-Battlefield Information=<size\=30>Информация о Битве</size>
+Battlefield Information=Информация о Битве
 Battlefield Preparation=Подготовка на поле битвы
 Battlefield Preparation Rules=Правила подготовки поля боя
 Battlefield Appearance=Появление на поле битвы
@@ -932,7 +932,7 @@ Blush=Румянец
 Body=Тело
 Body colour=телесный цвет
 Bograwr=Богравр
-Bombard [X]=Бомбарда [X]
+Bombard [X]=<size\=12>Бомбардировать</size> [X]
 Bone Blade=Костяное лезвие
 Bone dragon=Костный дракон
 Bone effigy=Костяное чучело
@@ -1408,7 +1408,7 @@ Comprehensive Defense Potion=Комплексное защитное зель�
 Conceal=Скрыт
 Concealment=Сокрытие
 Concealment Effect=Эффект сокрытия
-Concealment Device=<size\=12>Устройство для маскировки</size>
+Concealment Device=Устройствоㅤдляㅤмаскировки
 Concept=Концепция
 Concerned about their safety, Atena injected the mysterious girl with tranquilizers. Just as Mendo tried to reason with Atena, they were alerted to the approaching URNC's search teams, and the mysterious girl who was left alone in the room was nowhere to be found.=Обеспокоенная их безопасностью, Атена вводила таинственную девушку с транквилизаторами. Подобно тому, как Мендо пытался рассуждать с Атеной, они были предупреждены о приближающихся поисковых командах URNCа, и таинственной девушке, которая осталась одна в комнате, нигде не было найдено.
 Condition Recovery=Восстановление состояния
@@ -1449,7 +1449,7 @@ Continue offline=Продолжить офлайн
 Contrast=Контраст
 Control=Контроль
 Control Panel=Панель управления
-Controlled Movement=Контролируемое движение
+Controlled Movement=Контролируемоеㅤдвижение
 Controller=Контроллер
 Controls=Управление
 Control Room=<size\=15>Комната\nуправления</size>
@@ -2029,11 +2029,11 @@ Elise's House=Дом Элизы
 Elite=Элита
 Elite Commando=Элитный Коммандос
 Elite Commandos' Normal Attacks deal guaranteed critical hits when their HP is above {{A}}%.=Обычные атаки элитных коммандос гарантированно наносят критические удары, если их HP выше {{A}}%.
-Elite Scout=Элитный разведчик
-Elite Sniper=<size\=12>Элитный снайпер</size>
+Elite Scout=Элитный Разведчик
+Elite Sniper=<size\=12>Элитный Снайпер</size>
 Elite URNC forces and lured ELIDs gather at the gate of the quarantine zone. Sugar and the Shrike mitotic specimens may also appear at any moment. To leave this place, the only way is to quickly capture Lige when she appears and break through the gate. Make good use of the URNC checkpoints and be vigilant.=Силы элиты URNCа и заманиваемые Элиды собираются у ворот карантинной зоны. Шугар и образцы митотических образцов также могут появиться в любой момент. Чтобы покинуть это место, единственный способ - быстро захватить Лидж, когда она появляется, и прорваться через ворота. Хорошо использовать контрольно -пропускные пункты URNC и будьте бдительны.
-Elite commander=Элитный командир
-Elite Commander=<size\=39>Элитный командир</size>
+Elite commander=Элитный Командир
+Elite Commander=<size\=39>Элитный Командир</size>
 Elite Commando=<size\=16>Элитный Коммандос</size>
 Elite Machine Gunner=<size\=34>Элитный пулеметчик</size>
 Elite Medic=<size\=17>Элитный медик</size>
@@ -2641,10 +2641,10 @@ Grimbald Rockforge=Гримбальд Рокфордж
 Grimoire of Whispers=Гримуар шепота
 Grimoire of the Departed=Гримуар усопших
 Grim Reaper=<size\=25>Смерть с косой</size>
-Ground Shatter=Осколок земли
+Ground Shatter=Осколокㅤземли
 Grounded: unable to move.=Заземлен: не может двигаться.
 Ground Crack=Земля трещины
-Ground Shatter=Осколок земли
+Ground Shatter=Осколокㅤземли
 Group of enemies=Группа врагов
 Guaranteed to evade the next normal attack, regardless of the opponent's accuracy.=Гарантированно уклониться от следующей обычной атаки, независимо от точности противника.
 Guard=Охрана
@@ -3289,13 +3289,13 @@ Immune to <color\=#d7abff>"Scorched"</color>, <color\=#d7abff>"Exhaustion"</colo
 Immune to abnormal status (except for <color\=#d7abff>"Impure Blood"</color>, <color\=#d7abff>"Reverse Blood"</color> and <color\=#d7abff>"Radiation Overdose"</color>). When inflicted with <color\=#d7abff>"Radiation Overload"</color>, burn away the Epiphyllum within a 3x3 radius around self (can only be triggered once per turn).=Невосприимчив к аномальному состоянию (за исключением <color\=#d7abff>"Нечистой крови"</color>, <color\=#d7abff>"Обратной крови"</color> и <color\=#d7abff>"Передозировки радиацией"</color>). \nПри нанесении <color\=#d7abff>"Радиационной перегрузки"</color> Эпифиллум сгорает в радиусе 3х3 м вокруг вас (может быть активирован только один раз за ход).
 Immune to abnormal status.=Иммунитет к ненормальному состоянию.
 Imp=Имп
-Impaler=Импалер
+Impaler=Пронзатель
 Impassable=<size\=13>Непроходимо</size>
 Important=Важный
 Impulsive=Импульсивный
 Impure Blood=Нечистая кровь
 Impure Blood: the traits "Psychic Awareness" and "Extreme Speed" are nullified.=Нечистая кровь: черты «психическое осознание» и «экстремальная скорость» аннулированы.
-Impure Blood=Нечистая кровь
+Impure Blood=Нечистаяㅤкровь
 In <color\=#ff8d48>special weather conditions</color>, the map will be enveloped by Terrain Fog, and only enemy units in <color\=#ff8d48>Visual Range</color> will be visible. \n\nUnits of the same faction <color\=#ff8d48>share Visual Range</color>. \n\nCertain features, such as Campfires, will provide allied units with <color\=#ff8d48>additional Visual Range</color>.=В <color\=#ff8d48>особых погодных условиях</color> карта будет окутана ландшафтным туманом, и будут видны только вражеские юниты в <color\=#ff8d48>Диапазоне видимости</color>. \n\nЮниты одной фракции <color\=#ff8d48> имеют общий диапазон видимости</color>. \n\nНекоторые функции, такие как костры, предоставят союзным подразделениям <color\=#ff8d48>дополнительный диапазон обзора</color>.
 In Battle=В бою
 In Battle {{A}}=В бою {{A}}
@@ -4060,7 +4060,7 @@ Lumbermill=Лесопилка
 Lured=Заманённый
 Lured by sound waves, it will continue to approach the sound source. When enemy units are detected, it will switch to Attack Mode.=Привлеченный звуковыми волнами, он продолжит приближаться к источнику звука. При обнаружении вражеских единиц он перейдет в режим атаки.
 Lured: Will continuously approach the sound source after being lured by sound waves. When enemy units are detected, it will switch to Attack Mode.=Заманённый: постоянно приближается к источнику звука, будучи заманиваемым звуковыми волнами. При обнаружении вражеских единиц переходит в режим атаки.
-Lured [Z]=Заманить [Z]
+Lured [Z]=Привлечь [Z]
 Lusica, in Lige's original form. She is both innocent yet wicked. She is a Shrike, yet one scornful of the Shrikes.=Лусика в оригинальном образе Жизни. Она одновременно невинна и порочна. Она Шрайк, но презирает Шрайков.
 Lute=Лютня
 Lv=Ур
@@ -4086,10 +4086,10 @@ Mace=Мейс
 Machine=Машина
 Machine Gunners and Elite Machine Gunners did not hit allied units=Пулеметные и элитные автомашины не попали в союзные подразделения
 Machinery=Машины
-Machine Gunner=Пулеменщик
+Machine Gunner=Пулеметчик
 Machine Wreckage=Обломки машины
 Made in Hell=<size\=33>Сделаноㅤвㅤаду</size>
-Mad Bomber=<size\=22>Безумный бомбардир</size>
+Mad Bomber=<size\=20>Безумный бомбардир</size>
 Mad Bomber Enhanced to level {{A}}!=Безумный бомбардир улучшено до {{A}}-го уровня!
 Mage=Маг
 Magic Armor=Магическая броня
@@ -4672,7 +4672,7 @@ Only by making them suffer as many losses as possible can we draw the main force
 Only if you agree to this will I cooperate with your plan.=Только если вы согласны с этим, я буду сотрудничать с вашим планом.
 Only two people on duty... Piece of cake.=Только два человека на дежурстве ... кусок торта.
 On Thin Ice=<size\=29>Наㅤтонкомㅤльду</size>
-On Thin Ice Enhanced to level {{A}}!=По тонкому льду улучшено до {{A}}-го уровня!
+On Thin Ice Enhanced to level {{A}}!=на тонком льду улучшено до {{A}}-го уровня!
 Opacity=Непрозрачность
 Open=Открыть
 Open / Use=Открыть / использовать
@@ -5911,7 +5911,7 @@ Survivor=Выживший
 Suspicion=Недоверие
 Svarog=Сварог
 Switch=Переключатель
-Switch Character=Перекл персонаж
+Switch Character=Переключить персонажа
 Switch Potion=Переключить зелье
 Switch Wand=Переключить палочку
 Switch Wands=Переключить палочки
@@ -6664,7 +6664,7 @@ Transparent UI=Прозрачность интерфейса
 Transport Driver=Транспортный водитель
 Trap=Ловушка
 Trapped Wizard=Волшебник в ловушке
-Trap Disassembly=Ловушка разборка
+Trap Disassembly=Разборкаㅤловушки
 Trash like me doesn't deserve to live...!=Мусор, как я, не заслуживает того, чтобы жить ...!
 Trasures keeper=Траузы хранители
 Treasure Hunter=Охотник за сокровищами
@@ -6690,13 +6690,13 @@ Tsk... It's no use arguing with you.=TSK ... бесполезно спорить
 Tue=Вт
 Tue.=Вт.
 Turn=Ход
-Turn Page {{A}}=Переверни {{A}}
+Turn Page {{A}}=Ход {{A}}
 Turn off colorblind mode.=Выключите режим дальтонизма.
 Turn on the military flashlight I gave you. Let's head to the shore to the <color\=#ff6060>east</color> and plan our next move.=Включите военный фонарик, который я тебе дал. Пойдем к берегу на <color\=#ff6060>восток</color> и спланируем наш следующий шаг.
 Turnip=Репа
 Turn {{A}}=Ход {{A}}
-Turn {{A}}	Preparation Phase=Этап подготовки к развороту ЗМЦЗ
-Turrets can attack or repair based on remote commands.=турели могут атаковать или ремонтировать на основе удаленных команд.
+Turn {{A}}	Preparation Phase=Ход {{A}}	Фаза подготовки
+Turrets can attack or repair based on remote commands.=Турели могут атаковать или ремонтироваться по удалённым командам.
 Turrets within 4 tiles gain <color\=#89f0ff>10% attack</color> and <color\=#89f0ff> 10 accuracy</color>.=Башни, расположенные в пределах 4 плиток, получают <color\=#89f0ff>10% атаки</color> и <color\=#89f0ff>10% точности</color>.
 Turrets within {{A}} tiles gain {{B}}% attack and {{C}} accuracy.=Турели в пределах тайлов {{A}} получают {{B}}% атаки и {{C}} точности.
 Turrets within {{A}} tiles gain {{B}}% attack.=турели в плитках {{A}} получают атаку {{B}}%.
@@ -6913,8 +6913,8 @@ Vegetable=Овощной
 Vegetables (0/15)=Овощи (0/15)
 Vehicle=Транспортное средство
 Venomous Crystal=Ядовитый кристалл
-Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.3.2.0
-Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.3.2.0</size>
+Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.3.3.0
+Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.3.3.0</size>
 Very Fast=<size\=19>Очень быстро</size>
 Very High=Очень высоко
 Very Low=Очень низко
@@ -7335,8 +7335,8 @@ Why would you say that about yourself?=Зачем вам это говорить
 Why?=Почему?
 Why? You can't defy your orders, can you?=Почему? Ты же не можешь ослушаться приказа, не так ли?
 Wicked fee=Злой плата
-Wide Area Recon=<size\=12>Обширная зона разведка</size>
-Wide Area Recon=Обширная зона разведка
+Wide Area Recon=Разведкаㅤширокойㅤтерритории
+Wide Area Recon=<size\=13>Разведка широкой территории</size>
 Wild Berry=Лесная ягода
 Wildlife=Дикая природа
 Will not attack the target immediately. Avoid its visual range before the end the action to guarantee safety.\n<color\=#ff7373>Attack Priority</color> in Casual Difficulty: closest distance\n<color\=#ff7373>Attack Priority</color> in Standard Difficulty: closest distance\n<color\=#ff7373>Attack Priority</color> in Challenge Difficulty: closest distance=Не атакуйте цель сразу. Избегайте ее зоны видимости до окончания действия, чтобы гарантировать безопасность.\n<color\=#ff7373>Приоритет атаки</color> на обычном уровне сложности: наименьшее расстояние\n<color\=#ff7373>Приоритет атаки</color> на стандартном уровне сложности: наименьшее расстояние\n<color\=#ff7373>Приоритет атаки</color> в Challenge Difficulty: ближайшее расстояние
@@ -12976,7 +12976,7 @@ I made a disguise. They didn't notice anything unusual.=Я сделала мас
 That's because I cleverly concealed all traces of our consciousnesses~=Это потому, что я хитро скрыла все следы наших сознаний~
 The Progenitor will have no suspicion whatsoever about this body.=У Прародителя не будет никаких подозрений относительно этого тела.
 Sugar (Red Hologram) will charge into the enemy's formation and self-destruct.=Шугар (красная голограмма) ворвётся в ряды врага и самоуничтожится.
-This doesn't look good. We've attracted more ELIDs than I expected.=Выглядит не очень хорошо. Мы привлекли больше ELID, чем я ожидала.
+This doesn't look good. We've attracted more ELIDs than I expected.=Выглядит не очень хорошо. Мы привлекли больше ЭЛИДов, чем я ожидала.
 Be aware of the surroundings when escaping. <color\=#ff6060>If you get too close to an ELID, it is likely to attack.</color>=Будь внимателен к окружающему пространству при побеге. <color\=#ff6060>Если ты подойдешь слишком близко к ЭЛИДу, он, скорее всего, нападет.</color>
 I have a plan.=У меня есть план.
 The acoustic generator can be directly modified into a throwable <color\=#ff6060>high-frequency sonic bomb</color>, which can <color\=#ff6060>drive the ELIDs into the URNC</color>.=Акустический генератор можно напрямую модифицировать в метаемую <color\=#ff6060>высокочастотную звуковую бомбу</color>, которая может <color\=#ff6060>загнать ЭЛИДов в URNC</color>.
@@ -13061,10 +13061,10 @@ You didn't find her?=Вы не нашли ее?
 I did, but I couldn't save her.=Да, но я не смогла ее спасти.
 Sugar probably sent her back to the lab already.=Шугар, наверное, уже отправила её обратно в лабораторию.
 Do you mean Sugar of the Werewolf Commando Team?!=Ты имеешь в виду Шугар из "Команды коммандос-оборотней"?!
-Your old enemy and the Werewolf Commando Team are preparing to kill us in the quarantine zone.=Ваш старый враг и "Команда коммандос-оборотней" готовятся убить нас в карантинной зоне.
+Your old enemy and the Werewolf Commando Team are preparing to kill us in the quarantine zone.=Твой старый враг и "Команда коммандос-оборотней" готовятся убить нас в карантинной зоне.
 Yeah, I didn't have the chance to talk to you about it.=Да, у меня не было возможности поговорить с тобой об этом.
 She's here?!=Она здесь?!
-It's going to be a tough fight, but it might be a good chance for you to kill her.=Это будет тяжелый бой, но, возможно, это хороший шанс для вас убить ее.
+It's going to be a tough fight, but it might be a good chance for you to kill her.=Это будет тяжелый бой, но, возможно, это хороший шанс для тебя убить ее.
 Wait a minute. How do you know she's my old enemy?=Погоди-ка. Откуда ты знаешь, что она мой старый враг?
 I guessed. Don't worry, I'll kick their asses with you.=Я догадалась. Не волнуйся, я надеру им задницы вместе с тобой.
 Atena, what's Captain Carl's status?=Атена, как дела у капитана Карла?
@@ -13074,7 +13074,7 @@ Jefuty, shouldn't we mention the Shrike cells?=Джефути, не стоит �
 I'm trying to sync up the messages so there's no confusion.=Я пытаюсь синхронизировать сообщения, чтобы не было путаницы.
 Shrike cells?!=Клетки шрайков?!
 The Shrike who devoured half the city?=Шрайк, который сожрал полгорода?
-Yeah, but at least we have something that can handle it.=Да, но по крайней мере у нас есть что-то, что может с этим справиться.
+Yeah, but at least we have something that can handle it.=Да, но по крайней мере у нас есть кое-что, что может с ними справиться.
 Mendo, give Atena some of the blood bullets.=Мендо, дай Атене несколько кровавых пуль.
 This is a blood bullet made from Jefuty's blood. It inhibits Shrike cell regeneration.=Это кровавая пуля, сделанная из крови Джефути. Она подавляет регенерацию клеток Шрайка.
 So the fluid in here is your blood...?=Так жидкость здесь — это твоя кровь...?
@@ -13144,14 +13144,14 @@ He's entitled to all the information.=Он имеет право на всю и�
 Now that she's told us everything she needs to tell us, we need to do as we promised.=Теперь, когда она рассказала нам все, что должна была рассказать, мы должны сделать то, что обещали.
 Besides, there's no guarantee that a Shrike can't be a fully-immune individual.=Кроме того, нет никакой гарантии, что шрайк не может быть полностью невосприимчивым человеком.
 <color\=#92b1ff>What am I going to do with you two?</color>=<color\=#92b1ff>Что мне делать с вами двумя?</color>
-<color\=#92b1ff>You're in luck. There's an armed checkpoint near your position. It's taller than a purification tower, so spotting it should be easy.</color>=<color\=#92b1ff>Вам повезло: рядом с вашей позицией находится вооруженный блокпост. Он выше, чем очистительная башня, поэтому заметить его не составит труда.</color>
-<color\=#92b1ff>The checkpoint in this old-fashioned quarantine zone is located near the exit to monitor the zone. If you head toward the checkpoint, you can find the way out.</color>=<color\=#92b1ff>Контрольная точка в этой старомодной карантинной зоне находится рядом с выходом из зоны. Если вы направитесь к ней, то сможете найти выход.</color>
+<color\=#92b1ff>You're in luck. There's an armed checkpoint near your position. It's taller than a purification tower, so spotting it should be easy.</color>=<color\=#92b1ff>Вам повезло: рядом с вашей позицией находится контрольно-пропускной пункт. Он выше, чем очистительная башня, поэтому заметить его не составит труда.</color>
+<color\=#92b1ff>The checkpoint in this old-fashioned quarantine zone is located near the exit to monitor the zone. If you head toward the checkpoint, you can find the way out.</color>=<color\=#92b1ff>Контрольно-пропускной пункт в этой старомодной карантинной зоне находится рядом с выходом из зоны. Если вы направитесь к ней, то сможете найти выход.</color>
 An armed checkpoint?=Вооруженный контрольно-пропускной пункт?
 It's got the heavy firepower you need. I've infiltrated the URNC forces and gained control access to their surveillance system, which should be easy to hack with Atena's help.=Я проник в войска URNC и получил доступ к их системе наблюдения, которую легко взломать с помощью Атены.
 <color\=#92b1ff>You'll be able to get out if you take control of the checkpoint. I've sent the evacuation route, and I'll back you up.</color>=<color\=#92b1ff>Вы сможете выбраться, если возьмете под контроль контрольно-пропускной пункт. Я отправил маршрут эвакуации и поддержу вас.</color>
 Copy that. We're on it.=Принято. Мы займемся этим.
 Out.=Конец.
-A checkpoint? What's that?=Контрольная точка? Что это?
+A checkpoint? What's that?=Контрольно-пропускном пункт? Что это?
 It's an armed structure in the contamination zone designed to destroy and drive out ELIDs. We can fight our way out if we have heavy fire support.=Это вооруженная структура в зоне заражения, предназначенная для уничтожения и вытеснения ELID. Мы сможем пробиться наружу, если получим мощную огневую поддержку.
 Got it. Let's get moving. We have to take the checkpoint before the URNC realizes what's happening.=Понял. Поехали. Нужно захватить контрольную точку до того, как в URNC поймут, что происходит.
 Found it! Look. Those pillars to the southeast should be the checkpoint the captain was talking about.=Нашёл! Смотрите. Те колонны на юго-востоке должны быть теми контрольно-пропускными пунктами, о которых говорил капитан.
@@ -13162,37 +13162,37 @@ Everything is well stocked. There's not only emergency food and water, but also 
 The electrical system here is still intact, undamaged by the ELIDs.=Электрическая система здесь всё ещё цела, не повреждена ЭЛИДами.
 Like Carl said, the firewall has been shut down.=Как сказал Карл, брандмауэр был отключен.
 Communications and surveillance are in the same network, and intelligence can be obtained through the network here.=Связь и наблюдение находятся в одной сети, и разведывательная информация может быть получена через эту сеть.
-Let's hack into their system and see what's going on.=Давайте взломаем их систему и посмотрим, что происходит.
+Let's hack into their system and see what's going on.=Давай взломаем их систему и посмотрим, что происходит.
 Already on it.=Уже занимаюсь этим.
 There are defensive howitzers at the checkpoint, and long-range automated guns to flush out the ELIDs. They're a bit old, but they definitely have enough firepower.=На контрольно-пропускном пункте установлены оборонительные гаубицы и дальнобойные автоматические пушки для уничтожения ЭЛИДов. Они немного устарели, но вполне способны обеспечить необходимую огневую мощь.
 But there doesn't seem to be much ammunition.=Но, похоже, боеприпасов не так много.
-Let's save it for the fight.=Давайте оставим это для боя.
+Let's save it for the fight.=Давайте оставим их для боя.
 Is the surveillance video on?=Включено ли видеонаблюдение?
-Let's take a look at what the enemy is up to elsewhere.=Давайте посмотрим, чем занимаются враги в других местах.
-Just a second... Let me enter the command... That should do it.=Секунду... Позвольте мне ввести команду... Это должно сработать.
+Let's take a look at what the enemy is up to elsewhere.=Давай посмотрим, чем занимается враг в других местах.
+Just a second... Let me enter the command... That should do it.=Секунду... Дай мне ввести команду... Это должно сработать.
 Is there an image on the screen?=Есть ли изображение на экране?
 I'll check some security cameras along the road.=Я проверю несколько камер безопасности вдоль дороги.
-Here you go. It's very clear.=Вот, пожалуйста. Всё очень ясно.
-Found it. The gate is just southeast of our location. It looks like something's still guarding it.=Нашли. Ворота находятся к юго-востоку от нашего местоположения. Похоже, их все еще что-то охраняет.
+Here you go. It's very clear.=Вот, держи. Всё очень ясно.
+Found it. The gate is just southeast of our location. It looks like something's still guarding it.=Нашел. Ворота находятся к юго-востоку от нашего местоположения. Похоже, их все еще что-то охраняет.
 Atena, can you zoom in on the gate area?=Атена, ты можешь увеличить область ворот?
 Yes, but the picture might be a little blurry.=Да, но изображение может быть немного размытым.
 Why are there so many Assault Artillery units?=Почему здесь так много штурмовых артиллерийских единиц?
 That's an AA-{{A}}. It's a problematic armored mech.=Это AA-{{A}}. Проблемный бронированный мех.
 I take it you've seen them before?=Я так понимаю, вы их уже видели?
 Yeah, they're tough to handle.=Да, с ними трудно справиться.
-Now that we have the howitzers at the checkpoint, they should be easier to deal with.=Теперь, когда у нас есть гаубицы на контрольно-пропускном пункте, с ними должно быть проще справиться.
+Now that we have the howitzers at the checkpoint, they should be easier to deal with.=Теперь, когда у нас есть гаубицы на контрольно-пропускном пункте, с ними должно быть легче справиться.
 Let's try to avoid a direct confrontation.=Давайте постараемся избежать прямой конфронтации.
 It looks like Sugar doesn't really care about us escaping. They've set up an encirclement...=Похоже, Шугар не очень-то заботится о нашем побеге. Они устроили окружение...
 Considering the URNC, Werewolf Commando Team, and Assault Artillery, it seems we're in a tough spot.=Учитывая наличие URNC, "Команду коммандос-оборотней" и штурмовой артиллерии, кажется, что мы в трудном положении.
 Sugar's just the vice-captain. I think I know who the spec op team's commander is.=Шугар - всего лишь вице-капитан. Думаю, я знаю, кто командир группы спецопераций.
-Considering his unabashed frontal strategy and ability to keep Sugar in line, it can only be Captain Oleg.=Учитывая его бессовестную лобовую стратегию и умение держать Шугара в узде, это может быть только капитан Олег.
+Considering his unabashed frontal strategy and ability to keep Sugar in line, it can only be Captain Oleg.=Учитывая его бессовестную лобовую стратегию и умение держать Шугар в узде, это может быть только капитан Олег.
 The special operations commander Jevon fought against in France?=Командир спецназа, с которым Джевон сражался во Франции?
 Is it him?=Это он?
 Is he famous?=Он знаменит?
 His Werewolf Commando Team was the best in the URNC army, and he was the commander of the three best Werewolf squads.=Его "Команда коммандос-оборотней" была лучшая в армии URNC, а сам он командовал тремя лучшими отрядами Оборотней.
 His combat command skills and tactical decision-making are first-class. He rarely loses a battle.=Его навыки боевого командования и принятия тактических решений первоклассны, он редко проигрывает сражения.
 That sounds pretty impressive.=Звучит впечатляюще.
-Compared to your TASA captain, who is better?=Кто лучше по сравнению с вашим капитаном TASA?
+Compared to your TASA captain, who is better?=По сравнению с вашим капитаном TASA, кто лучше?
 TASA has fought the Werewolves several times, and the results of the confrontations were mixed.=TASA уже несколько раз сражалась с Оборотнями, и результаты противостояний были неоднозначными.
 I admit he's a challenging opponent, but I don't think he's superior to us.=Я признаю, что он сложный соперник, но не думаю, что он превосходит нас.
 In this case, the enemy is in the open, we are under cover, and we're familiar with the enemy's operational doctrine. By all accounts, we have a better chance of winning.=В этом случае противник находится на открытой местности, мы - под прикрытием, и нам известна оперативная доктрина противника. По общему мнению, у нас больше шансов на победу.
@@ -13204,8 +13204,8 @@ The best thing to do is disrupt his positioning. We should disrupt his original 
 Carl said he's infiltrated the URNC troops, so it looks like he's planning a surprise for him.=Карл сказал, что внедрился в войска URNC, так что, похоже, он планирует сюрприз для него.
 Leave the surprise to the captain. Let's get our work done first.=Оставьте сюрприз капитану. Давайте сначала сделаем нашу работу.
 The system here is too old to remotely control all the checkpoints, so we'll have to do it manually.=Система здесь слишком старая, чтобы дистанционно управлять всеми контрольными точками, поэтому нам придется делать это вручную.
-Having armed support like this is an unexpected surprise. Let's familiarize ourselves with how to gain access and control privileges over them.=Наличие такой вооруженной поддержки - неожиданный сюрприз. Давайте ознакомимся с тем, как получить к ним доступ и управлять привилегиями.
-The deployment diagram of the nearby area has been synchronized to your terminal. After the data analysis is done, let's continue to move in the direction of the gate.=Диаграмма размещения ближайшей территории синхронизирована с твоим терминалом. После завершения анализа данных продолжим двигаться в направлении ворот.
+Having armed support like this is an unexpected surprise. Let's familiarize ourselves with how to gain access and control privileges over them.=Наличие такой вооруженной поддержки — неожиданный сюрприз. Давай разберемся, как получить доступ и контроль над ними.
+The deployment diagram of the nearby area has been synchronized to your terminal. After the data analysis is done, let's continue to move in the direction of the gate.=Диаграмма развертывания ближайшей территории синхронизирована с твоим терминалом. После завершения анализа данных давай продолжим двигаться в направлении ворот.
  Inner Caucasus theater base command room= Командный пункт базы Внутреннего Кавказского театра
 Sugar, what's your location?=Шугар, где ты находишься?
 <color\=#92b1ff>Reporting in, Captain. We're two klicks from the exit.</color>=<color\=#92b1ff>Докладываю, капитан. Мы в двух километрах от выхода.</color>
@@ -13228,10 +13228,10 @@ You've never made excuses before.=Ты никогда раньше не опра
 Not before, and hopefully not in the future.=Не раньше, и надеюсь, не в будущем.
 <color\=#92b1ff>I'll properly secure the gate. Captain, I have to warn you, however, that based on my experience with her, the fully-immune individual is not that easy to handle.</color>=<color\=#92b1ff>Я надёжно обеспечу охрану ворот. Капитан, однако, должна предупредить вас, что, исходя из моего опыта общения с ней, полностью иммунный человек не так-то легко даётся.</color>
 Is there anything special about her?=Есть ли что-то особенное в ней?
-<color\=#92b1ff>Hehehe... She's the sort of brave soul that I love.</color>=<color\=#92b1ff>Хехехе... Она именно тот отважный человек, которого я так люблю.</color>
+<color\=#92b1ff>Hehehe... She's the sort of brave soul that I love.</color>=<color\=#92b1ff>Хехехе... Она из тех смелых душ, которые мне нравятся.</color>
 <color\=#92b1ff>The thought of cutting her open with my own hands when I catch her, feeling the heat of her blood, and listening to her crying and screaming for mercy excites me.</color>=<color\=#92b1ff>Мысль о том, что я разрежу ее собственными руками, когда поймаю, почувствую жар ее крови и услышу, как она плачет и молит о пощаде, возбуждает меня.</color>
 She's the mission target! Did you forget what I told you?!=Она цель миссии! Ты забыла, что я тебе сказал?!
-The demands from above are that we bring her back alive.=Требования сверху — вернуть её живой.
+The demands from above are that we bring her back alive.=Приказы сверху заключались в том, чтобы вернуть её живой.
 <color\=#92b1ff>She's not going to go down that easy. If we want to catch her, we'll need to take some drastic measures, no?</color>=<color\=#92b1ff>Она не сдастся так легко. Если мы хотим поймать её, нам придётся принять радикальные меры, не так ли?</color>
 <color\=#92b1ff>Those monsters can't really die anyway.</color>=<color\=#92b1ff>Эти монстры всё равно не могут по-настоящему умереть.</color>
 <color\=#92b1ff>It only takes a little thinking to understand that these puppets and the lumps of flesh back in Warszawa are the same; they excel at taking away the lives of others and turning them into their own sustenance.</color>=<color\=#92b1ff>Немного подумав, можно понять, что эти марионетки и кучки плоти в Варшаве — одно и то же; они мастера в том, чтобы отбирать жизни других и превращать их в своё собственное питание.</color>
@@ -13244,7 +13244,7 @@ Just guard the gate as instructed, and watch out for the ELIDs.=Просто о�
 I'll take care of the manhunt.=Я позабочусь о охоте.
 <color\=#92b1ff>Ugh, fine. So boring.</color>=<color\=#92b1ff>Тьфу, хорошо. Так скучно.</color>
 {{A}} a.m.  Inner Caucasus theater base command room={{A}} a.m. Внутренняя командная комната театрального театрального театра
-There's another checkpoint ahead. Use it the same way like you did before to scout out what's going on.=Впереди еще одна контрольная точка. Используйте ее так же, как и предыдущую, чтобы разведать, что происходит.
+There's another checkpoint ahead. Use it the same way like you did before to scout out what's going on.=Впереди ещё один контрольно-пропускной пункт. Используем его так же, как раньше, чтобы разведать, что происходит.
 Shh... I see movement. Take cover.=Шшш... Я вижу движение. Укройтесь.
 Look over there.=Посмотрите туда.
 Why won't you die?!=Почему ты не умираешь?!
@@ -13253,63 +13253,63 @@ Let's sneak over and have a look.=Давайте проберемся туда �
 You guys secure the perimeter. I'll take care of this checkpoint.=Вы, ребята, охраняйте периметр. Я позабочусь о контрольной точке.
 Success. We have access.=Успех. У нас есть доступ.
 The armaments at this checkpoint are fully operational.=Вооружение на этом контрольно-пропускном пункте находится в полной боевой готовности.
-Since we're surrounded by ELIDs, let me demonstrate how the <color\=#ff6060>long-range automated guns</color> works.=Поскольку мы окружены ЭЛИДами, позвольте мне продемонстрировать, как <color\=#ff6060>дальнобойные автоматические пушки</color> работает.
-Long-range automated guns work similarly to the low-frequency acoustic generators, but with enhanced range and effect.=Автоматические пушки дальнего действия работают аналогично низкочастотным акустическим генераторам, но с увеличенной дальностью и эффективностью.
-<color\=#ff6060>It will attract ELIDs within a certain range</color> immediately after each shot.=<color\=#ff6060>Он будет притягивать ELID в определенном диапазоне</color> сразу после каждого выстрела.
+Since we're surrounded by ELIDs, let me demonstrate how the <color\=#ff6060>long-range automated guns</color> works.=Поскольку мы окружены ELID, позвольте мне продемонстрировать, как работают <color\=#ff6060>автоматические дальнобойные орудия</color>.
+Long-range automated guns work similarly to the low-frequency acoustic generators, but with enhanced range and effect.=Автоматические дальнобойные орудия работают аналогично низкочастотным акустическим генераторам, но с улучшенным диапазоном и эффектом.
+<color\=#ff6060>It will attract ELIDs within a certain range</color> immediately after each shot.=<color\=#ff6060>После каждого выстрела оно сразу привлекает ЭЛИДов в радиусе действия.</color>
 That makes sense to me.=Мне кажется, в этом есть смысл.
-We're not far from the gate here. There are many URNC soldiers around. We have to use the ELIDs to contain them.=Мы находимся недалеко от ворот. Вокруг много солдат URNC. Мы должны использовать ЭЛИДы, чтобы сдержать их.
-The AA-{{A}}s are already operating in the area. We should prioritize them.=В этом районе уже работают AA-{{A}}, и мы должны отдать им предпочтение.
-I think the <color\=#ff6060>defensive howitzers</color> will help.=Я думаю, что <color\=#ff6060>оборонительные гаубицы</color> помогут.
+We're not far from the gate here. There are many URNC soldiers around. We have to use the ELIDs to contain them.=Мы не так далеко от ворот. Здесь много солдат URNC. Нам нужно использовать ЭЛИДов, чтобы сдержать их.
+The AA-{{A}}s are already operating in the area. We should prioritize them.=AA-{{A}} уже работают в этом районе. Нам следует отдать приоритет им.
+I think the <color\=#ff6060>defensive howitzers</color> will help.=Я думаю, что <color\=#ff6060>защитные гаубицы</color> помогут.
 Yeah, but it's also about timing.=Да, но дело еще и во времени.
-The ELIDs to the south are at a disadvantage. We can "help" them with our howitzers.=ЭЛИДы на юге находятся в невыгодном положении. Мы можем "помочь" им нашими гаубицами.
-What's happening? Who activated the checkpoint's howitzers?!=Что происходит? Кто активировал гаубицы на КПП?!
-Can we get the dumbass at the controls to aim better?!=Мы можем заставить этого тупицу за пультом лучше целиться?!
-Fight the monsters and don't hit your own people!=Сражайтесь с монстрами и не бейте своих людей!
+The ELIDs to the south are at a disadvantage. We can "help" them with our howitzers.=ЭЛИДы на юге в невыгодном положении. Мы можем "помочь" им нашими гаубицами.
+What's happening? Who activated the checkpoint's howitzers?!=Что происходит? Кто активировал гаубицы на контрольно-пропускном пункте?!
+Can we get the dumbass at the controls to aim better?!=Можем ли мы заставить идиота за управлением прицеливаться точнее?!
+Fight the monsters and don't hit your own people!=Сражайтесь с монстрами и не бейте своих!
 I didn't know anyone was manning the checkpoint.=Я не знал, что на контрольно-пропускном пункте кто-то есть.
 Huh? Then who's doing it then?=А? Тогда кто это делает?
 Don't tell me... Fuck! Send the AA-{{A}} over there to investigate!=Не говорите мне... Черт! Отправьте туда AA-{{A}} для расследования!
 It's pretty impressive, but it seems to have caught the attention of the URNC.=Это довольно впечатляющее зрелище, но, похоже, оно привлекло внимание URNC.
 The monitors show the nearby enemy's position. I'll take them out; you guys head to the other two marked checkpoints as soon as you can.=На мониторах видны позиции противника. Я займусь ими, а вы, ребята, отправляйтесь к двум другим отмеченным контрольным точкам, как только сможете.
-Keep in mind that each checkpoint has <color\=#ff6060>limited ammunition</color>, with a standard configuration of <color\=#ff6060>3 howitzers and 30 long-range automated guns</color>.=Помните, что на каждом контрольном пункте <color\=#ff6060>ограниченный боезапас</color>Стандартная конфигурация состоит из <color\=#ff6060>гаубицы ЗМКЗ и дальнобойные автоматические пушки ЗМДЗ</color>.
+Keep in mind that each checkpoint has <color\=#ff6060>limited ammunition</color>, with a standard configuration of <color\=#ff6060>3 howitzers and 30 long-range automated guns</color>.=Имейте в виду, что у каждого контрольно-пропускного пункта есть <color\=#ff6060>ограниченное количество боеприпасов</color>, стандартная конфигурация — <color\=#ff6060>3 гаубицы и 30 дальнобойных автоматических орудий</color>.
 There are plenty of checkpoints in the area, and the firepower is enough to cover most of the area.=В этом районе много контрольно-пропускных пунктов, а огневой мощи достаточно, чтобы охватить большую часть территории.
-Our goal is to create chaos by <color\=#ff6060>eliminating as many URNC soldiers as possible</color>. Let's move.=Наша цель - создать хаос, уничтожив <color\=#ff6060>уничтожив как можно больше солдат URNC.</color>Двигаемся.
-I didn't think they could gather so many troops in such a short time.=Я не думал, что они смогут собрать столько войск за такое короткое время.
+Our goal is to create chaos by <color\=#ff6060>eliminating as many URNC soldiers as possible</color>. Let's move.=Наша цель — создать хаос, <color\=#ff6060>уничтожив как можно больше солдат URNC</color>. Выдвигаемся.
+I didn't think they could gather so many troops in such a short time.=Я не думала, что они смогут собрать столько войск за такое короткое время.
 Surveillance equipment shows reinforcements approaching the gate.=По камерам наблюдения видно, что к воротам приближается подкрепление.
-The Fifth Mechanized Unit has arrived at the east gate. Requesting permission to open it.=Пятый механизированный отряд прибыл к восточным воротам и просит разрешения открыть их.
+The Fifth Mechanized Unit has arrived at the east gate. Requesting permission to open it.=Пятая механизированная часть прибыла к восточным воротам. Запрашиваю разрешение на их открытие.
 Retina verification in progress... Verifying...=Идет проверка сетчатки... Проверка...
 System Voice=Голос системы
 Verification successful. Gate opening!=Проверка прошла успешно. Ворота открываются!
-The gate opened, along with a team of AA-{{A}}s.=Ворота открылись вместе с командой AA-{{A}}.
+The gate opened, along with a team of AA-{{A}}s.=Ворота открылись вместе с отрядом AA-{{A}}.
 Any word from the Captain?=Есть новости от капитана?
 The timing was just right.=Время было как раз подходящее.
-Carl sent me a signal to activate the paraglider.=Карл послал мне сигнал, чтобы я активировал параплан.
+Carl sent me a signal to activate the paraglider.=Карл прислал мне сигнал, чтобы активировать параплан.
 Can this thing really fool the URNC troops guarding the gate?=Может ли эта штука обмануть войска URNC, охраняющие ворота?
 It's up to you, Atena.=Это зависит от тебя, Атена.
 Trust the Captain.=Доверьтесь капитану.
 That's up to Carl.=Это зависит от Карла.
 Stay calm! That might be an enemy decoy!=Сохраняйте спокойствие! Это может быть вражеская приманка!
 Sir! There's something in the sky!=Сэр! В небе что-то есть!
-Stay calm?! The enemy has fled in a paraglider. Are you guarding the air here?!=Сохраняйте спокойствие! Враг улетел на параплане. Вы охраняете здесь воздух?!
-What are you waiting for? Go after them!=Чего вы ждете? Идите за ними!
+Stay calm?! The enemy has fled in a paraglider. Are you guarding the air here?!=Сохранять спокойствие?! Враг сбежал на параплане. Ты что, тут воздух охраняешь?!
+What are you waiting for? Go after them!=Чего ты ждёшь? Догони их!
 Are you waiting for me to catch them and bring them to you?!=Ты ждешь, что я поймаю их и принесу тебе?!
 Ah, no, sir!=Ах, нет, сэр!
 Close the gate immediately! You lot, follow me!=Немедленно закройте ворота! Все за мной!
-Hmph, the gate is finally clear.=Наконец-то ворота освободились.
-Ma'am, a paraglider just flew out of the quarantine zone. We don't know how many escaped. Requesting further instructions.=Мэм, параплан только что вылетел из карантинной зоны. Мы не знаем, сколько человек спаслось. Запрашиваю дальнейшие инструкции.
-<color\=#92b1ff>The checkpoint's permissions hasn't been restored yet. Those rats may be still lurking around inside.</color>=<color\=#92b1ff>Разрешения на контрольной точке еще не восстановлены. Возможно, крысы все еще скрываются внутри.</color>
+Hmph, the gate is finally clear.=Хмф, ворота наконец-то свободны.
+Ma'am, a paraglider just flew out of the quarantine zone. We don't know how many escaped. Requesting further instructions.=Мэм, параплан только что вылетел из карантинной зоны. Мы не знаем, сколько человек сбежало. Запрашиваю дальнейшие инструкции.
+<color\=#92b1ff>The checkpoint's permissions hasn't been restored yet. Those rats may be still lurking around inside.</color>=<color\=#92b1ff>Разрешения для контрольно-пропускного пункта ещё не восстановлены. Эти крысы, возможно, всё ещё прячутся внутри.</color>
 <color\=#92b1ff>Let the troops outside go after them. You guys keep your eyes on the gate. If you see them, send them my regards~</color>=<color\=#92b1ff>Пусть за ними идут войска. Вы, ребята, следите за воротами. Если увидите их, передайте им привет.</color>
 Yes, ma'am!=Да, мэм!
 All units, stick to the original plan!=Все подразделения, придерживайтесь первоначального плана!
-The defense outside the gate is weakened! It's time for the next step of the battle plan.=Оборона за воротами ослаблена! Пришло время для следующего шага плана сражения.
-We're going to <color\=#ff6060>bombard the quarantine zone gate with howitzers from the checkpoints near the gate</color>. Once the gate is destroyed, we can take advantage of the chaos to escape.=Мы собираемся <color\=#ff6060>обстреливать ворота карантинной зоны из гаубиц с блокпостов возле ворот.</color>Как только ворота будут уничтожены, мы сможем воспользоваться хаосом и сбежать.
-There are too many AA-{{A}}s guarding inside. I didn't expect them to deploy such a large force.=Там слишком много AA-{{A}}, охраняющих внутреннюю территорию. Я не ожидал, что они развернут такие большие силы.
+The defense outside the gate is weakened! It's time for the next step of the battle plan.=Оборона за воротами ослабла! Пора переходить к следующему этапу боевого плана.
+We're going to <color\=#ff6060>bombard the quarantine zone gate with howitzers from the checkpoints near the gate</color>. Once the gate is destroyed, we can take advantage of the chaos to escape.=Мы собираемся <color\=#ff6060>обстрелять ворота карантинной зоны гаубицами с контрольно-пропускных пунктов, расположенных рядом с воротами</color>. Как только ворота будут уничтожены, мы сможем воспользоваться хаосом, чтобы сбежать.
+There are too many AA-{{A}}s guarding inside. I didn't expect them to deploy such a large force.=Там слишком много AA-{{A}}, охраняющих внутреннюю территорию. Я не ожидала, что они развернут такие большие силы.
 We can try to <color\=#ff6060>continuously use the automated guns to draw the distant ELIDs over</color> and let them directly attack the URNC forces around the gate.=Мы можем попытаться <color\=#ff6060>постоянно использовать автоматические орудия, чтобы отвлечь на себя удаленные ЭЛИДы</color> и позволить им напрямую атаковать силы URNC вокруг ворот.
 This is the final hurdle. Be vigilant and don't expose yourselves to enemy fire.=Это последнее препятствие. Будьте бдительны и не подвергайте себя вражескому огню.
-Let's <color\=#ff6060>split up</color>. The more checkpoints we take, the more advantageous the situation will be for us.=Давайте <color\=#ff6060>расколоть</color>Чем больше контрольных точек мы возьмем, тем выгоднее для нас будет ситуация.
-We're here. We need to clear the breach.=Мы здесь. Нам нужно очистить пролом.
+Let's <color\=#ff6060>split up</color>. The more checkpoints we take, the more advantageous the situation will be for us.=Давайте <color\=#ff6060>разделимся</color>. Чем больше контрольно-пропускных пунктов мы захватим, тем выгоднее будет наша ситуация.
+We're here. We need to clear the breach.=Мы на месте. Нужно зачистить прорыв.
 There are enemies to the east!=На востоке враги!
-It's okay. The ELIDs will block them for us.=Все в порядке. ELIDы заблокируют их для нас.
-Get out of the way!=Убирайтесь с дороги!
+It's okay. The ELIDs will block them for us.=Всё в порядке. ЭЛИДы заблокируют их для нас.
+Get out of the way!=Уйди с дороги!
 Where did that bastard come from?=Откуда взялся этот ублюдок?
 System Voice=Голос системы
 Don't ruin it for me!=Не порти мне настроение!
@@ -14248,7 +14248,7 @@ Mutual Destruction=Взаимное уничтожение
 Mendo has obtained a new weapon: Viper=Мендо получил новое оружие: Гадюка
 Viper=Viper
 Each normal attack consists of {{A}} consecutive hits on the same target. \nWhen the hits connect, increase damage by {{B}}% for the second hit, and damage by {{C}}% for the third hit.=Каждая обычная атака состоит из {{A}} последовательных ударов по одной и той же цели. Когда удары соединяются, урон увеличивается на {{B}}% для второго удара и на {{C}}% для третьего.
-Continuous Fire=Непрерывный огонь
+Continuous Fire=Непрерывныйㅤогонь
 Consume all current AP (<color\=#ff8d48>cannot exceed 150% of Max AP</color>) and fire a powerful shot at the designated enemy unit. Each AP expended deals <color\=#ff8d48>damage equal to 70% of own attack</color> and removes attributes increase from the target.=Потребляет всю текущую AP (<color\=#ff8d48>не может превышать 150% от максимального AP</color>) и произвести мощный выстрел по указанному врагу. Каждая потраченная AP наносит <color\=#ff8d48>урон, равный 70% от собственной атаки</color> и удаляет атрибуты увеличения по сравнению с целью.
 <color\=#89f0ff>Increase accuracy by 15.</color> When attacking the same target, <color\=#89f0ff>increase damage by 30%</color> for 1 turn.=<color\=#89f0ff>Повышение точности на 15.</color> При атаке одной и той же цели, <color\=#89f0ff>увеличивает урон на 30%</color> на 1 ход.
 <color\=#ff8d48>Increase accuracy by 20.</color> When attacking the same target, <color\=#ff8d48>increase damage by 40%</color> for 1 turn.=<color\=#ff8d48>Повышение точности на 20.</color> При атаке одной и той же цели, <color\=#ff8d48>увеличивает урон на 40%</color> на 1 ход.
@@ -16037,8 +16037,8 @@ The exquisite decoration made by the Logistics Department reenacts the heroic ap
 Base Broadcast=Бродкаст
 Chapter {{A}}, Act {{B}}: Hunting Game=Глава {{A}}, Акт {{B}}: Охота на дичь
 Chapter {{A}}, Act {{B}}: Hunting Game=Глава {{A}}, Акт {{B}}: Охота на дичь
-Allied units don't use Normal Attack=Союзные части не используют обычную атаку
-Keep your eyes open. There's a lot of freaks around here.=Смотри в оба. Здесь полно уродов.
+Allied units don't use Normal Attack=Союзные подразделения не используют Обычную атаку.
+Keep your eyes open. There's a lot of freaks around here.=Будьте начеку. Здесь полно уродов.
 They may be hiding in the bushes.=Они могут прятаться в кустах.
 Atena, there's a lot of ELIDs and URNC soldiers gathered around the nearby checkpoint.=Атена, вокруг близлежащего блокпоста собралось много ЭЛИДов и солдат URNC.
 It's hard to sneak in. Can we launch a direct assault if necessary?=Трудно пробраться внутрь. Мы можем начать прямое нападение, если потребуется?
@@ -16046,27 +16046,27 @@ Try not to give away your position. Try to use the acoustic generators to guide 
 I'll take a look at the situation nearby.=Я посмотрю, как обстоят дела поблизости.
 There's another checkpoint we can use. It's just north of you.=Есть еще одна контрольная точка, которую мы можем использовать. Она находится к северу от вас.
 I'll get to that checkpoint as soon as I can, and I'll help you clear the way. Stay safe.=Я доберусь до контрольной точки, как только смогу, и помогу вам расчистить путь. Оставайтесь в безопасности.
-Okay, you be careful, too.=Ладно, ты тоже будь осторожен.
-Headquarters just confirmed the coordinates of the checkpoint that fired earlier!=Штаб только что подтвердил координаты контрольной точки, с которой ранее велся огонь!
-It's up ahead! Follow me, let's search it now!=Он впереди! Следуйте за мной, давайте поищем его!
-There are a lot of ELIDs around here, so keep your heads down and be careful.=В округе много ELID, так что не высовывайтесь и будьте осторожны.
+Okay, you be careful, too.=Ладно, ты тоже будь осторожна.
+Headquarters just confirmed the coordinates of the checkpoint that fired earlier!=Штаб только что подтвердил координаты контрольно-пропускного пункта, который ранее открыл огонь!
+It's up ahead! Follow me, let's search it now!=Он впереди! Следуйте за мной, давай поищем его сейчас!
+There are a lot of ELIDs around here, so keep your heads down and be careful.=В округе много ЭЛИДов, так что не высовывайтесь и будьте осторожны.
 I heard the AU spies are headed this way. They're probably hiding somewhere in the shadows.=Я слышал, что шпионы АС направляются сюда. Возможно, они прячутся где-то в тени.
 If there's a request for assistance on the comms, we're on it!=Если по связи поступит запрос о помощи, мы его выполним!
 Sir, we've arrived at the designated location.=Сэр, мы прибыли в указанное место.
 Machine Gunner=Пулеметчик
-<color\=#92b1ff>Alright, hurry up and search the nearby checkpoints. The AU must be hiding in one of them.</color>=<color\=#92b1ff>Поторопитесь обыскать ближайшие контрольно-пропускные пункты. АС должен прятаться в одном из них.</color>
+<color\=#92b1ff>Alright, hurry up and search the nearby checkpoints. The AU must be hiding in one of them.</color>=<color\=#92b1ff>Хорошо, поторопитесь и осмотрите ближайшие контрольно-пропускные пункты. AU должны прятаться в одном из них.</color>
 <color\=#92b1ff>Have the units split up and search. We must find the target!</color>=<color\=#92b1ff>Пусть отряды разделятся и начнут поиск. Мы должны найти цель!</color>
-Atena, watch out for the Assault Artillery reinforcements in the rear.=Атена, следите за штурмовым артиллерическим подкреплением сзади.
-Don't worry. I saw ELIDs wandering around the forest near them.=Не волнуйтесь. Я видел, как ЭЛИДы бродили по лесу неподалеку от них.
-There is a strong alarm signal to the northwest; it must be a sizable force!=На северо-западе слышен сильный сигнал тревоги; наверное, это крупные силы!
+Atena, watch out for the Assault Artillery reinforcements in the rear.=Атена, следи за штурмовым артиллерическим подкреплением сзади.
+Don't worry. I saw ELIDs wandering around the forest near them.=Не волнуйтесь. Я видела, как ЭЛИДы бродили по лесу неподалеку от них.
+There is a strong alarm signal to the northwest; it must be a sizable force!=На северо-западе сильный сигнал тревоги; наверное, это крупные силы!
 Sir, Vanguard Team {{A}} has arrived. Over.=Сэр, команда Авангарда {{A}} прибыла. Прием.
-All units, move out and capture the target now!=Всем подразделениям, выдвигаться и захватывать цель немедленно!
+All units, move out and capture the target now!=Всем подразделениям, выдвигаться и захватить цель немедленно!
 This looks like the main force. Concentrate your fire on them!=Похоже, это основные силы. Сосредоточьте огонь на них!
-Defeat the Elite Sniper reinforcement on the cliff		{{A}}=Победите элитный снайперский отряд на утесе {{A}}
-Defeat the Elite Sniper reinforcement on the cliff=Победите элитный снайперский отряд на утесе
+Defeat the Elite Sniper reinforcement on the cliff		{{A}}=Победите Элитный Снайперский отряд на утесе {{A}}
+Defeat the Elite Sniper reinforcement on the cliff=Победите Элитный Снайперский отряд на утесе
 Damn it! We can only defeat these monsters with the AA-{{A}}. Everyone, attack with me!=Проклятье! Мы можем победить этих монстров только с помощью AA-{{A}}. Все, атакуйте вместе со мной!
 Some ELIDs have appeared in the southwest. We can have them join the battle if needed.=На юго-западе появилось несколько ЭЛИДов. Если понадобится, мы можем пригласить их в бой.
-Tsk, the watchtower is still operational, so the game isn't over yet.=Сторожевая башня все еще работает, так что игра еще не закончена.
+Tsk, the watchtower is still operational, so the game isn't over yet.=Тьфу, сторожевая башня всё ещё работает, так что игра ещё не закончена.
 Werewolves, kill them all.=Оборотни, убейте их всех.
 Don't worry. Soon they won't be able to pull any more clever tricks.=Не волнуйтесь. Скоро они больше не смогут придумывать хитроумные трюки.
 Sugar and most of the Werewolf Commandos are already here.=Шугар и большинство Командос Оборотней уже здесь.
@@ -16082,8 +16082,8 @@ Each checkpoint is different, so keep an eye out for the time remaining displaye
 We don't have much time. More pursuers are coming from the north and west. Be careful.=У нас мало времени. Преследователи идут с севера и запада. Будьте осторожны.
 Take care to cover your tracks and keep your distance from the enemy.=Старайтесь заметать следы и держаться на расстоянии от врага.
 Looks like we've attracted a very important guest.=Похоже, мы привлекли очень важного гостя.
-It seems like it brought us quite a few helpers.=Похоже, что она принесла нам немало помощников.
-If we use them well, we should be able to suppress Sugar's troops.=Если мы хорошо их используем, то сможем подавить войска Шугара.
+It seems like it brought us quite a few helpers.=Похоже, он принес нам немало помощников.
+If we use them well, we should be able to suppress Sugar's troops.=Если мы хорошо их используем, то сможем подавить войска Шугар.
 Super Mutant Lambda is not defeated=Супермутант Лямбда не побежден
 Several checkpoints have lost power. We need to hurry.=На нескольких контрольно-пропускных пунктах пропало электричество. Нам нужно спешить.
 Damaged Jammer=Поврежденный глушитель
@@ -19512,7 +19512,7 @@ A squad commanded by Carl Mindefeld that was formed to carry out "Operation Bake
 A fire support squad under TASA, formed for the purposes of "Operation Bakery" and commanded by Captain Jevon Sterling. Squad Razor is responsible for securing Squad Fox's extraction route. In the early phases of the operation, they are to establish safe houses, establish extraction points and provide fire support when necessary.=Отряд огневой поддержки под командованием TASA, сформированный для выполнения "Операции Пекарня" и возглавляемый капитаном Джеоном Стерлингом. Отряд Razor отвечает за обеспечение маршрута эвакуации для отряда Fox. На ранних этапах операции им предстоит организовать укрытия, установить точки эвакуации и предоставлять огневую поддержку по мере необходимости.
 Operation Bakery is a covert operation initiated by the Antarctic Union to extract a VIP codenamed "Bakery" from the Caucasus region, within the area of the URNC's military jurisdiction. In 2092, the AU's MID intercepted intelligence regarding the URNC's discovery of subject "G-179" Jefuty's movements. As a result, they clandestinely deployed eight agents into the Caucasus region to make contact with and extract the subject. \nThe operation was commanded by Captain Carl Mindefield. The eight agents were split into two teams and inserted into the mountains 20km west of the city of Teberda, in the Karachay region. There, they would conduct preliminary surveillance and reconnaissance. After making contact with their target, a third team from TASA would assist in their evacuation.=LOL
 Dr. Philip Martin, a physicist, the former Director at the Antarctic Union Microphysics Research Institute. He was instrumental in the Antarctic Union's efforts in the research and development of Relic technology. \nAt the young age of {{A}}, he was invited to the Antarctic Union's Research Institute of Microphysics, where he made significant contributions to the establishment of supercomputer microscopic models and the derivation of the Reverse Collapse theoretical formula. He had also proposed some theoretical hypotheses on the molecular flow transition technology. \nKnown for his affable nature, he married Helena Oberstein in {{B}}. The couple had a son, Mendo, in {{C}}.=Доктор Филип Мартин, физик, бывший директор Исследовательского института микрофизики Антарктического союза. Он сыграл важную роль в усилиях Антарктического союза по исследованиям и разработке технологий реликвий. В молодом возрасте {{A}} он был приглашен в исследовательский институт микрофизики Антарктического союза, где он внес значительный вклад в создание суперкомпьютерных микроскопических моделей и получения теоретической формулы обратного коллапса. Он также предложил некоторые теоретические гипотезы о технологии перехода молекулярного потока. Известный своим приветливым характером, он женился на Хелене Оберштейн в {{B}}. У пары был сын Мендо, в {{C}}.
-Dr. Helena Martin, a physicist, and the Deputy Director of the Collapse Radiation and Gene Medicine Institute of the Antarctic Union Military Medical Research Institute. \nShe worked alongside Philip Martin at the institute, and the two got married in {{A}}. Two years later, they welcomed their son, Mendo.\n=Доктор Хелена Мартин, физик, заместитель директора Института радиационной и генной медицины Антарктического союза Военно-медицинского научно-исследовательского института. Она работала в институте вместе с Филипом Мартином, и они поженились в ЗМЦЗ. Два года спустя у них родился сын Мендо.\n
+Dr. Helena Martin, a physicist, and the Deputy Director of the Collapse Radiation and Gene Medicine Institute of the Antarctic Union Military Medical Research Institute. \nShe worked alongside Philip Martin at the institute, and the two got married in {{A}}. Two years later, they welcomed their son, Mendo.\n=Доктор Хелена Мартин, физик и заместитель директора Института радиации коллапса и генной медицины Военно-медицинского исследовательского института Союза Антарктики.\nОна работала вместе с Филиппом Мартином в институте, и они поженились в {{A}}. Через два года у них родился сын, Мендо.
 Lieutenant Anderson King, born in {{A}}, is an AU officer attached to the MID's Seventh Division. He is a seasoned field operative with a history of complex operations. \nHe is a junior of Captain Carl Mindefeld and was influenced by Carl to join MID to carry out intelligence missions.=Лейтенант Андерсон Кинг, уроженец ЗМСЗ, - офицер АС, прикомандированный к седьмому отделу MID. Он опытный оперативник с опытом проведения сложных операций. Он - младший ученик капитана Карла Миндефельда, и под влиянием Карла поступил в MID для выполнения разведывательных миссий.
 Heavy Coat=Тяжелое пальто
 Consume <color\=#fffd90>100 Parts</color> to produce <color\=#ff8d48>1 of Medicine</color>?=Израсходовать <color\=#fffd90>100 детали</color> для производства <color\=#ff8d48>1 медицины</color>?
@@ -19561,3 +19561,63 @@ PU {{A}}x Optical Sight=Оптический прицел PU {{A}}x
 After completing a chapter, the <color\=#ff8d48>Replay Mode</color> can be accessed. \n\nIn Replay Mode, all unlocked content can be <color\=#ff8d48>re-challenged</color>. Entering the next chapter will <color\=#ff8d48>temporarily disable</color> Replay Mode. Completing the next chapter will re-enable Replay Mode. \n\nTry to achieve higher battle ranks and collect all Confidential Files.=После завершения главы, <color\=#ff8d48>Режим воспроизведения</color> можно получить доступ.\n\nВ режиме повтора все разблокированные материалы можно <color\=#ff8d48>повторно зарегистрировано</color>Полем Вход в следующую главу будет <color\=#ff8d48>временно отключить</color> Завершение следующей главы снова включит режим повторного прохождения.\n\nПостарайтесь получить более высокие боевые ранги и собрать все конфиденциальные файлы.
 After switching to Casual mode, the difficulty cannot be changed. Continue?=После переключения в режим Истории сложность не может быть изменена. Продолжить?
 Codename "William", name unknown, age unknown. A biologist, archaeologist, academician of the <keyword\=7>URNC</keyword> Department of Science and Technology, a key figure in the URNC <keyword\=9>Relic Agency</keyword>, and one of the technical directors behind the "GAVIRUL Project".       \nWilliam is known for his cold and arrogant nature, meticulousness, and refusal to form personal relationships outside of academic discussions. He has no close colleagues to speak of. In addition to his expertise in biology, genetics, and archaeology, he also demonstrates high academic proficiency in artificial intelligence, cloning, medicine, and other fields.=Кодовое имя «Уильям», настоящее имя неизвестно, возраст неизвестен. Биолог, археолог, академик Департамента науки и технологий <keyword\=7>URNC</keyword>, ключевая фигура <keyword\=9>Агентства Реликтов</keyword> и один из технических директоров «Проекта GAVIRUL».  \n\nУильям известен своим холодным и высокомерным характером, дотошностью и отказом от личных связей вне академических обсуждений. У него нет близких коллег. Помимо экспертизы в биологии, генетике и археологии, он также обладает высокой академической квалификацией в области искусственного интеллекта, клонирования, медицины и других дисциплин.
+Backpack <color\=#56B8C0>6/</color>6 Storage34=Рюкзак <color\=#56B8C0>6/</color>6 Хранилище34
+Backpack <color\=#56B8C0>25/</color>25 Storage14=Рюкзак <color\=#56B8C0>25/</color>25 Хранилище14
+Backpack <color\=#56B8C0>6/</color>6 Storage42=Рюкзак <color\=#56B8C0>6/</color>6 Хранилище42
+Backpack <color\=#56B8C0>0/</color>6 Storage30=Рюкзак <color\=#56B8C0>0/</color>6 Хранилище30
+Backpack <color\=#56B8C0>20/</color>20 Storage17=Рюкзак <color\=#56B8C0>20/</color>20 Хранилище17
+Backpack <color\=#56B8C0>0/</color>6 Storage82=Рюкзак <color\=#56B8C0>0/</color>6 Хранилище82
+<color\=#b26322>3~8</color>=<color\=#b26322>3~8</color>
+Looks like the maggots are no match for Jefuty~=Похоже, эти личинки не соперники для Джефути.~.
+Looks like it's time for the main event~=Похоже, пришло время для главного события~
+All of you, make sure you don't lose the girl with the white hair!=Все вы, убедитесь, что не потеряете девушку с белыми волосами!
+Shit, enemies on the cliff!=Черт, враги на скале!
+Target within range! Don't let them cross the bridge!=Цель в пределах досягаемости! Не дайте им пересечь мост!
+Ahhh!=А-а-а!
+Help! Why are there so many ELIDs?!=Помогите! Почему так много ЭЛИДов?!
+Call for backup! Call for backup!=Запрашиваю поддержку! Запрашиваю поддержку!
+E-ELIDs!!! Open fire! Now!=Э-ЭЛИДЫ!!! Открыть огонь! Живо!
+I didn't realize these monsters were so sensitive to low frequencies...=Я и не думала, что эти монстры так чувствительны к низким частотам...
+You cross the bridge first. I'll meet up with you as soon as I use the extra acoustic generators to distract them.=Ты переходи мост первым. Я догоню тебя, как только использую дополнительные акустические генераторы, чтобы отвлечь их.
+But how will you—=Но как ты...
+Go! Only I can deal with them! You can't stay in an environment with Epiphyllums for long.=Только я могу с ними справиться! Нельзя долго находиться в окружении эпифиллумов.
+Fine, but be careful.=Хорошо, но будь осторожна.
+Why is there another one hiding here?!=Почему здесь прячется ещё один?!
+Target sighted, commencing capture.=Цель обнаружена, начинаю захват.
+Lige... Is it really you?=Лидж... Это правда ты?
+ELIDs?!=ЭЛИДЫ?!
+Get out of here!=Убирайся отсюда!
+Was she eaten by an ELID?!=Её съел ELID?!
+What are we supposed to do? Are we too late to save her?=Что нам делать? Мы опоздали, чтобы спасти её?
+She... she's dissolving the ELIDs?!=Она... она пожирает ELIDов?!
+Huh? How could this be...?=А? Как это может быть...?
+Is she devouring the ELIDs to protect her sister...?=Она пожирает ЭЛИДов, чтобы защитить свою сестру...?
+Interesting...=Интересно...
+Mendo! Get away from her!=Мендо! Отойди от нее!
+Let's get her out of here while she's incapacitated and before the URNC reinforcements get here!=Давайте заберем её отсюда, пока она обездвижена, и до того, как приедет подкрепление URNC!
+Don't go! She's out of control! You won't survive touching her!=Не подходи к ней! Она неуправляема! Ты не выживешь, если прикоснешься к ней!
+But she...=Но она...
+Run! Go!=Беги! Давай!
+Chapter {{A}}, Act {{B}}: Crossroad=Глава {{A}}, Акт {{B}}: Перекресток
+3900x<color\=#ff9600>1,4</color>x<color\=#ff9600>0,3</color>\=<color\=#ff9600>1638</color>=3900x<color\=#ff9600>1,4</color>x<color\=#ff9600>0,3</color>"\="<color\=#ff9600>1638</color>
+Backpack <color\=#56B8C0>5/</color>5 Storage8=Рюкзак <color\=#56B8C0>5/</color>5 Хранение8
+Backpack <color\=#56B8C0>0/</color>4 Storage58=Рюкзак <color\=#56B8C0>0/</color>4 Хранение58
+Memory Point=Точка памяти
+Item for accelerating the flow of time. When initiating Visual Leap in Act {{A}}, each Leap point consumed allows skipping one unlocked battle on the subsequent timeline.=Предмет для ускорения течения времени. При инициации Визуального скачка в акте {{A}} каждое потраченное очко скачка позволяет пропустить одну разблокированную битву на последующей временной шкале.
+Designs for special upgrades for different weapon advantages. Can upgrade the weapon to Rank {{A}}.=Конструкции специальных улучшений для различных преимуществ оружия. Можно улучшить оружие до ранга {{A}}.
+Advanced Upgrade Blueprint=Продвинутый план обновления
+A short fragment about Lige and Jefuty searching for ways to counter the Shrike.=Небольшой фрагмент о том, как Лиге и Джефути ищут способы противостоять Шрайку.
+Memory Fragment IV=Фрагмент памяти IV
+A short fragment about Lige and Jefuty doing experiments together.=Небольшой фрагмент о том, как Лиге и Жефути вместе проводят эксперименты.
+Memory Fragment III=Фрагмент памяти III
+A short fragment hidden deep inside Lige's memory.=Короткий фрагмент, спрятанный глубоко в памяти Лиге.
+Memory Fragment I=Фрагмент памяти I
+A short fragment about the relationship between Lige and Jefuty.=Небольшой фрагмент об отношениях между Лиге и Жефути.
+Memory Fragment II=Фрагмент памяти II
+High voltage electronic integrated device, an essential component for crafting electric turrets.=Высоковольтное электронное интегральное устройство, необходимый компонент для создания электрических турелей.
+Military ​​modular turret modification kit, used to upgrade a medium turret into a heavy turret.=Военный модульный набор для модификации башни, используемый для модернизации средней башни в тяжелую.
+Core component of military electronic pulse equipment, used to modify EMP Grenades into sensor-triggered mines.=Основной компонент военного электронно-импульсного оборудования, используемый для модификации ЭМИ-гранат в мины с сенсорным управлением.
+A device capable of generating high-energy electron barriers, an essential component for crafting high-energy barricades.=Устройство, способное генерировать высокоэнергетические электронные барьеры, необходимый компонент для создания высокоэнергетических баррикад.
+A small projector utilizing state-of-the-art hologram technology, the key component for crafting holographic projections.=Небольшой проектор, использующий самую современную технологию голограмм, ключевой компонент для создания голографических проекций.
+Stock Traits=Чертыㅤприклада
+Featherlight=Лёгкийㅤкакㅤпёрышко
