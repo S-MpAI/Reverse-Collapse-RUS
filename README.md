@@ -7,7 +7,10 @@
   ![License](https://img.shields.io/github/license/S-MpAI/Reverse-Collapse-RUS?label=License&style=flat-square)
   ![Contributors](https://img.shields.io/github/contributors/S-MpAI/Reverse-Collapse-RUS?label=Contributors&style=flat-square)
   ![Issues](https://img.shields.io/github/issues/S-MpAI/Reverse-Collapse-RUS?label=Issues&style=flat-square)
+  <br>
   [![wakatime](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS.svg)](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS)
+  ![Badgen.net](https://badgen.net/github/last-commit/S-MpAI/Reverse-Collapse-RUS)
+  ![Badgen.net](https://badgen.net/github/assets-dl/S-MpAI/Reverse-Collapse-RUS)
   <br>
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
