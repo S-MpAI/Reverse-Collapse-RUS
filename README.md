@@ -11,11 +11,11 @@
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
 </div>
-
-<h2  align="center">🚀 Версия v.3.2.0</h2>
+<h2  align="center">🚀 Версия v.3.3.0</h2>
 <h3  align="left">🔹 Что изменилось:</h3>
 <ul style="text-align: left;">
-    <li>Переведен <b>2 Акт 3 Главы</b></li>
+    <li>Переведен <b>3 Акт 3 Главы</b></li>
+    <li>Изменен перевод некоторых эффектов и статусов</li>
 </ul>
 
 <br>
@@ -97,8 +97,15 @@
 <br>
 <!-- <h2 align="center">📌 Список изменений</h2> -->
 <details align="center">
-        <summary><h2>📌 Список изменений</h2></summary>
-        <details align="left">
+    <summary><h2>📌 Список изменений</h2></summary>
+    <details align="left">
+        <summary>📂 Версия v.3.2.0</summary>
+        <h3>🔹 Что изменилось:</h3>
+        <ul style="text-align: left;">
+            <li>Переведен <b>2 Акт 3 Главы</b></li>
+        </ul>
+    </details>
+    <details align="left">
         <summary>📂 Версия v.3.1.2</summary>
         <h3>🔹 Что изменилось:</h3>
         <ul style="text-align: left;">
