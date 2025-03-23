@@ -1,5 +1,5 @@
-<h1 align="center">Reverse-Collapse-RUS</h1>
-<h6 align="center">Фанатский перевод на Русский язык игры Reverse Collapse: Code Name Bakery</h6>
+<h1 align="center">🏔 Reverse Collapse: Code Name Bakery [RUS]</h1>
+<h6 align="center">Фанатский перевод на Русский язык игры <a href="https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/">Reverse Collapse: Code Name Bakery</a></h6>
 <div align="center">
 
   ![Version](https://img.shields.io/github/v/release/S-MpAI/Reverse-Collapse-RUS?label=Version&style=flat-square)
@@ -14,12 +14,11 @@
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
 </div>
-<h2  align="center">🚀 Версия v.3.4.0</h2>
+<h2  align="center">🚀 Версия v.3.5.0</h2>
 <h3  align="left">🔹 Что изменилось:</h3>
 <ul style="text-align: left;">
-    <li>Изменен лексикон связанный с переводом строк типа <code>Inner Caucasus theater base</code></li>
-    <li>Переведен <b>4 Акт 3 Главы</b></li>
-    <li>Переведен <b>перерыв 4 Акта 3 Главы</b></li>
+    <li>Изменен лексикон некоторых слов.</li>
+    <li>Переведен <b>5 Акт 3 Главы</b></li>
 </ul>
 
 <br>
@@ -103,6 +102,15 @@
 <details align="center">
     <summary><h2>📌 Список изменений</h2></summary>
         <details align="left">
+        <summary>📂 Версия v.3.4.0</summary>
+        <h3>🔹 Что изменилось:</h3>
+        <ul style="text-align: left;">
+            <li>Изменен лексикон связанный с переводом строк типа <code>Inner Caucasus theater base</code></li>
+            <li>Переведен <b>4 Акт 3 Главы</b></li>
+            <li>Переведен <b>перерыв 4 Акта 3 Главы</b></li>
+        </ul>
+    </details>
+    <details align="left">
         <summary>📂 Версия v.3.3.1</summary>
         <h3>🔹 Что изменилось:</h3>
         <ul style="text-align: left;">
@@ -206,6 +214,5 @@
             <li>Точечные переводы сломанных слов от авто-переводчика</li>
         </ul>
     </details>
-    </details>
-    
-<!-- </details> -->
+</details>
+
