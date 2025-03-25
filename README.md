@@ -14,11 +14,11 @@
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
 </div>
-<h2  align="center">🚀 Версия v.3.5.0</h2>
+<h2  align="center">🚀 Версия v.3.6.0</h2>
 <h3  align="left">🔹 Что изменилось:</h3>
 <ul style="text-align: left;">
     <li>Изменен лексикон некоторых слов.</li>
-    <li>Переведен <b>5 Акт 3 Главы</b></li>
+    <li>Переведен <b>6 Акт 3 Главы</b></li>
 </ul>
 
 <br>
@@ -28,43 +28,6 @@
 
 <br>
  -->
-
-<table>
-        <tr>
-            <th>Название главы</th>
-            <th>Статус</th>
-        </tr>
-        <tr>
-            <td>1 Глава</td>
-            <td>
-              <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/" alt="1">
-            </td>
-        </tr>
-        <tr>
-            <td>2 Глава</td>
-            <td>
-              <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/" alt="2">
-            </td>
-        </tr>
-        <tr>
-            <td>3 Глава</td>
-            <td>
-              <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/" alt="3">
-            </td>
-        </tr>
-        <tr>
-            <td>4 Глава</td>
-            <td>
-              <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/" alt="4">
-            </td>
-        </tr>
-          <tr>
-            <td>5 Глава</td>
-            <td>
-              <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/" alt="5">
-            </td>
-        </tr>
-    </table>
 
 <h2 align="center">💾 Конфиденциальные документы</h2>
 <table>
@@ -139,6 +102,14 @@
 <details align="center">
     <summary><h2>📌 Список изменений</h2></summary>
         <details align="left">
+        <summary>📂 Версия v.3.5.0</summary>
+        <h3>🔹 Что изменилось:</h3>
+        <ul style="text-align: left;">
+            <li>Изменен лексикон некоторых слов.</li>
+            <li>Переведен <b>5 Акт 3 Главы</b></li>
+        </ul>
+    </details>
+    <details align="left">
         <summary>📂 Версия v.3.4.0</summary>
         <h3>🔹 Что изменилось:</h3>
         <ul style="text-align: left;">
