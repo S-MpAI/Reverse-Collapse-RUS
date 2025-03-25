@@ -22,6 +22,43 @@
 </ul>
 
 <br>
+<table>
+         <tr>
+             <th>Название главы</th>
+             <th>Статус</th>
+         </tr>
+         <tr>
+             <td>1 Глава</td>
+             <td>
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/" alt="1">
+             </td>
+         </tr>
+         <tr>
+             <td>2 Глава</td>
+             <td>
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/" alt="2">
+             </td>
+         </tr>
+         <tr>
+             <td>3 Глава</td>
+             <td>
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/" alt="3">
+             </td>
+         </tr>
+         <tr>
+             <td>4 Глава</td>
+             <td>
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/" alt="4">
+             </td>
+         </tr>
+           <tr>
+             <td>5 Глава</td>
+             <td>
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/" alt="5">
+             </td>
+         </tr>
+     </table>
+<br>
 
 <!-- > [!CAUTION]
 > .
