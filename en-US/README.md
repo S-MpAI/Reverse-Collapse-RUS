@@ -2,8 +2,20 @@
 <h6 align="center">Fan translation into Russian of the game <a href="https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/">Reverse Collapse: Code Name Bakery</a> </h6>
 <div align="center">
 </div>
-<p data-md-type="paragraph"><img src="https://img.shields.io/github/v/release/S-MpAI/Reverse-Collapse-RUS?label=Version&amp;style=flat-square" alt="Version" data-md-type="image"> <img src="https://img.shields.io/github/license/S-MpAI/Reverse-Collapse-RUS?label=License&amp;style=flat-square" alt="License" data-md-type="image"> <img src="https://img.shields.io/github/contributors/S-MpAI/Reverse-Collapse-RUS?label=Contributors&amp;style=flat-square" alt="Contributors" data-md-type="image"> <img src="https://img.shields.io/github/issues/S-MpAI/Reverse-Collapse-RUS?label=Issues&amp;style=flat-square" alt="Issues" data-md-type="image"> <br data-md-type="raw_html"> <a href="https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS" data-md-type="link"></a><img src="https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS.svg" alt="wakatime" data-md-type="image" class=""> <img src="https://badgen.net/github/last-commit/S-MpAI/Reverse-Collapse-RUS" alt="last commit" data-md-type="image"> <img src="https://badgen.net/github/assets-dl/S-MpAI/Reverse-Collapse-RUS" alt="Downloads" data-md-type="image"> <br data-md-type="raw_html"></p>
-<p data-md-type="paragraph"><img src="https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg" data-md-type="image" alt="Axiom"></p>
+<p data-md-type="paragraph">
+    <img src="https://img.shields.io/github/v/release/S-MpAI/Reverse-Collapse-RUS?label=Version&amp;style=flat-square" alt="Version" data-md-type="image"> 
+    <img src="https://img.shields.io/github/license/S-MpAI/Reverse-Collapse-RUS?label=License&amp;style=flat-square" alt="License" data-md-type="image"> 
+    <img src="https://img.shields.io/github/contributors/S-MpAI/Reverse-Collapse-RUS?label=Contributors&amp;style=flat-square" alt="Contributors" data-md-type="image"> 
+    <img src="https://img.shields.io/github/issues/S-MpAI/Reverse-Collapse-RUS?label=Issues&amp;style=flat-square" alt="Issues" data-md-type="image"> 
+    <br data-md-type="raw_html"> 
+    <a href="https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS" data-md-type="link"></a>
+    <img src="https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS.svg" alt="wakatime" data-md-type="image" class=""> 
+    <img src="https://badgen.net/github/last-commit/S-MpAI/Reverse-Collapse-RUS" alt="last commit" data-md-type="image"> 
+    <img src="https://badgen.net/github/assets-dl/S-MpAI/Reverse-Collapse-RUS" alt="Downloads" data-md-type="image"> 
+    <a href="https://gitlocalize.com/repo/10131/en-US?utm_source=badge"> <img src="https://gitlocalize.com/repo/10131/en-US/badge.svg" /> </a>
+    <br data-md-type="raw_html"></p>
+    <p data-md-type="paragraph">
+    <img src="https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg" data-md-type="image" alt="Axiom"></p>
 <div data-md-type="block_html"></div>
 <h2 align="center">🚀 Version v.3.6.0</h2>
 <h3 align="left">🔹 What's changed:</h3>
