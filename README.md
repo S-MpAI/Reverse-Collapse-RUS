@@ -10,6 +10,7 @@
   [![wakatime](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS.svg)](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS)
   ![last commit](https://badgen.net/github/last-commit/S-MpAI/Reverse-Collapse-RUS)
   ![Downloads](https://badgen.net/github/assets-dl/S-MpAI/Reverse-Collapse-RUS)
+  [![gitlocalized ](https://gitlocalize.com/repo/10131/whole_project/badge.svg)](https://gitlocalize.com/repo/10131?utm_source=badge)
   <br>
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
