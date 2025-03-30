@@ -9,17 +9,18 @@
   <br>
   [![wakatime](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS.svg)](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS)
   ![last commit](https://badgen.net/github/last-commit/S-MpAI/Reverse-Collapse-RUS)
-  ![Downloads](https://badgen.net/github/assets-dl/S-MpAI/Reverse-Collapse-RUS)
+  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/S-MpAI/Reverse-Collapse-RUS/total?style=flat)
   [![gitlocalized ](https://gitlocalize.com/repo/10131/whole_project/badge.svg)](https://gitlocalize.com/repo/10131?utm_source=badge)
   <br>
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
 </div>
-<h2  align="center">🚀 Версия v.3.6.0</h2>
+<h2  align="center">🚀 Версия v.3.8.0</h2>
 <h3  align="left">🔹 Что изменилось:</h3>
 <ul style="text-align: left;">
+    <li>Изменен текст и размер некоторых слов в Коллекции</li>
     <li>Изменен лексикон некоторых слов.</li>
-    <li>Переведен <b>6 Акт 3 Главы</b></li>
+    <li>Переведен <b>8 Акт 3 Главы</b></li>
 </ul>
 
 <br>
@@ -139,7 +140,15 @@
 <!-- <h2 align="center">📌 Список изменений</h2> -->
 <details align="center">
     <summary><h2>📌 Список изменений</h2></summary>
-        <details align="left">
+    <details align="left">
+        <summary>📂 Версия v.3.6.0</summary>
+        <h3>🔹 Что изменилось:</h3>
+        <ul style="text-align: left;">
+            <li>Изменен лексикон некоторых слов.</li>
+            <li>Переведен <b>6 Акт 3 Главы</b></li>
+        </ul>
+    </details>
+    <details align="left">
         <summary>📂 Версия v.3.5.0</summary>
         <h3>🔹 Что изменилось:</h3>
         <ul style="text-align: left;">
