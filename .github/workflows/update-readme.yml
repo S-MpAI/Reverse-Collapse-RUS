@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    # Запускается каждый день в 00:00 UTC
+    - cron: '0 0 * * *'
+  # Позволяет запускать вручную через GitHub UI
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: Update README
+        run: |
+          echo "Последнее обновление: $(date)" > README.md
+
+      - name: Commit and Push changes
+        run: |
+          git add README.md
+          git commit -m "Daily README update" || echo "No changes to commit"
+          git push
