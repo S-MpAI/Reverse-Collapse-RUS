@@ -280,7 +280,3 @@
     </details>
 </details>
 
-<div align="center">
-  
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FS-MpAI%2FReverse-Collapse-RUS&labelColor=%23697689&countColor=%232ccce4&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FS-MpAI%2FReverse-Collapse-RUS)
-</div> 
