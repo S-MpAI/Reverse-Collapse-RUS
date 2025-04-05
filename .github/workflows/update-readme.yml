@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     # Запускается каждый день в 00:00 UTC
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 0'
   # Позволяет запускать вручную через GitHub UI
   workflow_dispatch:
 
@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Setup Git
         run: |
