@@ -1,0 +1,35 @@
+name: ✅ PR
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  lint-pr-title:
+    name: Check PR Title
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: 🛠️ Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: 🔧 Setup Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: 📝 Update README with timestamp and badges
+        run: |
+          # ⏳ Обновление временной метки бейджей
+          TIMESTAMP=$(date +%s)
+          echo "✅ Pull request: $TIMESTAMP"
