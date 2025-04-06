@@ -36,15 +36,23 @@ jobs:
           sed -i "s|\(https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/[1-5]/progress/?t=\)[0-9]\+|\1$TIMESTAMP|g" README.md
           echo "✅ Updated badges with timestamp: $TIMESTAMP"
           
-          # 📅 Обновление существующей строки "Последнее обновление"
+          # 📅 Обновление или добавление строки "Последнее обновление"
           if grep -q "✨ Последнее обновление:" README.md; then
             sed -i "s|✨ Последнее обновление:.*|✨ Последнее обновление: $(date)|" README.md
+            echo "🔄 Updated existing last update line"
           else
             echo "✨ Последнее обновление: $(date)" >> README.md
+            echo "➕ Added new last update line"
           fi
 
       - name: 💾 Commit and Push changes
         run: |
           git add README.md
           echo "🔍 Checking for changes in README.md"
-          git diff --quiet README.md || (git commit -m "🎉 Updated badges and README - $TIMESTAMP [skip ci]" && git push) || echo "⚠️ No changes to commit"
+          if ! git diff --quiet README.md; then
+            git commit -m "🎉 Updated badges and README - $TIMESTAMP [skip ci]"
+            git push
+            echo "✅ Changes committed and pushed"
+          else
+            echo "⚠️ No changes to commit"
+          fi
