@@ -49,7 +49,7 @@ jobs:
         run: |
           git add README.md
           echo "🔍 Checking for changes in README.md"
-          if ! git diff --quiet README.md; then
+          if ! git diff --quiet --staged; then
             git commit -m "🎉 Updated badges and README - $TIMESTAMP [skip ci]"
             git push
             echo "✅ Changes committed and pushed"
