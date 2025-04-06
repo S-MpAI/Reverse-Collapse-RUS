@@ -1,30 +1,46 @@
-name: ✅ Scheduled README
+name: ✨ Update README.md
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'  # 🚀 Запуск при изменении README.md
   schedule:
-    - cron: '0 0 * * 0'
-  workflow_dispatch:
+    - cron: '0 0 * * 0'  # ⏰ Еженедельный запуск в воскресенье в 00:00 UTC
+  workflow_dispatch:  # 🖐️ Ручной запуск
 
 jobs:
-  update-readme:
+  update-readme-and-badges:
     runs-on: ubuntu-latest
     steps:
-          - name: Checkout repository
-            uses: actions/checkout@v3
-            with:
-              token: ${{ secrets.PAT_TOKEN }}
-    
-          - name: Setup Git
-            run: |
-              git config user.name "GitHub Action"
-              git config user.email "action@github.com"
-    
-          - name: Update README
-            run: |
-              echo "Последнее обновление: $(date)" >> README.md
-    
-          - name: Commit and Push changes
-            run: |
-              git add README.md
-              git commit -m "Weekly README update" || echo "No changes to commit"
-              git push
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: 🛠️ Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: 🔧 Setup Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: 📝 Update README with timestamp and badges
+        run: |
+          # ⏳ Обновление временной метки бейджей
+          TIMESTAMP=$(date +%s)
+          sed -i "s|\(https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/[1-5]/progress/?t=\)[0-9]\+|\1$TIMESTAMP|g" README.md
+          echo "✅ Updated badges with timestamp: $TIMESTAMP"
+          
+          # 📅 Добавление даты последнего обновления
+          echo "✨ Последнее обновление: $(date)" >> README.md
+
+      - name: 💾 Commit and Push changes
+        run: |
+          git add README.md
+          git commit -m "🎉 Updated badges and README - $TIMESTAMP" || echo "⚠️ No changes to commit"
+          git push
