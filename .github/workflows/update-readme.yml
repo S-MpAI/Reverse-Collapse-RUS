@@ -1,4 +1,4 @@
-name: ✨ Update README.md
+name: ✨ Update README
 
 on:
   push:
@@ -42,5 +42,5 @@ jobs:
       - name: 💾 Commit and Push changes
         run: |
           git add README.md
-          git commit -m "🎉 Updated badges and README - $TIMESTAMP" || echo "⚠️ No changes to commit"
+          git commit -m "🎉 Updated badges and README - $TIMESTAMP [skip ci]" || echo "⚠️ No changes to commit"
           git push
