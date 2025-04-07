@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        
+      - name: Install dependencies
+        run: npm install @actions/github @actions/core axios
       
       - name: Check translations with DeepL
         uses: S-MpAI/deepl-translation-verifier@v0.0.5  # Указываем версию action
