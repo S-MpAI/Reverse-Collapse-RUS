@@ -20,7 +20,7 @@ jobs:
         run: npm install @actions/github @actions/core axios
       
       - name: Check translations with DeepL
-        uses: S-MpAI/deepl-translation-verifier@v0.0.5  # Указываем версию action
+        uses: S-MpAI/deepl-translation-verifier@v0.0.6  # Указываем версию action
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}  # Ключ API DeepL из секретов
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    # Токен GitHub для записи в репозиторий
