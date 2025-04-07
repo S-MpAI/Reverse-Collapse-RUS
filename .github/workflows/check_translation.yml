@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Check translations with DeepL
-        uses: S-MpAI/deepl-translation-verifier@v0.0.6
+        uses: S-MpAI/deepl-translation-verifier@v0.0.7
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
