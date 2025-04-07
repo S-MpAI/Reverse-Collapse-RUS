@@ -1,4 +1,4 @@
-name: Check Translations
+name: 🏔 Translations
 
 on:
   workflow_dispatch:
