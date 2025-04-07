@@ -1,6 +1,7 @@
 name: Check Translations
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '*Translations.txt'  # Файлы с переводами
