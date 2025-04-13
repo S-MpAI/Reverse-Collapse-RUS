@@ -1,5 +1,6 @@
 <h1 align="center">🏔 Reverse Collapse: Code Name Bakery [RUS]</h1>
 <h6 align="center">Фанатский перевод на Русский язык игры <a href="https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/">Reverse Collapse: Code Name Bakery</a></h6>
+<h6 align="center">Этот проект представляет собой открытый источник для перевода игры <a href="https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/">Reverse Collapse: Code Name Bakery</a> на русский язык. <br> Поскольку разработчики игры не добавили официальную русскоязычную локализацию, я решил создать перевод для русскоязычного сообщества, чтобы игроки могли лучше понимать сюжет и происходящее в игре. </h6>
 <div align="center">
 
   ![Version](https://img.shields.io/github/v/release/S-MpAI/Reverse-Collapse-RUS?label=Version&style=flat-square)
