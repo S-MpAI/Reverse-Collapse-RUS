@@ -16,12 +16,11 @@
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
 </div>
-<h2  align="center">🚀 Версия v.4.0.0</h2>
+<h2  align="center">🚀 Версия v.4.1b.0</h2>
 <h3  align="left">🔹 Что изменилось:</h3>
 <ul style="text-align: left;">
-    <li>Добавлен отступ для вывода информации типа <code>Приоритет атаки</code> по отдельности</li>
-    <li>Исправлен формат времени под <code>A.M</code> и <code>P.M</code></li>
-    <li>Переведен <b>Пролог 4 Главы</b></li>
+    <li>Исправлен формат отображения названий категорий внутри таблицы в  <code>Помощь в игре</code></li>
+    <li>Переведен <b>1 Акт B ветки 4 Главы</b></li>
 </ul>
 
 <br>
@@ -33,31 +32,31 @@
          <tr>
              <td>1 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t={{TIMESTAMP}}" alt="1">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t=123456789" alt="1">
              </td>
          </tr>
          <tr>
              <td>2 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t={{TIMESTAMP}}" alt="2">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t=123456789" alt="2">
              </td>
          </tr>
          <tr>
              <td>3 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t={{TIMESTAMP}}" alt="3">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t=123456789" alt="3">
              </td>
          </tr>
          <tr>
              <td>4 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t={{TIMESTAMP}}" alt="4">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t=123456789" alt="4">
              </td>
          </tr>
            <tr>
              <td>5 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t={{TIMESTAMP}}" alt="5">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t=123456789" alt="5">
              </td>
          </tr>
      </table>
@@ -141,6 +140,15 @@
 <!-- <h2 align="center">📌 Список изменений</h2> -->
 <details align="center">
     <summary><h2>📌 Список изменений</h2></summary>
+    <details align="left">
+        <summary>📂 Версия v.4.0.0</summary>
+        <h3>🔹 Что изменилось:</h3>
+        <ul style="text-align: left;">
+            <li>Добавлен отступ для вывода информации типа <code>Приоритет атаки</code> по отдельности</li>
+            <li>Исправлен формат времени под <code>A.M</code> и <code>P.M</code></li>
+            <li>Переведен <b>Пролог 4 Главы</b></li>
+        </ul>
+    </details>
     <details align="left">
         <summary>📂 Версия v.3.8.0</summary>
         <h3>🔹 Что изменилось:</h3>
@@ -281,5 +289,3 @@
     </details>
 </details>
 
-
-✨ Последнее обновление: Sun Apr 20 02:03:40 UTC 2025
