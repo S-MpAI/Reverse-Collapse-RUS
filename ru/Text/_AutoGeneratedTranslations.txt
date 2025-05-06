@@ -823,7 +823,7 @@ Basil=Базилик
 Basket=Корзина
 Bastard...=Сволочь...
 Batch=Партия
-Batch Reset=Партия сброса
+Batch Reset=1 Сброс
 Battle Backpack=Боевой рюкзак
 Battle Cleric=Боевой клерик
 Battle Records=Боевые рекорды
@@ -2745,12 +2745,12 @@ Heavy=Тяжелый
 Heavy Snow=Сильный снегопад
 Heavy Tanks can be equipped with different type of weapons, it is advisable to avoid entering its threat range.=Тяжелые танки могут быть оснащены различными видами оружия, поэтому рекомендуется избегать попадания в зону их поражения.
 Heavy Tanks possesses dual protection with Armor and Force Fields for defense. Without preemptive use of Rocket Launchers, it can hardly be damaged.=Тяжелые танки обладают двойной защитой с доспехами и силовыми полями для защиты. Без упреждающего использования ракетных пусковых установок это вряд ли может быть повреждено.
-Heavy Turret=Тяжелая башня
-Heavy Turret is now available for Item Synthesis.=Тяжелая башня теперь доступна для синтеза предметов.
+Heavy Turret=Тяжелая турель
+Heavy Turret is now available for Item Synthesis.=Тяжелая турель теперь доступна для синтеза предметов.
 Heavy wounds will make the target less effective in combat, increasing the time between attacks.=Тяжелые ранения сделают цель менее эффективной в бою, увеличивая время между атаками.
 Heavy Coat=Тяжелое пальто
-Heavy Turret=Тяжелая башня
-Heavy Turret has been placed into your Backpack!=Тяжелая башня была помещена в ваш рюкзак!
+Heavy Turret=Тяжелая турель
+Heavy Turret has been placed into your Backpack!=Тяжелая турель была помещена в ваш рюкзак!
 Hedge=Хеджирование
 Heehee, it's only a matter of time before we catch them. There's no need to worry, Captain!=Хихи, это всего лишь вопрос времени, прежде чем мы поймаем их. Там не нужно беспокоиться, капитан!
 Heh, we've blocked the road ahead. There's no escape!=Хех, мы заблокировали дорогу впереди. Там нет побега!
@@ -3623,7 +3623,7 @@ Items picked up during a battle are stored in the Backpack.=В рюкзаке х
 Items picked up during a battle are stored in the Backpack. Items are allowed to <color\=#ff8d48>exceed the Carrying Capacity</color> of the Backpack while in battle. If the Backpack is full and a new type of item is picked up, the new item will be stored in the <color\=#ff8d48>Temporary Backpack</color>. All items in the Temporary Backpack, as well as the items that exceed the Carrying Capacity of the Backpack will be <color\=#ff8d48>automatically</color> transferred to the Storage before the next battle.=Предметы, собранные во время боя, хранятся в рюкзаке. Предметы могут <color\=#ff8d48>превышать грузоподъемность</color> Если рюкзак переполнен, и вы подобрали новый тип предмета, то он будет храниться во <color\=#ff8d48>Временный рюкзак</color>Все предметы во временном рюкзаке, а также предметы, превышающие грузоподъемность рюкзака, будут <color\=#ff8d48>автоматически</color> будут автоматически перенесены в хранилище перед следующим боем.
 Items that exceed the carrying capacity of the Backpack will be automatically transferred to the Storage before the next battle.=Предметы, превышающие емкость рюкзака, будут автоматически передаваться на хранилище до следующей битвы.
 Items in the Temporary Backpack cannot be organized.=Предметы во временном рюкзаке не могут быть организованы.
-Item Modification=<size\=11>Модификация предметов</size>
+Item Modification=Улучшить
 Item Preparation=<size\=17>Изготовление предмета</size>
 Item Production=<size\=11>Производство предметов</size>
 Item Synthesis=<size\=15>Синтез предметов</size>
@@ -4184,9 +4184,9 @@ Medium=Среднее
 Medium Beard=Средняя борода
 Medium Chest=Средний сундук
 Medium Green Chest=Средний зеленый сундук
-Medium Turret=Средняя башня
+Medium Turret=Средняя турель
 Medium Yellow Chest=Средний желтый сундук
-Medium Turret=Средняя башня
+Medium Turret=Средняя турель
 Medkit=Аптечка
 Medkit modified to Level {{A}}!=Аптека улучшена до уровня {{A}}!
 Melt Bomb=Плавящая бомба
@@ -4359,10 +4359,10 @@ Movement follows the route plotted with the cursor by default. If there are insu
 Movement follows the route plotted with the cursor.=Движение следует за маршрутом, построенным с курсором.
 Movement Attack Preview=Движение атаки
 Move <color\=#9df1f5>Mendo</color> to the <color\=#9df1f5>specified</color> position to pick up supplies.=Переместите <color\=#9df1f5>Мендо</color> в <color\=#9df1f5>указанное</color> положение, чтобы забрать припасы.
-Move Item=Переместите элемент
+Move Item=Переместить
 Move the corresponding unit to the <color\=#9df1f5>specified</color> position while avoiding exposed positions.=Переместить соответствующее блок в <color\=#9df1f5>указанную</color> положение, избегая обнаженных позиций.
-Move to Backpack=Перейти в рюкзак
-Move to Storage=Перейти к хранению
+Move to Backpack=<size\=16>В рюкзак</size>
+Move to Storage=<size\=13>В хранилище</size>
 Moving over <color\=#ff8d48>different terrain</color> requires <color\=#ff8d48>different amounts of AP</color>. \n\nView the movement requirements in Terrain Information at the bottom right corner.=Перемещение по <color\=#ff8d48>разной местности</color> требует <color\=#ff8d48>разного количества AP</color>. \n\nПросмотрите требования к передвижению в разделе «Информация о местности» в правом нижнем углу.
 Moving Pictures=Движущиеся картинки
 Multiplies terrain effects within the area by <color\=#89f0ff>x1.5</color>, the AP cost for allies to move over each tile within the area is reduced by 1 (to a minimum of 1 AP) while enemy AP costs to move over each tile within the area are increased by 1 for 2 turns.=Умножает эффекты местности в районе на <color\=#89f0ff>x1.5</color>Стоимость AP для союзников перемещается через каждую плитку в районе, снижается на 1 (до минимум AP 1), в то время как вражеские затраты на AP, чтобы перемещаться по каждой плите в районе, увеличивается на 1 для поворотов 2.
@@ -5182,7 +5182,7 @@ Research Points can be obtained by completing battles.=Точки исследо
 Research Points:=Исслед балы:
 Research Room=Исследовательский зал
 Researcher=Исследователь
-Reset=Перезагрузить
+Reset=Сброс
 Reset Disk=Сбросить диск
 Reset Disks:=Сброс диски:
 Reset Disk=Сбросить диск
@@ -5917,7 +5917,7 @@ Switch Wand=Сменить палочку
 Switch Wands=Сменить палочки
 Switch spell level:=Сменить уровень заклинаний:
 Switch Action=Смен.действие
-Switch Item=Сменить элемент
+Switch Item=Сменить
 Switch Target=Сменить цель
 Sword=Меч
 Sybilla de Vauru=Сибилла де Вауру
@@ -6795,7 +6795,7 @@ Units will carry their own weapons into battle and can switch weapons before eac
 Units with Blue HP Bars are allied NPCs and will act autonomously.=Единицы с синими стержнями HP являются союзниками NPC и будут действовать автономно.
 Units with Drops=Единицы с каплями
 Units:=Единицы измерения:
-Unit Details=Подробная информация
+Unit Details=Информация
 Unit Information=<size\=13>Информация об юните</size>
 Unknown Noble woman's tomb=Могила неизвестной знатной женщины
 Unknown artist=Неизвестный артист
@@ -6913,8 +6913,8 @@ Vegetable=Овощной
 Vegetables (0/15)=Овощи (0/15)
 Vehicle=Транспортное средство
 Venomous Crystal=Ядовитый кристалл
-Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.4.1b.0
-Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.4.1b.0</size>
+Ver {{A}}=Ver {{A}}  перевёл на русский masterkosta, модифицировано S-MpAI v.4.3b.0
+Ver. 1.0=<size\=12>Перевод на русский и masterkosta Версия 1.0 | модифицировано S-MpAI v.4.3b.0</size>
 Very Fast=<size\=19>Очень быстро</size>
 Very High=Очень высоко
 Very Low=Очень низко
@@ -10837,7 +10837,7 @@ Consume <color\=#fffd90>250 Parts</color> and <color\=#ff8d48>1 Fragmentation Gr
 Consume <color\=#fffd90>300 Parts</color> and <color\=#ff8d48>2 EMP Grenade</color>、<color\=#ff8d48>2 Mechanical Induction Valve</color> to synthesize <color\=#ff8d48>2 of EMP Mine</color>?=Израсходовать <color\=#fffd90>300 деталей</color> и <color\=#ff8d48>2 ЭМИ-граната</color>、<color\=#ff8d48>Механический индукционный клапан 2</color> синтезировать <color\=#ff8d48>2 of Emp Mine</color>?
 Consume <color\=#fffd90>720 Parts</color> and <color\=#ff8d48>4 Smoke Grenade</color> to synthesize <color\=#ff8d48>4 of Tear Gas Grenade</color>?=Израсходовать <color\=#fffd90>720 детали</color> и <color\=#ff8d48>4 дымовая граната</color> синтезировать <color\=#ff8d48>4 из слезного газа</color>?
 Consume <color\=#fffd90>300 Parts</color> and <color\=#ff8d48>1 Standard Turret</color>、<color\=#ff8d48>1 Gatling Gun</color> to synthesize <color\=#ff8d48>1 of Medium Turret</color>?=Израсходовать <color\=#fffd90>300 деталей</color> и <color\=#ff8d48>1 Стандартная башня</color>、<color\=#ff8d48>1 Gatling Gun</color> синтезировать <color\=#ff8d48>1 средней башни</color>?
-Medium Turret has been placed into your Backpack!=Средняя башня была помещена в ваш рюкзак!
+Medium Turret has been placed into your Backpack!=Средняя турель была помещена в ваш рюкзак!
 Consume <color\=#fffd90>400 Parts</color> and <color\=#ff8d48>1 High Voltage Core</color> to synthesize <color\=#ff8d48>1 of Electric Turret</color>?=Израсходовать <color\=#fffd90>400 детали</color> и <color\=#ff8d48>1 Высокое напряжение ядра</color> синтезировать <color\=#ff8d48>1 электрической башни</color>?
 Consume <color\=#fffd90>100 Parts</color> and <color\=#ff8d48>1 Pseudo-acrylic</color> to synthesize <color\=#ff8d48>1 of Camouflage Standee</color>?=Израсходовать <color\=#fffd90>100 детали</color> и <color\=#ff8d48>1 Pseudo-Acryl</color> синтезировать <color\=#ff8d48>1 of Camouflage Standee</color>?
 Camouflage Standee has been placed into your Backpack!=Камуфляж был помещен в ваш рюкзак!
@@ -10982,7 +10982,7 @@ Special Forces - Cyclone and Thunder have very high Evasion.=Спецназ - Ц
  in the transport= в транспорте
 Are you tired?=Вы устали?
 Lige... Is... stopping them...=Лидж ... это ... останавливает их ...
-Hang on a little longer, Lige.=Держись немного дольше, Лидж.
+Hang on a little longer, Lige.=Потерпи еще немного, Лидж.
 We just need to wait a bit longer.=Нам просто нужно подождать немного дольше.
 She seems a little confused. Did the battle take too much energy? Why don't you let her get some sleep?=Она кажется немного смущенной. В битве потребовался слишком много энергии? Почему бы тебе не позволить ей выспаться?
 This can't be solved by sleeping it off.=Это не может быть решено, чтобы спать.
@@ -11107,7 +11107,7 @@ Consume <color\=#fffd90>7200 Parts</color> to produce <color\=#ff8d48>9 of Rocke
 Consume <color\=#fffd90>600 Parts</color> to produce <color\=#ff8d48>2 of EMP Grenade</color>?=Израсходовать <color\=#fffd90>600 детали</color> для производства <color\=#ff8d48>2 of Emp Grenade</color>?
 Consume <color\=#fffd90>300 Parts</color> and <color\=#ff8d48>3 EMP Grenade</color> to synthesize <color\=#ff8d48>3 of Energy Drainer</color>?=Израсходовать <color\=#fffd90>300 деталей</color> и <color\=#ff8d48>3 ЭМИ-граната</color> синтезировать <color\=#ff8d48>3 of Energy Drueder</color>?
 <color\=#d09dff>Antibodies</color>: <color\=#74edff>reduce damage taken by 10%</color>.=<color\=#d09dff>Антитела</color>: <color\=#74edff>уменьшить ущерб, нанесенный 10%</color>.
-Consume <color\=#fffd90>500 Parts</color> and <color\=#ff8d48>1 Medium Turret</color>、<color\=#ff8d48>1 Defender Kit</color> to synthesize <color\=#ff8d48>1 of Heavy Turret</color>?=Израсходовать <color\=#fffd90>500 детали</color> и <color\=#ff8d48>1 Средняя башня</color>、<color\=#ff8d48>1 Defender Kit</color> синтезировать <color\=#ff8d48>1 из тяжелой башни</color>?
+Consume <color\=#fffd90>500 Parts</color> and <color\=#ff8d48>1 Medium Turret</color>、<color\=#ff8d48>1 Defender Kit</color> to synthesize <color\=#ff8d48>1 of Heavy Turret</color>?=Израсходовать <color\=#fffd90>500 детали</color> и <color\=#ff8d48>1 Средняя турель</color>、<color\=#ff8d48>1 Defender Kit</color> синтезировать <color\=#ff8d48>1 из тяжелой башни</color>?
 {{A}}mm Reinforced Barrel={{A}}MM Укрепленный ствол
 {{A}}mm Elite Barrel={{A}}mm Elite Barrel
 <color\=#89f0ff>Increase damage by 5% and accuracy by 5</color> when performing a normal attack against an enemy unit with attributes decrease or abnormal status.=<color\=#89f0ff>Увеличьте ущерб 5% и точность с помощью 5</color> При выполнении нормальной атаки против вражеского подразделения с атрибутами уменьшается или ненормальный статус.
@@ -16632,13 +16632,13 @@ Rest assured, they won't escape with this blanket search.=Будь уверен,
 The enemy is in the open, while I'm in the shadows. I have a slight advantage for now.=Враг находится на открытой местности, а я - в тени. Пока что у меня есть небольшое преимущество.
 Either way, let's hide in the forest and play it by ear.=В любом случае, лучше спрятаться в лесу и будем играть на слух.
 The enemy reinforcements are increasing. If this continues, both Mendo and I will be in danger...=Вражеские подкрепления растут. Если так будет продолжаться, мы с Мендо окажемся в опасности...
-You know what? Let's get a head start, <color\=#ff6060>clear the area as soon as possible</color>, and then look for an opportunity to <color\=#ff6060>get closer to him</color>.=Знаешь что? Давайте возьмем старт, <color\=#ff6060>очистим территорию как можно скорее.</color>а потом поищем возможность <color\=#ff6060>подобраться к нему поближе</color>.
+You know what? Let's get a head start, <color\=#ff6060>clear the area as soon as possible</color>, and then look for an opportunity to <color\=#ff6060>get closer to him</color>.=Знаешь что? Давай начнём первыми, <color\=#ff6060>очистим территорию как можно скорее</color>, а затем найдём возможность <color\=#ff6060>приблизиться к нему</color>.
 Jefuty is not Exposed before reaching Mendo=Джефути не раскрыта, пока не достигнет Мендо
 Mendo takes less than {{A}} damage=Мендо получает меньше урона, чем {{A}}
 Mendo or Jefuty enters Critical Condition=Мендо или Джефути в критическом состоянии
 Jefuty reaches Mendo=Джефути достигает Мендо
-Mendo defeats {{A}} enemy units=Мендо побеждает вражеские подразделения {{A}}
-Mendo defeats {{A}} enemy units		{{B}}=Мендо побеждает вражеские подразделения {{A}} {{B}}
+Mendo defeats {{A}} enemy units=Мендо побеждает {{A}} вражеских подразделений
+Mendo defeats {{A}} enemy units		{{B}}=Мендо побеждает {{A}} вражеских подразделений		\n{{B}}
 Mendo takes less than {{A}} damage		Remaining Damage: {{B}}=Мендо получает меньше {{A}} урона.		\nОставшийся урон: {{B}}
 Listen to the Radio=Слушайте радио
 Application of Doll Technology in the Late {{A}}s=Применение кукольной технологии в конце {{A}}-х годов
@@ -16658,20 +16658,20 @@ I thought you had already left.=Я думал, ты уже ушла.
 That was the plan, but...=Таков был план, но...
 Nothing. Now is no time for chit-chat. The enemy will be here in no time. Let's go.=Ничего. Сейчас не время для болтовни. Враг скоро будет здесь. Пошли.
 At the safe house...=На конспиративной квартире...
-If you don't want to get shot in the head, follow me now and we'll talk somewhere else.=Если не хотите получить пулю в лоб, следуйте за мной, и мы поговорим в другом месте.
+If you don't want to get shot in the head, follow me now and we'll talk somewhere else.=Если не хочешь получить пулю в лоб, следуй за мной, и мы поговорим в другом месте.
 Chapter {{A}}: Support in the Woods=Глава {{A}}: Поддержка в лесу
 5000x<color\=#ff9600>1,1</color>\=<color\=#ff9600>5500</color>=5000x<color\=#ff9600>1,1</color>"\="<color\=#ff9600>5500</color>
-He was surrounded by so many enemies that, if I had not secretly helped him, Mendo may not have made it out of the woods.=Вокруг него было столько врагов, что, если бы я тайно не помог ему, Мендо, возможно, и не выбрался бы из леса.
-He was surprised that I had returned to save him. He wanted me to save Atena as well.=Он был удивлен, что я вернулся, чтобы спасти его. Он хотел, чтобы я спас и Атену.
-I refused.=Я отказался.
-It's not that I didn't care about Atena. It's just that this choice was bound to lead to this result.=Не то чтобы я не заботился об Атене, просто этот выбор должен был привести к такому результату.
-Atena's sacrifice was a predetermined result, and there was nothing I could do about it.=Жертвоприношение Атены было предопределено, и я ничего не мог с этим поделать.
-As for the backup safe house Mendo mentioned, I wasn't going there either.=Что касается запасного убежища, о котором говорил Мендо, то я туда тоже не собирался.
+He was surrounded by so many enemies that, if I had not secretly helped him, Mendo may not have made it out of the woods.=Вокруг него было столько врагов, что, если бы я тайно не помогла ему, Мендо, возможно, и не выбрался бы из леса.
+He was surprised that I had returned to save him. He wanted me to save Atena as well.=Он был удивлен, что я вернулась, чтобы спасти его. Он хотел, чтобы я спасла и Атену.
+I refused.=Я отказалась.
+It's not that I didn't care about Atena. It's just that this choice was bound to lead to this result.=Не то чтобы я не заботилась об Атене, просто этот выбор должен был привести к такому результату.
+Atena's sacrifice was a predetermined result, and there was nothing I could do about it.=Жертвоприношение Атены было предопределено, и я ничего не могла с этим поделать.
+As for the backup safe house Mendo mentioned, I wasn't going there either.=Что касается запасного убежища, о котором говорил Мендо, то я туда тоже не собиралась.
 Lige's body was going to be repaired by about midnight, so that was my best chance to save her.=Тело Лидж должно было восстановиться примерно к полуночи, так что это был мой лучший шанс спасти ее.
 So, getting to the base as soon as possible to get more information was the right thing to do.=Так что добраться до базы как можно скорее, чтобы получить больше информации, было правильным решением.
-I gave Mendo a choice: he could leave, or he could follow.=Я предоставил Мендо выбор: он может уйти, а может последовать за ним.
-Mendo chose to continue his mission, which was not surprising. Since he was willing to follow along, I had no reason to refuse his help.=Мендо решил продолжить свою миссию, что было неудивительно. Раз уж он согласился следовать за нами, у меня не было причин отказываться от его помощи.
-We arrived at the familiar cliff. For some reason, the patrol soldiers around seemed to have launched their action in advance.=Мы подъехали к знакомому обрыву. Почему-то казалось, что патрульные солдаты вокруг начали действовать заранее.
+I gave Mendo a choice: he could leave, or he could follow.=Я дала Мендо выбор: он может уйти, а может последовать за мной.
+Mendo chose to continue his mission, which was not surprising. Since he was willing to follow along, I had no reason to refuse his help.=Мендо решил продолжить свою миссию, что было неудивительно. Раз уж он согласился следовать за мной, у меня не было причин отказываться от его помощи.
+We arrived at the familiar cliff. For some reason, the patrol soldiers around seemed to have launched their action in advance.=Мы подошли к знакомому обрыву. Почему-то казалось, что патрульные солдаты вокруг начали действовать заранее.
 The greatest threat was from the Shrike, the Shrike that inhabits Lige.=Наибольшую угрозу представляли шрайки, обитающие в Лидж.
 I had to establish contact with Lige to find out if her condition had changed, but to do so would reveal my position.=Мне нужно было установить контакт с Лидж, чтобы выяснить, не изменилось ли ее состояние, но сделать это означало раскрыть свое положение.
 It doesn't matter. My past memory told me that as long as the blood bullets were prepared in advance, the mitotic specimen shouldn't not be much of a threat.=Неважно. Моя прошлая память подсказывала мне, что если пули из крови были подготовлены заранее, то митотический образец не должен представлять особой угрозы.
@@ -16683,58 +16683,59 @@ Backpack <color\=#56B8C0>0/</color>4 Storage18=Рюкзак <color\=#56B8C0>0/</
 Backpack <color\=#56B8C0>0/</color>5 Storage34=Рюкзак <color\=#56B8C0>0/</color>5 Хранилище 34
 Consume <color\=#fffd90>2800 Parts</color> to produce <color\=#ff8d48>7 of Blood Bullet</color>?=Израсходовать <color\=#fffd90>Запчасти 2800</color> для производства <color\=#ff8d48>7 Кровавой пули</color>?
 Mendo, I'm hungry.=Мендо, я проголодалась.
-It's safe in here. We should be able to cook with fire.=Здесь безопасно. Мы должны уметь готовить на огне.
-But we're running low on cans, so we'd better find some local ingredients.=Но у нас заканчиваются банки, поэтому лучше найти местные ингредиенты.
-Is this okay to use as an ingredient?=Можно ли это использовать в качестве ингредиента?
+It's safe in here. We should be able to cook with fire.=Здесь безопасно. Мы должны иметь возможность готовить на огне.
+But we're running low on cans, so we'd better find some local ingredients.=Но у нас заканчиваются консервы, так что лучше найти местные ингредиенты.
+Is this okay to use as an ingredient?=Можно ли использовать его в качестве ингредиента?
 Isn't the mushroom mutated?!=Разве гриб не мутировал?!
-Hm... I think it's good to eat if it's cooked through?=Хм... Я думаю, это вкусно есть, если оно хорошо прожарено?
-This is the kind of mushroom that Lige and I used to eat when we couldn't find food.=Именно такие грибы я с Лидж обычно ели, когда не могли найти еду.
-You ate this stuff and lived?!=Ты съела эту дрянь и осталась жив?!
+Hm... I think it's good to eat if it's cooked through?=Хм... Думаю, его можно есть, если хорошо приготовить?
+This is the kind of mushroom that Lige and I used to eat when we couldn't find food.=Это тот вид грибов, который мы с Лидж ели, когда не могли найти еду.
+You ate this stuff and lived?!=Вы ели это и выжили?!
 Fully-immune individuals indeed...=Полностью иммунные люди...
 You know what? I'll just get rid of the rest of the cans.=Знаешь что? Я просто избавлюсь от остальных банок.
 Alright, then don't eat it.=Хорошо, тогда не ешь это.
 I almost died in the hospital once because of mushrooms.=Однажды я чуть не умер в больнице из-за грибов.
 Was it this kind of mushroom?=Это был такой гриб?
 Not this variety, but similar.=Не этот сорт, но похожий.
-During my survival training in South America, I made a mistake when distinguishing between poisonous and edible mushrooms in the jungle.=Во время моих тренировок по выживанию в Южной Америке я допустил ошибку, когда проводил различие между ядовитыми и съедобными грибами в джунглях.
-I was poisoned on the spot and sent to the hospital.=Я отравился на месте и отправлен в больницу.
+During my survival training in South America, I made a mistake when distinguishing between poisonous and edible mushrooms in the jungle.=Во время обучения выживанию в Южной Америке я допустил ошибку, когда различал в джунглях ядовитые и съедобные грибы.
+I was poisoned on the spot and sent to the hospital.=Я отравился на месте и поэтому был отправлен в больницу.
 It's a good thing Kämpfe interceded for me, or I wouldn't even be an agent.=Хорошо, что Кемпфе вступился за меня, иначе я вообще не был бы агентом.
 The human body is so fragile.=Человеческое тело так хрупко.
 Yeah. From then on I became very careful about the selection and preparation of ingredients.=Да. С тех пор я стал очень тщательно подходить к выбору и подготовке ингредиентов.
 Never put anything in a pot if you don't know where it comes from!=Никогда не клади ничего в кастрюлю, если не знаешь, откуда это взялось!
-For some reason, I feel your persistence has nothing to do with mushrooms...=По какой-то причине мне кажется, что ваша настойчивость не имеет ничего общего с грибами...
+For some reason, I feel your persistence has nothing to do with mushrooms...=Почему-то мне кажется, что твоя настойчивость не имеет ничего общего с грибами...
 Now that you've told me, I'll make sure to find you some healthy-looking mushrooms next time.=Теперь, когда ты мне все рассказал, я обязательно найду тебе в следующий раз какие-нибудь полезные грибы.
 In fact, I've been wondering since the beginning...=На самом деле, мне с самого начала было интересно...
 Why were you able to find mushrooms in this cold and snowy environment...?=Каким образом ты смогла найти грибы в такой холодной и заснеженной местности?
 Maybe it's a gift from nature.=Может быть, это дар природы.
 Open Up=Открыть
-　　On the high ground to the north of the base, URNC soldiers are ready to strike. To proceed with the rescue plan, it is necessary to first defeat the surrounding enemy forces. Don't underestimate the enemy, as there are still lurkers in the dark.=　　На возвышенности к северу от базы солдаты URNC готовы нанести удар. Чтобы приступить к выполнению плана спасения, необходимо сначала разгромить окруженные силы противника. Не стоит недооценивать врага, ведь в темноте еще есть таящиеся враги.
-We've got every oil drum we can use in the area, so we'll just have to play it by ear.=У нас есть все бочки с маслом, которые мы можем использовать в этом районе, так что нам просто придется действовать на слух.
+　　On the high ground to the north of the base, URNC soldiers are ready to strike. To proceed with the rescue plan, it is necessary to first defeat the surrounding enemy forces. Don't underestimate the enemy, as there are still lurkers in the dark.=　　На возвышенности к северу от базы солдаты URNC готовы к атаке. Чтобы продолжить план спасения, необходимо сначала разгромить окружающие вражеские силы. Не недооценивайте противника, ведь в темноте всё ещё прячутся скрытые угрозы.
+We've got every oil drum we can use in the area, so we'll just have to play it by ear.=Мы собрали все бочки с маслом, которые смогли найти в округе, так что придётся действовать по обстоятельствам.
 We don't have much time. Let's regroup with Mendo.=У нас мало времени. Надо перегруппироваться с Мендо.
 The enemy will be here soon. Are you ready?=Враг скоро будет здесь. Ты готов?
-Don't worry, everything's ready. We can engage the enemy at any moment.=Не волнуйся, все готово. Мы можем вступить в бой с врагом в любой момент.
-If we are truly exposed as you say, then there will be many more enemies. Relying solely on these oil drums won't be enough to get us out of this predicament.=Если мы действительно окажемся беззащитными, как ты говоришь, то врагов будет гораздо больше. Полагаться только на эти бочки с нефтью будет недостаточно, чтобы вывести нас из этого затруднительного положения.I suggest concentrating your firepower on one side of the enemy's attack and <color\=#ff6060>avoid being flanked by enemies from different directions</color>. That way, we can quickly secure an escape route.=Советую сконцентрировать огневую мощь на одной стороне атаки противника и <color\=#ff6060>избегать обстрела врагов с разных сторон.</color>Так мы сможем быстро найти путь к отступлению.
-...There's movement! Let's do as you suggest.=..Есть движение! Давай сделаем так, как ты предлагаешь.
+Don't worry, everything's ready. We can engage the enemy at any moment.=Не волнуйся, всё готово. Мы можем вступить в бой с врагом в любой момент.
+If we are truly exposed as you say, then there will be many more enemies. Relying solely on these oil drums won't be enough to get us out of this predicament.=Если мы действительно так уязвимы, как ты говоришь, то врагов будет гораздо больше. Полагаться только на эти бочки с маслом не хватит, чтобы выбраться из этой передряги.
+I suggest concentrating your firepower on one side of the enemy's attack and <color\=#ff6060>avoid being flanked by enemies from different directions</color>. That way, we can quickly secure an escape route.=Я предлагаю сосредоточить огневую мощь на одной стороне атаки врага и <color=#ff6060>избегать окружения противниками с разных направлений</color>.  Так мы сможем быстро обеспечить путь к отступлению.
+...There's movement! Let's do as you suggest.=...Движение! Давай сделаем так, как ты предлагаешь.
 The targets are right over there! We've finally caught up with them.=Цели вон там! Наконец-то мы их догнали.
-Notify the other teams to converge on this location immediately. There's no escape for them this time!=Предупредите другие команды, чтобы они немедленно собрались в этом месте. На этот раз им не спастись!
+Notify the other teams to converge on this location immediately. There's no escape for them this time!=Сообщите другим командам, чтобы они немедленно собрались в этом месте. На этот раз им не спастись!
 Give it your all and stay sharp!=Выкладывайтесь на полную и будьте начеку!
-The commander said there's a big reward for capturing the target. Do NOT let members of the other squads steal the credit!=Командир сказал, что за поимку цели назначена большая награда. НЕ позволяйте членам других отрядов украсть награду!
+The commander said there's a big reward for capturing the target. Do NOT let members of the other squads steal the credit!=Командир сказал, что за захват цели полагается большая награда.\n\nНЕ ПОЗВОЛЯЙТЕ членам других отрядов украсть награду!
 Defeat {{A}} enemy units within {{B}} turns=Уничтожьте {{A}} вражеских подразделений в течение {{B}} ходов
 Defeat {{A}} enemy units within {{B}} turns		Remaining Turns: {{C}}=Разгромите вражеские подразделения {{A}} в течение {{B}} ходов		\nОставшиеся ходы: {{C}}
-Chapter {{A}}: Deviation=Глава {{A}}: Отклонение
+Chapter {{A}}: Deviation=Глава {{A}}: Девиация
 Defeat "Svarog" Heavy Tank within {{A}} turns=Победите тяжелый танк "Сварог" в течение одного оборота {{A}}
-Chapter {{A}}: Deviation=Глава {{A}}: Отклонение
+Chapter {{A}}: Deviation=Глава {{A}}: Девиация
 Mr. P*zza=Мистер Пи*цца
 It is said to be a very popular small dinosaur backpack, and the same model has been seen in a certain bounty hunter team in the Yellow Zone. Could this be what she lost?=Говорят, что это очень популярный рюкзак для маленьких динозавров, и такая же модель была замечена в команде охотников за головами в Желтой зоне. Может быть, это то, что она потеряла?
 {{A}}mm Heavy Barrel={{A}}mm Тяжелый ствол
-Have you not captured them yet?!=Вы еще не запечатлели их?!
-Those two really are tough nuts to crack. We'll have to request reinforcements from the base.=Эти двое действительно крепкие орешки. Придется запросить подкрепление на базе.
+Have you not captured them yet?!=Вы ещё не схватили их?!
+Those two really are tough nuts to crack. We'll have to request reinforcements from the base.=Эти двое - действительно крепкие орешки. Придется запросить подкрепление с базы.
 Defeat "Svarog" Heavy Tank within {{A}} turns		Remaining Turns: {{B}}=Победите тяжелый танк "Сварог" в пределах {{A}} шагов		\nОставшиеся шаги: {{B}}
 Target locked...=Цель заблокирована...
 What the...?=Что за...?
 They're here already?!=Они уже здесь?!
-Mendo, show no mercy to that bastard, or none of us will get out of here alive. We have to finish this quickly!=Мендо, не проявляй милосердия к этому ублюдку, или никто из нас не выберется отсюда живым. Мы должны закончить это быстро!
-Phew... We should be safe for now, but there are a lot of enemies near the base. Let's get to the safe house and regroup.=Фу... Пока мы должны быть в безопасности, но рядом с базой много врагов. Давайте доберемся до безопасного места и перегруппируемся.
+Mendo, show no mercy to that bastard, or none of us will get out of here alive. We have to finish this quickly!=Мендо, щади этого ублюдка, иначе никто из нас не выйдет отсюда живым. Мы должны покончить с ней быстро!
+Phew... We should be safe for now, but there are a lot of enemies near the base. Let's get to the safe house and regroup.=Фух... Пока что мы в безопасности, но возле базы много врагов. Давай доберемся до убежища и перегруппируемся.
 I still wonder why the URNC would send such a strange girl into battle...=Я все еще задаюсь вопросом, зачем URNC послал в бой такую странную девушку...
 She's a Shrike mitotic specimen.=Она - митотический экземпляр Шрайка.
 Shrike?=Шрайк?
@@ -16747,19 +16748,17 @@ Father misses you so much...=Отец очень скучает по тебе...
 Oh no...=О нет...
 Watch out!=Осторожно!
 Mendo!!!=Мендо!!!
-I suggest concentrating your firepower on one side of the enemy's attack and <color\=#ff6060>avoid being flanked by enemies from different directions</color>. That way, we can quickly secure an escape route.=Советую сконцентрировать огневую мощь на одной стороне атаки противника и <color\=#ff6060>избегать обстрела врагов с разных сторон.</color>Так мы сможем быстро найти путь к отступлению.
-If we are truly exposed as you say, then there will be many more enemies. Relying solely on these oil drums won't be enough to get us out of this predicament.=Если нас действительно разоблачат, как вы говорите, то врагов станет гораздо больше. Одной только опоры на нефтяные бочки будет недостаточно, чтобы вывести нас из этого затруднительного положения.
 I remember... Something like this...=Я помню... Что-то вроде этого...
 It's happening all over again...=Это происходит снова и снова...
-Judging from the enemy's movements, they have already set up an ambush here. We can't act solely based on the previous Jefuty's memory.=Судя по передвижениям противника, они уже устроили здесь засаду. Мы не можем действовать только на основе воспоминаний предыдущей Джефути.
-I'm sorry for putting you through this again, Mendo.=Прости, что снова заставил тебя пройти через это, Мендо.
-It wasn't in vain this time. My determination will still be passed on to the next Jefuty.=На этот раз все было не напрасно. Моя решимость будет передана следующему Джефути.
+Judging from the enemy's movements, they have already set up an ambush here. We can't act solely based on the previous Jefuty's memory.=Судя по передвижениям врага, они уже устроили здесь засаду. Мы не можем действовать только на основе воспоминаний предыдущей Джефути.
+I'm sorry for putting you through this again, Mendo.=Прости, что снова заставила тебя пройти через это, Мендо.
+It wasn't in vain this time. My determination will still be passed on to the next Jefuty.=На этот раз все было не напрасно. Моя решимость будет передана следующей Джефути.
 Failure leaves a bitter taste in my mouth.=Неудача оставляет во рту горький привкус.
 I'd rather end it right here than be taken away by the Shrikes.=Я лучше покончу с этим прямо здесь, чем меня заберут Шрайки.
 No matter how long it takes, I will find a world where I can leave with you.=Сколько бы времени это ни заняло, я найду мир, куда смогу уйти вместе с тобой.
 Application of Doll Technology in the late {{A}}s=Применение кукольной технологии в конце {{A}}-х годов
 　Without meeting Jevon, Jefuty is unable to convince Atena to go to the base and rescue Lige. Jefuty quietly leaves the safe house and takes matters into her own hands. For Jefuty, Mendo cannot stop here, so she waits in the forest along the back mountain path, secretly assisting Mendo in his escape. In the end, with the help of Jefuty, Mendo safely avoids capture.=　Не встретившись с Джевоном, Джефути не может убедить Атена отправиться на базу и спасти Лиджа. Джефути тихо покидает убежище и берет дело в свои руки. Для Джефути Мендо не может остановиться на этом, поэтому она ждет в лесу на обратной горной тропе, тайно помогая Мендо в его побеге. В конце концов, с помощью Джефути Мендо благополучно избегает плена.
-　Realizing the harsh reality, Mendo agrees to help Jefuty in rescuing Lige and is determined to escort them back to Antarctica. When the two reach the high ground near the base, they are surrounded by more enemies. However, the well-prepared Jefuty and Mendo successfully despatch with the swarming enemy troops and the Shrike mitotic specimen. However, there is more than just one Shrike mitotic specimen guarding this location...=　Осознав суровую реальность, Мендо соглашается помочь Джефути в спасении Лидж и намерен сопроводить их обратно в Антарктиду. Когда они достигают возвышенности возле базы, их окружают новые враги. Однако хорошо подготовленные Джефути и Мендо успешно справляются с кишащими вражескими войсками и митотическим образцом Шрайк. Однако это место охраняет не только один митотический образец Шрайк...
+　Realizing the harsh reality, Mendo agrees to help Jefuty in rescuing Lige and is determined to escort them back to Antarctica. When the two reach the high ground near the base, they are surrounded by more enemies. However, the well-prepared Jefuty and Mendo successfully despatch with the swarming enemy troops and the Shrike mitotic specimen. However, there is more than just one Shrike mitotic specimen guarding this location...=　Осознав суровую реальность, Мендо соглашается помочь Джефути в спасении Лидж и решает сопровождать их обратно в Антарктиду. Когда они достигают возвышенности недалеко от базы, их окружают новые враги. Однако хорошо подготовленные Джефути и Мендо успешно справляются с толпами вражеских войск и экземпляром митотического Шрайка. Но в этом месте охрану несёт не только один митотический образец Шрайк...
 Complete Battle "Deviation".=Завершите битву "Девиация".
 Mr. P*zza=Мистер Пи*цца
 Patchwork Bracelet=Браслет в стиле пэчворк
@@ -19722,3 +19721,8 @@ HP cannot be restored, transforms into Puppet when defeated.=HP не восст�
 After each Movement, lose HP based on the distance moved, lose a percentage of Max HP per tile moved.=После каждого перемещения теряйте HP в зависимости от пройденного расстояния, теряя процент от Max HP за каждую перемещенную плитку.
 AP Cost +{{A}} when using items.=Стоимость AP +{{A}} при использовании предметов.
 After every action, take damage equal to {{A}}x the AP Cost.=После каждого действия получайте урон, равный {{A}}x стоимости AP.
+Deselect All=Отменить все
+Backpack <color\=#56B8C0>25/</color>25 Storage13=Рюкзак <color\=#56B8C0>25/</color>25 storage13
+Backpack <color\=#56B8C0>0/</color>5 Storage23=Рюкзак <color\=#56B8C0>0/</color>5 storage23
+Backpack <color\=#56B8C0>0/</color>6 Storage92=Рюкзак <color\=#56B8C0>0/</color>6 storage92
+Backpack <color\=#56B8C0>0/</color>6 Storage57=Рюкзак <color\=#56B8C0>0/</color>6 storage57
