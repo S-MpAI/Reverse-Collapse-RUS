@@ -7,6 +7,7 @@
   ![License](https://img.shields.io/github/license/S-MpAI/Reverse-Collapse-RUS?label=License&style=flat-square)
   ![Contributors](https://img.shields.io/github/contributors/S-MpAI/Reverse-Collapse-RUS?label=Contributors&style=flat-square)
   ![Issues](https://img.shields.io/github/issues/S-MpAI/Reverse-Collapse-RUS?label=Issues&style=flat-square)
+  [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FS-MpAI%2FReverse-Collapse-RUS.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FS-MpAI%2FReverse-Collapse-RUS?ref=badge_shield&issueType=license)
   <br>
   [![wakatime](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS.svg)](https://wakatime.com/badge/github/S-MpAI/Reverse-Collapse-RUS)
   ![last commit](https://badgen.net/github/last-commit/S-MpAI/Reverse-Collapse-RUS)
@@ -16,12 +17,21 @@
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
 </div>
-<h2  align="center">🚀 Версия v.4.3a.0</h2>
+<h2  align="center">🚀 Версия v.4.3a-div1.0</h2>
 <h3  align="left">🔹 Что изменилось:</h3>
 <ul style="text-align: left;">
-    <li>Переведен <b>3 Акт A ветки 4 Главы</b> (Добавлен перевод для обоих подветок)</li>
-    <li>Улучшено отображение некоторых достижений</li>
-    <li>Мелкие изменения текста (вне контекста)</li>
+    <li>Переведено <b>1 Ответвление 3 Акта A ветки 4 Главы</b></li>
+    <li>
+        <ul>
+            <li>Переведен Ультимативный скилл Джефути и его описание.</li>
+            <li>Переведен Ультимативный скилл Мендо и его описание.</li>
+            <li>Переведен Ультимативный скилл Карла и его описание.</li>
+            <li>Переведен Ультимативный скилл Атены и его описание.</li>
+            <li>Переведен Ультимативный скилл Джевона и его описание.</li>
+            <li>Переведен Ультимативный скилл Лидж и его описание.</li>
+        </ul>
+    </li>
+    <li>Добавлен подробный перевод конфиденциального файла <code>2 Отчёт Рабочей Группы «Плотник»</code></li>
 </ul>
 
 <br>
@@ -33,31 +43,31 @@
          <tr>
              <td>1 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t=1748139136" alt="1">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t=1747534140" alt="1">
              </td>
          </tr>
          <tr>
              <td>2 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t=1748139136" alt="2">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t=1747534140" alt="2">
              </td>
          </tr>
          <tr>
              <td>3 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t=1748139136" alt="3">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t=1747534140" alt="3">
              </td>
          </tr>
          <tr>
              <td>4 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t=1748139136" alt="4">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t=1747534140" alt="4">
              </td>
          </tr>
            <tr>
              <td>5 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t=1748139136" alt="5">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t=1747534140" alt="5">
              </td>
          </tr>
      </table>
@@ -128,6 +138,10 @@
             <td class="status-red"><b>Руками записан англ. вариант, русификатор не принимает.</b></td>
         </tr>
         <tr>
+            <td>2 Отчёт Рабочей Группы «Плотник»</td>
+            <td class="status-green"><b>Полностью переведён</b></td>
+        </tr>
+        <tr>
             <td>...</td>
             <td>...</td>
         </tr>
@@ -141,7 +155,16 @@
 <!-- <h2 align="center">📌 Список изменений</h2> -->
 <details align="center">
     <summary><h2>📌 Список изменений</h2></summary>
-        <details align="left">
+    <details align="left">
+        <summary>📂 Версия v.4.3a.0</summary>
+        <h3>🔹 Что изменилось:</h3>
+        <ul style="text-align: left;">
+            <li>Переведен <b>3 Акт A ветки 4 Главы</b> (Добавлен перевод для обоих подветок)</li>
+            <li>Улучшено отображение некоторых достижений</li>
+            <li>Мелкие изменения текста (вне контекста)</li>
+        </ul>
+    </details>
+    <details align="left">
         <summary>📂 Версия v.4.2a.0</summary>
         <h3>🔹 Что изменилось:</h3>
         <ul style="text-align: left;">
@@ -323,4 +346,4 @@
     </details>
 </details>
 
-✨ Последнее обновление: Sun May 25 02:12:16 UTC 2025
+✨ Последнее обновление: Sun May 18 02:09:00 UTC 2025
