@@ -37,31 +37,31 @@
          <tr>
              <td>1 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t=1748435645" alt="1">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t=1748744917" alt="1">
              </td>
          </tr>
          <tr>
              <td>2 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t=1748435645" alt="2">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t=1748744917" alt="2">
              </td>
          </tr>
          <tr>
              <td>3 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t=1748435645" alt="3">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t=1748744917" alt="3">
              </td>
          </tr>
          <tr>
              <td>4 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t=1748435645" alt="4">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t=1748744917" alt="4">
              </td>
          </tr>
            <tr>
              <td>5 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t=1748435645" alt="5">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t=1748744917" alt="5">
              </td>
          </tr>
      </table>
@@ -358,4 +358,4 @@
     </details>
 </details>
 
-✨ Последнее обновление: Wed May 28 12:34:05 UTC 2025
+✨ Последнее обновление: Sun Jun  1 02:28:37 UTC 2025
