@@ -17,13 +17,10 @@
 
   ![Axiom](https://repobeats.axiom.co/api/embed/8a1aacfa99bc79a299939728ce7a43f69271fe8b.svg)
 </div>
-<h2  align="center">🚀 Версия v.4.4a.0</h2>
+<h2  align="center">🚀 Версия v.4.5a.0</h2>
 <h3  align="left">🔹 Что изменилось:</h3>
 <ul style="text-align: left;">
-    <li>Переведен <b>4 Акт A ветки 4 Главы</b></li>
-    <li>Добавлен подробный перевод описаний всех элементов в <code>Модификация элемента</code></li>
-    <li>Изменены формат отображения перевода <code>Митотический экземпляр Шрайк</code> (есть недоперевод вне контекста)</li>
-    <li>Добавлен подробный перевод описаний ключевых элементов боя и их описание в бою</li>
+    <li>Переведен <b>5 Акт A ветки 4 Главы</b></li>
     <li>Мелкие изменения текста (вне контекста)</li>
 </ul>
 
@@ -36,31 +33,31 @@
          <tr>
              <td>1 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t=1749954102" alt="1">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/1/progress/?t=1749141316" alt="1">
              </td>
          </tr>
          <tr>
              <td>2 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t=1749954102" alt="2">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/2/progress/?t=1749141316" alt="2">
              </td>
          </tr>
          <tr>
              <td>3 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t=1749954102" alt="3">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/3/progress/?t=1749141316" alt="3">
              </td>
          </tr>
          <tr>
              <td>4 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t=1749954102" alt="4">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/4/progress/?t=1749141316" alt="4">
              </td>
          </tr>
            <tr>
              <td>5 Глава</td>
              <td>
-               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t=1749954102" alt="5">
+               <img src="https://api.catgirllover.ru/api/badge/Reverse-Collapse-RUS/5/progress/?t=1749141316" alt="5">
              </td>
          </tr>
      </table>
@@ -148,6 +145,17 @@
 <!-- <h2 align="center">📌 Список изменений</h2> -->
 <details align="center">
     <summary><h2>📌 Список изменений</h2></summary>
+    <details align="left">
+        <summary>📂 Версия v.4.4a.0</summary>
+        <h3>🔹 Что изменилось:</h3>
+        <ul style="text-align: left;">
+            <li>Переведен <b>4 Акт A ветки 4 Главы</b></li>
+            <li>Добавлен подробный перевод описаний всех элементов в <code>Модификация элемента</code></li>
+            <li>Изменены формат отображения перевода <code>Митотический экземпляр Шрайк</code> (есть недоперевод вне контекста)</li>
+            <li>Добавлен подробный перевод описаний ключевых элементов боя и их описание в бою</li>
+            <li>Мелкие изменения текста (вне контекста)</li>
+        </ul>
+    </details>
     <details align="left">
         <summary>📂 Версия v.4.3a-div2.0</summary>
         <h3>🔹 Что изменилось:</h3>
@@ -369,4 +377,4 @@
     </details>
 </details>
 
-✨ Последнее обновление: Sun Jun 15 02:21:42 UTC 2025
+✨ Последнее обновление: Thu Jun  5 16:35:16 UTC 2025
