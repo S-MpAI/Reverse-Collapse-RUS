@@ -104,6 +104,15 @@
 > Вы можете помогать с переводом в <a href="https://github.com/S-MpAI/Reverse-Collapse-RUS/issues" class="button">Issues</a>.
 
 <br>
+
+<details align="center">
+    <summary><h2>📌 Правила перевода проблемных частей</h2></summary>
+    <ul style="text-align: left;">
+      <li>Все названия воинских отрядов и их псивдонимы (пример: Fox, Razor и т.п.) должны быть сохранены в соответствии с контекстом.</li>
+      <li>Werewolf Commando Team должен обязательно переводиться как "Опергруппа Werewolf".</li>
+    </ul>
+</details>
+
 <!-- <h2 align="center">📌 Список изменений</h2> -->
 <details align="center">
     <summary><h2>📌 Список изменений</h2></summary>
@@ -346,5 +355,3 @@
         </ul>
     </details>
 </details>
-
-✨ Последнее обновление: Sun Aug 31 02:01:45 UTC 2025
