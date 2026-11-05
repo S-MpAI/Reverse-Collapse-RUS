@@ -110,6 +110,12 @@
     <ul style="text-align: left;">
       <li>Все названия воинских отрядов и их псивдонимы (пример: Fox, Razor и т.п.) должны быть сохранены в соответствии с контекстом.</li>
       <li>Werewolf Commando Team должен обязательно переводиться как "Опергруппа Werewolf".</li>
+      <details align="left">
+          <summary>Взаимоотношения в диалогах</summary>
+          <ul style="text-align: left;">
+              <li>Джевон <-> Джефути - ВЫ</li>
+          </ul>
+      </details>
     </ul>
 </details>
 
